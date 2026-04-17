@@ -1,0 +1,74 @@
+# ======================
+# OS / Editor
+# ======================
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# ======================
+# Python Backend
+# ======================
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+*.egg-info/
+.pytest_cache/
+.mypy_cache/
+.coverage
+htmlcov/
+
+# Virtual Environments
+venv/
+.venv/
+env/
+ENV/
+proctor-x-backend/.venv/
+proctor-x-backend/venv/
+
+# Python env files
+*.env
+.env
+
+# ======================
+# Node / Frontend
+# ======================
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Build folders
+dist/
+build/
+.next/
+out/
+
+# Frontend env files
+proctor-x-frontend/.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# ======================
+# Project Generated Files
+# ======================
+*.log
+*.tmp
+*.bak
+
+# ======================
+# Model / Large Files (optional)
+# ======================
+*.pt
+*.pth
+*.onnx
+
+# ======================
+# Data folders (ignore if generated)
+# ======================
+proctor-x-backend/data_backup_*/
