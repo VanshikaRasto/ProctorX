@@ -1,0 +1,77 @@
+{
+  "id": "1644a7a0-21f4-4900-ac3a-0ff468e42b86",
+  "exam_id": "exam_20260316_160624",
+  "student_id": "aaf6bffb-beda-4524-8445-3c90d5c69d65",
+  "student_name": "Vanshika Rastogi",
+  "answers": [
+    {
+      "question_id": "q1",
+      "answer": "",
+      "time_spent_seconds": null,
+      "question_type": null
+    },
+    {
+      "question_id": "q2",
+      "answer": "",
+      "time_spent_seconds": null,
+      "question_type": null
+    },
+    {
+      "question_id": "q3",
+      "answer": "",
+      "time_spent_seconds": null,
+      "question_type": null
+    },
+    {
+      "question_id": "q4",
+      "answer": "",
+      "time_spent_seconds": null,
+      "question_type": null
+    },
+    {
+      "question_id": "q5",
+      "answer": "",
+      "time_spent_seconds": null,
+      "question_type": null
+    },
+    {
+      "question_id": "q6",
+      "answer": "",
+      "time_spent_seconds": null,
+      "question_type": null
+    },
+    {
+      "question_id": "q7",
+      "answer": "",
+      "time_spent_seconds": null,
+      "question_type": null
+    },
+    {
+      "question_id": "q8",
+      "answer": "",
+      "time_spent_seconds": null,
+      "question_type": null
+    },
+    {
+      "question_id": "q9",
+      "answer": "",
+      "time_spent_seconds": null,
+      "question_type": null
+    },
+    {
+      "question_id": "q10",
+      "answer": "",
+      "time_spent_seconds": null,
+      "question_type": null
+    }
+  ],
+  "submitted_at": "2026-03-16 16:09:11.265984",
+  "time_taken_minutes": 1,
+  "violations": [],
+  "status": "submitted",
+  "exam_status": "completed",
+  "total_questions": null,
+  "answered_questions": null,
+  "submission_timestamp": null,
+  "proctoring_data": null
+}

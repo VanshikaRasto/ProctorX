@@ -1,0 +1,34 @@
+{
+  "id": "35353905-8391-4c62-9b78-7473c4dcd905",
+  "exam_id": "exam_20260205_233038",
+  "student_id": "b39377f5-b3b8-48ac-801e-ec6ff1e456d3",
+  "answers": [
+    {
+      "question_id": "Q1",
+      "answer": "",
+      "time_spent_seconds": null,
+      "question_type": null
+    },
+    {
+      "question_id": "Q2",
+      "answer": "",
+      "time_spent_seconds": null,
+      "question_type": null
+    },
+    {
+      "question_id": "Q3",
+      "answer": "",
+      "time_spent_seconds": null,
+      "question_type": null
+    }
+  ],
+  "submitted_at": "2026-02-24 23:39:23.678393",
+  "time_taken_minutes": 1,
+  "violations": [],
+  "status": "submitted",
+  "exam_status": "completed",
+  "total_questions": null,
+  "answered_questions": null,
+  "submission_timestamp": null,
+  "proctoring_data": null
+}

@@ -1,0 +1,77 @@
+{
+  "id": "d52590d8-4b57-4cb1-8e14-656ed4b9548c",
+  "exam_id": "exam_20260314_010054",
+  "student_id": "69e743f9-60fb-4c11-a907-c83357618dbf",
+  "student_name": "vanshikastudent",
+  "answers": [
+    {
+      "question_id": "q1",
+      "answer": "Central Processing Unit",
+      "time_spent_seconds": null,
+      "question_type": null
+    },
+    {
+      "question_id": "q2",
+      "answer": "JavaScript",
+      "time_spent_seconds": null,
+      "question_type": null
+    },
+    {
+      "question_id": "q3",
+      "answer": "Temporary memory for running programs",
+      "time_spent_seconds": null,
+      "question_type": null
+    },
+    {
+      "question_id": "q4",
+      "answer": "Python",
+      "time_spent_seconds": null,
+      "question_type": null
+    },
+    {
+      "question_id": "q5",
+      "answer": "Hyper Text Markup Language",
+      "time_spent_seconds": null,
+      "question_type": null
+    },
+    {
+      "question_id": "q6",
+      "answer": "Queue",
+      "time_spent_seconds": null,
+      "question_type": null
+    },
+    {
+      "question_id": "q7",
+      "answer": "1010",
+      "time_spent_seconds": null,
+      "question_type": null
+    },
+    {
+      "question_id": "q8",
+      "answer": "Hardware Programming",
+      "time_spent_seconds": null,
+      "question_type": null
+    },
+    {
+      "question_id": "q9",
+      "answer": "To manage computer hardware and software resources",
+      "time_spent_seconds": null,
+      "question_type": null
+    },
+    {
+      "question_id": "q10",
+      "answer": "#",
+      "time_spent_seconds": null,
+      "question_type": null
+    }
+  ],
+  "submitted_at": "2026-03-14 01:11:03.138249",
+  "time_taken_minutes": 1,
+  "violations": [],
+  "status": "submitted",
+  "exam_status": "completed",
+  "total_questions": null,
+  "answered_questions": null,
+  "submission_timestamp": null,
+  "proctoring_data": null
+}

@@ -1,0 +1,112 @@
+Sample Exam: Computer Fundamentals and Programming
+==================================================
+
+QUESTION_ID: q1
+TYPE: mcq
+POINTS: 2
+QUESTION: What does CPU stand for?
+OPTIONS:
+A) Central Processing Unit
+B) Computer Processing Unit
+C) Central Program Unit
+D) Computer Personal Unit
+CORRECT: A
+
+QUESTION_ID: q2
+TYPE: mcq
+POINTS: 2
+QUESTION: Which programming language is known as the "language of the web"?
+OPTIONS:
+A) Python
+B) Java
+C) JavaScript
+D) C++
+CORRECT: C
+
+QUESTION_ID: q3
+TYPE: mcq
+POINTS: 2
+QUESTION: What is the purpose of RAM in a computer?
+OPTIONS:
+A) Long-term storage
+B) Temporary memory for running programs
+C) Processing calculations
+D) Display output
+CORRECT: B
+
+QUESTION_ID: q4
+TYPE: mcq
+POINTS: 2
+QUESTION: Which of the following is a high-level programming language?
+OPTIONS:
+A) Assembly
+B) Machine Code
+C) Python
+D) Binary
+CORRECT: C
+
+QUESTION_ID: q5
+TYPE: mcq
+POINTS: 2
+QUESTION: What does HTML stand for?
+OPTIONS:
+A) Hyper Text Markup Language
+B) High Tech Modern Language
+C) Home Tool Markup Language
+D) Hyperlinks and Text Markup Language
+CORRECT: A
+
+QUESTION_ID: q6
+TYPE: mcq
+POINTS: 2
+QUESTION: Which data structure follows the principle of "Last In, First Out" (LIFO)?
+OPTIONS:
+A) Queue
+B) Stack
+C) Array
+D) Linked List
+CORRECT: B
+
+QUESTION_ID: q7
+TYPE: mcq
+POINTS: 2
+QUESTION: What is the binary representation of the decimal number 10?
+OPTIONS:
+A) 1000
+B) 1010
+C) 1100
+D) 1110
+CORRECT: B
+
+QUESTION_ID: q8
+TYPE: mcq
+POINTS: 2
+QUESTION: Which of the following is NOT a programming paradigm?
+OPTIONS:
+A) Object-Oriented Programming
+B) Functional Programming
+C) Procedural Programming
+D) Hardware Programming
+CORRECT: D
+
+QUESTION_ID: q9
+TYPE: mcq
+POINTS: 2
+QUESTION: What is the main purpose of an operating system?
+OPTIONS:
+A) To write programs
+B) To manage computer hardware and software resources
+C) To design websites
+D) To compile code
+CORRECT: B
+
+QUESTION_ID: q10
+TYPE: mcq
+POINTS: 2
+QUESTION: Which symbol is used for comments in Python?
+OPTIONS:
+A) //
+B) /* */
+C) #
+D) <!-- -->
+CORRECT: C

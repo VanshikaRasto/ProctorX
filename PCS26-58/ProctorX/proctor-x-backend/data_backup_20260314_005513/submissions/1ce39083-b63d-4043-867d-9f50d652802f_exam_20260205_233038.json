@@ -1,0 +1,51 @@
+{
+  "id": "637cbcb7-9eae-4c26-a1d7-f98a469fb724",
+  "exam_id": "exam_20260205_233038",
+  "student_id": "1ce39083-b63d-4043-867d-9f50d652802f",
+  "answers": [
+    {
+      "question_id": "Q1",
+      "answer": "",
+      "time_spent_seconds": null,
+      "question_type": null
+    },
+    {
+      "question_id": "Q2",
+      "answer": "",
+      "time_spent_seconds": null,
+      "question_type": null
+    },
+    {
+      "question_id": "Q3",
+      "answer": "",
+      "time_spent_seconds": null,
+      "question_type": null
+    }
+  ],
+  "submitted_at": "2026-03-14 00:50:13.909293",
+  "time_taken_minutes": 3,
+  "violations": [
+    "phone_detected (critical): Phone detected: cell phone (confidence: 0.61)",
+    "phone_detected (critical): Phone detected: cell phone (confidence: 0.41)",
+    "phone_detected (critical): Phone detected: cell phone (confidence: 0.30)",
+    "phone_detected (critical): Phone detected: cell phone (confidence: 0.43)",
+    "phone_detected (critical): Phone detected: cell phone (confidence: 0.89)",
+    "phone_detected (critical): Phone detected: cell phone (confidence: 0.42)",
+    "phone_detected (critical): Phone detected: cell phone (confidence: 0.61)",
+    "exam_suspended (critical): Exam automatically revoked due to phone violations: Phone detection threshold exceeded: 4 detections",
+    "phone_detected (critical): Phone detected: cell phone (confidence: 0.69)",
+    "suspicious_object (medium): Suspicious object: remote (confidence: 0.54)",
+    "phone_detected (critical): Phone detected: cell phone (confidence: 0.60)",
+    "phone_detected (critical): Phone detected: cell phone (confidence: 0.72)",
+    "phone_detected (critical): Phone detected: cell phone (confidence: 0.37)",
+    "phone_detected (critical): Phone detected: cell phone (confidence: 0.55)",
+    "Tab switching detected 1 times",
+    "Object detection violations: 13"
+  ],
+  "status": "submitted",
+  "exam_status": "completed",
+  "total_questions": null,
+  "answered_questions": null,
+  "submission_timestamp": null,
+  "proctoring_data": null
+}

@@ -1,0 +1,32 @@
+{
+  "exam_20260205_233038_1ce39083-b63d-4043-867d-9f50d652802f": {
+    "exam_id": "exam_20260205_233038",
+    "student_id": "1ce39083-b63d-4043-867d-9f50d652802f",
+    "high_confidence_detections": [
+      {
+        "timestamp": "2026-03-14T00:44:41.344223",
+        "confidence": 0.9278087019920349,
+        "detection_id": "cc2bdaa2-83b6-43b3-a3dd-a59c8b8da6b2"
+      },
+      {
+        "timestamp": "2026-03-14T00:46:13.276669",
+        "confidence": 0.6096528768539429,
+        "detection_id": "00ff6317-3713-4179-b8c8-db3982f33a03"
+      },
+      {
+        "timestamp": "2026-03-14T00:46:38.270633",
+        "confidence": 0.8919867277145386,
+        "detection_id": "70484489-d48d-4562-bf4d-566111c707bf"
+      },
+      {
+        "timestamp": "2026-03-14T00:46:53.277078",
+        "confidence": 0.613323450088501,
+        "detection_id": "4e51d992-73f8-4104-8aba-a9f5cd808061"
+      }
+    ],
+    "first_detection": "2026-03-14T00:44:41.344213",
+    "exam_revoked": true,
+    "revocation_timestamp": "2026-03-14T00:46:53.277112",
+    "revocation_reason": "More than 3 phone detections with confidence > 60%"
+  }
+}

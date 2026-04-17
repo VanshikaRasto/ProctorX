@@ -1,0 +1,330 @@
+{
+  "43974b51-4ac2-41dc-9263-ff3df10de88b": {
+    "id": "43974b51-4ac2-41dc-9263-ff3df10de88b",
+    "exam_id": "exam_20250822_015305",
+    "student_id": "58c45955-8201-4056-aa5d-97799252bdb3",
+    "submission_id": "c2272ade-67f5-441e-9b76-fe377c0c054b",
+    "question_results": [
+      {
+        "question_id": "q1",
+        "student_answer": "Berlin",
+        "correct_answer": "Paris",
+        "points_awarded": 0,
+        "max_points": 2,
+        "is_correct": false
+      },
+      {
+        "question_id": "q2",
+        "student_answer": "JavaScript",
+        "correct_answer": "JavaScript",
+        "points_awarded": 1,
+        "max_points": 1,
+        "is_correct": true
+      },
+      {
+        "question_id": "q3",
+        "student_answer": "Hyperlink and Text Markup Language",
+        "correct_answer": "Hypertext Markup Language",
+        "points_awarded": 0,
+        "max_points": 3,
+        "is_correct": false
+      },
+      {
+        "question_id": "q4",
+        "student_answer": "PostgreSQL",
+        "correct_answer": "MongoDB",
+        "points_awarded": 0,
+        "max_points": 2,
+        "is_correct": false
+      },
+      {
+        "question_id": "q5",
+        "student_answer": "40",
+        "correct_answer": "40",
+        "points_awarded": 1,
+        "max_points": 1,
+        "is_correct": true
+      },
+      {
+        "question_id": "q6",
+        "student_answer": "500",
+        "correct_answer": "404",
+        "points_awarded": 0,
+        "max_points": 2,
+        "is_correct": false
+      },
+      {
+        "question_id": "q7",
+        "student_answer": "Cascading Style Sheets",
+        "correct_answer": "Cascading Style Sheets",
+        "points_awarded": 1,
+        "max_points": 1,
+        "is_correct": true
+      },
+      {
+        "question_id": "q8",
+        "student_answer": "Stack",
+        "correct_answer": "Stack",
+        "points_awarded": 3,
+        "max_points": 3,
+        "is_correct": true
+      },
+      {
+        "question_id": "q9",
+        "student_answer": "Improve graphics performance",
+        "correct_answer": "Block unwanted network traffic",
+        "points_awarded": 0,
+        "max_points": 2,
+        "is_correct": false
+      },
+      {
+        "question_id": "q10",
+        "student_answer": "Microsoft",
+        "correct_answer": "Facebook (Meta)",
+        "points_awarded": 0,
+        "max_points": 1,
+        "is_correct": false
+      }
+    ],
+    "total_score": 6,
+    "max_score": 18,
+    "percentage": 33.33333333333333,
+    "grade": null,
+    "evaluated_at": "2025-08-22 03:18:59.288743",
+    "evaluated_by": "system",
+    "released": true,
+    "released_at": "2025-08-22T03:20:43.938043"
+  },
+  "4550e7ff-d756-42fb-906b-aae9eaaeb461": {
+    "id": "4550e7ff-d756-42fb-906b-aae9eaaeb461",
+    "exam_id": "exam_20250822_032140",
+    "student_id": "58c45955-8201-4056-aa5d-97799252bdb3",
+    "submission_id": "6fa3decc-d45a-4f83-aacb-b0c4022a4a7e",
+    "question_results": [
+      {
+        "question_id": "q1",
+        "student_answer": "Paris",
+        "correct_answer": "Paris",
+        "points_awarded": 2,
+        "max_points": 2,
+        "is_correct": true
+      },
+      {
+        "question_id": "q2",
+        "student_answer": "JavaScript",
+        "correct_answer": "JavaScript",
+        "points_awarded": 1,
+        "max_points": 1,
+        "is_correct": true
+      },
+      {
+        "question_id": "q3",
+        "student_answer": "Hypertext Markup Language",
+        "correct_answer": "Hypertext Markup Language",
+        "points_awarded": 3,
+        "max_points": 3,
+        "is_correct": true
+      },
+      {
+        "question_id": "q4",
+        "student_answer": "MongoDB",
+        "correct_answer": "MongoDB",
+        "points_awarded": 2,
+        "max_points": 2,
+        "is_correct": true
+      },
+      {
+        "question_id": "q5",
+        "student_answer": "35",
+        "correct_answer": "40",
+        "points_awarded": 0,
+        "max_points": 1,
+        "is_correct": false
+      },
+      {
+        "question_id": "q6",
+        "student_answer": "404",
+        "correct_answer": "404",
+        "points_awarded": 2,
+        "max_points": 2,
+        "is_correct": true
+      },
+      {
+        "question_id": "q7",
+        "student_answer": "Cascading Style Sheets",
+        "correct_answer": "Cascading Style Sheets",
+        "points_awarded": 1,
+        "max_points": 1,
+        "is_correct": true
+      },
+      {
+        "question_id": "q8",
+        "student_answer": "Stack",
+        "correct_answer": "Stack",
+        "points_awarded": 3,
+        "max_points": 3,
+        "is_correct": true
+      },
+      {
+        "question_id": "q9",
+        "student_answer": "Block unwanted network traffic",
+        "correct_answer": "Block unwanted network traffic",
+        "points_awarded": 2,
+        "max_points": 2,
+        "is_correct": true
+      },
+      {
+        "question_id": "q10",
+        "student_answer": "Facebook (Meta)",
+        "correct_answer": "Facebook (Meta)",
+        "points_awarded": 1,
+        "max_points": 1,
+        "is_correct": true
+      }
+    ],
+    "total_score": 17,
+    "max_score": 18,
+    "percentage": 94.44444444444444,
+    "grade": null,
+    "evaluated_at": "2025-08-22 03:24:19.054555",
+    "evaluated_by": "system",
+    "released": true,
+    "released_at": "2025-08-22T03:24:25.301388"
+  },
+  "e62ee46d-5916-469c-af3f-509dcb1a17b9": {
+    "id": "e62ee46d-5916-469c-af3f-509dcb1a17b9",
+    "exam_id": "exam_20250822_040436",
+    "student_id": "58c45955-8201-4056-aa5d-97799252bdb3",
+    "submission_id": "358ebbe0-dabc-4725-bd4b-76ae9434e42f",
+    "question_results": [
+      {
+        "question_id": "q1",
+        "student_answer": "Paris",
+        "correct_answer": "Paris",
+        "points_awarded": 2,
+        "max_points": 2,
+        "is_correct": true
+      },
+      {
+        "question_id": "q2",
+        "student_answer": "Java",
+        "correct_answer": "JavaScript",
+        "points_awarded": 0,
+        "max_points": 1,
+        "is_correct": false
+      },
+      {
+        "question_id": "q3",
+        "student_answer": "Hyperlink and Text Markup Language",
+        "correct_answer": "Hypertext Markup Language",
+        "points_awarded": 0,
+        "max_points": 3,
+        "is_correct": false
+      },
+      {
+        "question_id": "q4",
+        "student_answer": "MongoDB",
+        "correct_answer": "MongoDB",
+        "points_awarded": 2,
+        "max_points": 2,
+        "is_correct": true
+      },
+      {
+        "question_id": "q5",
+        "student_answer": "35",
+        "correct_answer": "40",
+        "points_awarded": 0,
+        "max_points": 1,
+        "is_correct": false
+      },
+      {
+        "question_id": "q6",
+        "student_answer": "500",
+        "correct_answer": "404",
+        "points_awarded": 0,
+        "max_points": 2,
+        "is_correct": false
+      },
+      {
+        "question_id": "q7",
+        "student_answer": "Computer Style Sheets",
+        "correct_answer": "Cascading Style Sheets",
+        "points_awarded": 0,
+        "max_points": 1,
+        "is_correct": false
+      },
+      {
+        "question_id": "q8",
+        "student_answer": "Linked List",
+        "correct_answer": "Stack",
+        "points_awarded": 0,
+        "max_points": 3,
+        "is_correct": false
+      },
+      {
+        "question_id": "q9",
+        "student_answer": "Block unwanted network traffic",
+        "correct_answer": "Block unwanted network traffic",
+        "points_awarded": 2,
+        "max_points": 2,
+        "is_correct": true
+      },
+      {
+        "question_id": "q10",
+        "student_answer": "Facebook (Meta)",
+        "correct_answer": "Facebook (Meta)",
+        "points_awarded": 1,
+        "max_points": 1,
+        "is_correct": true
+      }
+    ],
+    "total_score": 7,
+    "max_score": 18,
+    "percentage": 38.88888888888889,
+    "grade": null,
+    "evaluated_at": "2025-08-22 04:05:58.488700",
+    "evaluated_by": "system",
+    "released": true,
+    "released_at": "2025-08-22T04:06:38.466366"
+  },
+  "c010da45-10f2-40a0-be28-59411cc67366": {
+    "id": "c010da45-10f2-40a0-be28-59411cc67366",
+    "exam_id": "exam_20260205_233038",
+    "student_id": "58c45955-8201-4056-aa5d-97799252bdb3",
+    "submission_id": "1df20dcc-6ad7-46c2-8c97-1024c51f3740",
+    "question_results": [
+      {
+        "question_id": "Q1",
+        "student_answer": "",
+        "correct_answer": "Paris",
+        "points_awarded": 0,
+        "max_points": 1,
+        "is_correct": false
+      },
+      {
+        "question_id": "Q2",
+        "student_answer": "",
+        "correct_answer": "Queue",
+        "points_awarded": 0,
+        "max_points": 2,
+        "is_correct": false
+      },
+      {
+        "question_id": "Q3",
+        "student_answer": "",
+        "correct_answer": "HyperText Transfer Protocol",
+        "points_awarded": 0,
+        "max_points": 1,
+        "is_correct": false
+      }
+    ],
+    "total_score": 0,
+    "max_score": 4,
+    "percentage": 0.0,
+    "grade": null,
+    "evaluated_at": "2026-02-06 19:02:35.010496",
+    "evaluated_by": "system",
+    "released": true,
+    "released_at": "2026-02-06T19:02:39.873640"
+  }
+}

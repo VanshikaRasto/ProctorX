@@ -1,0 +1,61 @@
+{
+  "id": "358ebbe0-dabc-4725-bd4b-76ae9434e42f",
+  "exam_id": "exam_20250822_040436",
+  "student_id": "58c45955-8201-4056-aa5d-97799252bdb3",
+  "answers": [
+    {
+      "question_id": "q1",
+      "answer": "Paris",
+      "time_spent_seconds": null
+    },
+    {
+      "question_id": "q2",
+      "answer": "Java",
+      "time_spent_seconds": null
+    },
+    {
+      "question_id": "q3",
+      "answer": "Hyperlink and Text Markup Language",
+      "time_spent_seconds": null
+    },
+    {
+      "question_id": "q4",
+      "answer": "MongoDB",
+      "time_spent_seconds": null
+    },
+    {
+      "question_id": "q5",
+      "answer": "35",
+      "time_spent_seconds": null
+    },
+    {
+      "question_id": "q6",
+      "answer": "500",
+      "time_spent_seconds": null
+    },
+    {
+      "question_id": "q7",
+      "answer": "Computer Style Sheets",
+      "time_spent_seconds": null
+    },
+    {
+      "question_id": "q8",
+      "answer": "Linked List",
+      "time_spent_seconds": null
+    },
+    {
+      "question_id": "q9",
+      "answer": "Block unwanted network traffic",
+      "time_spent_seconds": null
+    },
+    {
+      "question_id": "q10",
+      "answer": "Facebook (Meta)",
+      "time_spent_seconds": null
+    }
+  ],
+  "submitted_at": "2025-08-22 04:05:23.851911",
+  "time_taken_minutes": 1,
+  "violations": [],
+  "status": "submitted"
+}

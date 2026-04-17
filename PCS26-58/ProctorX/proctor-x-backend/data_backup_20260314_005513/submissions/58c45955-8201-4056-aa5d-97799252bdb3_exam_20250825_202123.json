@@ -1,0 +1,61 @@
+{
+  "id": "70be5d0b-c39b-45db-bbbc-e42dd758fe1a",
+  "exam_id": "exam_20250825_202123",
+  "student_id": "58c45955-8201-4056-aa5d-97799252bdb3",
+  "answers": [
+    {
+      "question_id": "q1",
+      "answer": "",
+      "time_spent_seconds": null
+    },
+    {
+      "question_id": "q2",
+      "answer": "",
+      "time_spent_seconds": null
+    },
+    {
+      "question_id": "q3",
+      "answer": "",
+      "time_spent_seconds": null
+    },
+    {
+      "question_id": "q4",
+      "answer": "",
+      "time_spent_seconds": null
+    },
+    {
+      "question_id": "q5",
+      "answer": "",
+      "time_spent_seconds": null
+    },
+    {
+      "question_id": "q6",
+      "answer": "",
+      "time_spent_seconds": null
+    },
+    {
+      "question_id": "q7",
+      "answer": "",
+      "time_spent_seconds": null
+    },
+    {
+      "question_id": "q8",
+      "answer": "",
+      "time_spent_seconds": null
+    },
+    {
+      "question_id": "q9",
+      "answer": "",
+      "time_spent_seconds": null
+    },
+    {
+      "question_id": "q10",
+      "answer": "",
+      "time_spent_seconds": null
+    }
+  ],
+  "submitted_at": "2025-08-25 20:23:05.983186",
+  "time_taken_minutes": 2,
+  "violations": [],
+  "status": "submitted"
+}

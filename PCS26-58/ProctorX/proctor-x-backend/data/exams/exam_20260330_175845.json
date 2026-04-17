@@ -1,0 +1,150 @@
+{
+  "id": "exam_20260330_175845",
+  "title": "test4",
+  "description": "",
+  "exam_type": "mcq",
+  "questions": [
+    {
+      "id": "q1",
+      "question": "What does CPU stand for?",
+      "type": "mcq",
+      "options": [
+        "Central Processing Unit",
+        "Computer Processing Unit",
+        "Central Program Unit",
+        "Computer Personal Unit"
+      ],
+      "correct_answer": "Central Processing Unit",
+      "points": 2
+    },
+    {
+      "id": "q2",
+      "question": "Which programming language is known as the \"language of the web\"?",
+      "type": "mcq",
+      "options": [
+        "Python",
+        "Java",
+        "JavaScript",
+        "C++"
+      ],
+      "correct_answer": "JavaScript",
+      "points": 2
+    },
+    {
+      "id": "q3",
+      "question": "What is the purpose of RAM in a computer?",
+      "type": "mcq",
+      "options": [
+        "Long-term storage",
+        "Temporary memory for running programs",
+        "Processing calculations",
+        "Display output"
+      ],
+      "correct_answer": "Temporary memory for running programs",
+      "points": 2
+    },
+    {
+      "id": "q4",
+      "question": "Which of the following is a high-level programming language?",
+      "type": "mcq",
+      "options": [
+        "Assembly",
+        "Machine Code",
+        "Python",
+        "Binary"
+      ],
+      "correct_answer": "Python",
+      "points": 2
+    },
+    {
+      "id": "q5",
+      "question": "What does HTML stand for?",
+      "type": "mcq",
+      "options": [
+        "Hyper Text Markup Language",
+        "High Tech Modern Language",
+        "Home Tool Markup Language",
+        "Hyperlinks and Text Markup Language"
+      ],
+      "correct_answer": "Hyper Text Markup Language",
+      "points": 2
+    },
+    {
+      "id": "q6",
+      "question": "Which data structure follows the principle of \"Last In, First Out\" (LIFO)?",
+      "type": "mcq",
+      "options": [
+        "Queue",
+        "Stack",
+        "Array",
+        "Linked List"
+      ],
+      "correct_answer": "Stack",
+      "points": 2
+    },
+    {
+      "id": "q7",
+      "question": "What is the binary representation of the decimal number 10?",
+      "type": "mcq",
+      "options": [
+        "1000",
+        "1010",
+        "1100",
+        "1110"
+      ],
+      "correct_answer": "1010",
+      "points": 2
+    },
+    {
+      "id": "q8",
+      "question": "Which of the following is NOT a programming paradigm?",
+      "type": "mcq",
+      "options": [
+        "Object-Oriented Programming",
+        "Functional Programming",
+        "Procedural Programming",
+        "Hardware Programming"
+      ],
+      "correct_answer": "Hardware Programming",
+      "points": 2
+    },
+    {
+      "id": "q9",
+      "question": "What is the main purpose of an operating system?",
+      "type": "mcq",
+      "options": [
+        "To write programs",
+        "To manage computer hardware and software resources",
+        "To design websites",
+        "To compile code"
+      ],
+      "correct_answer": "To manage computer hardware and software resources",
+      "points": 2
+    },
+    {
+      "id": "q10",
+      "question": "Which symbol is used for comments in Python?",
+      "type": "mcq",
+      "options": [
+        "//",
+        "/* */",
+        "#",
+        "<!-- -->"
+      ],
+      "correct_answer": "#",
+      "points": 2
+    }
+  ],
+  "duration_minutes": 60,
+  "total_points": 20,
+  "created_by": "65973af0-0cfd-40a1-ad22-dcf44775a895",
+  "branch": "CS",
+  "created_at": "2026-03-30T17:58:45.307950",
+  "status": "active",
+  "assigned_students": [
+    "aaf6bffb-beda-4524-8445-3c90d5c69d65"
+  ],
+  "approved_students": [
+    "aaf6bffb-beda-4524-8445-3c90d5c69d65"
+  ]
+}

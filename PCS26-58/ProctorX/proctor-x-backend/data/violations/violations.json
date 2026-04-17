@@ -1,0 +1,3948 @@
+{
+  "30216ce3-c69d-428a-aff8-26d4b5179c00": {
+    "id": "30216ce3-c69d-428a-aff8-26d4b5179c00",
+    "exam_id": "exam_20260314_010054",
+    "student_name": "teststudent",
+    "student_id": "e65e91e9-0ac2-4a20-ae29-62d302d89f34",
+    "type": "phone_detected",
+    "severity": "critical",
+    "description": "Phone detected: cell phone (confidence: 0.58)",
+    "timestamp": "2026-03-14 01:02:21.297388",
+    "metadata": {
+      "class_name": "cell phone",
+      "confidence": 0.5754794478416443,
+      "bbox": [
+        309,
+        152,
+        91,
+        68
+      ],
+      "method": "YOLO",
+      "phone_tracking": {
+        "should_revoke": false,
+        "count": 0,
+        "threshold_exceeded": false
+      }
+    },
+    "action_taken": null,
+    "confidence_score": 0.5754794478416443,
+    "detection_method": "YOLO"
+  },
+  "1cbea6df-88a1-46f6-94bd-1337ed1e18a7": {
+    "id": "1cbea6df-88a1-46f6-94bd-1337ed1e18a7",
+    "exam_id": "exam_20260314_010054",
+    "student_name": "teststudent",
+    "student_id": "e65e91e9-0ac2-4a20-ae29-62d302d89f34",
+    "type": "tab_switch",
+    "severity": "medium",
+    "description": "Tab switch detected (3s hidden, 1 total)",
+    "timestamp": "2026-03-14 01:02:27.238625",
+    "metadata": {
+      "count": 1,
+      "duration_ms": 2870,
+      "timestamp": "2026-03-14T01:02:27.230Z",
+      "threshold_exceeded": false,
+      "exam_terminated": false,
+      "termination_reason": null
+    },
+    "action_taken": null,
+    "confidence_score": null,
+    "detection_method": null
+  },
+  "ecbcf814-5e53-4116-ac15-344bc43e6886": {
+    "id": "ecbcf814-5e53-4116-ac15-344bc43e6886",
+    "exam_id": "exam_20260314_010054",
+    "student_name": "teststudent",
+    "student_id": "e65e91e9-0ac2-4a20-ae29-62d302d89f34",
+    "type": "tab_switch",
+    "severity": "medium",
+    "description": "Tab switch detected (3s hidden, 1 total)",
+    "timestamp": "2026-03-14 01:02:27.239722",
+    "metadata": {
+      "count": 1,
+      "duration_ms": 2870,
+      "timestamp": "2026-03-14T01:02:27.232Z",
+      "threshold_exceeded": false,
+      "exam_terminated": false,
+      "termination_reason": null
+    },
+    "action_taken": null,
+    "confidence_score": null,
+    "detection_method": null
+  },
+  "e751a8ad-d377-42bd-9938-9e2cdada7681": {
+    "id": "e751a8ad-d377-42bd-9938-9e2cdada7681",
+    "exam_id": "exam_20260314_010054",
+    "student_name": "teststudent",
+    "student_id": "e65e91e9-0ac2-4a20-ae29-62d302d89f34",
+    "type": "phone_detected",
+    "severity": "critical",
+    "description": "Phone detected: cell phone (confidence: 0.78)",
+    "timestamp": "2026-03-14 01:02:31.307337",
+    "metadata": {
+      "class_name": "cell phone",
+      "confidence": 0.7752676010131836,
+      "bbox": [
+        423,
+        228,
+        130,
+        203
+      ],
+      "method": "YOLO",
+      "phone_tracking": {
+        "should_revoke": false,
+        "count": 1,
+        "threshold": 3,
+        "threshold_exceeded": false,
+        "detections": [
+          {
+            "timestamp": "2026-03-14T01:02:31.306466",
+            "confidence": 0.7752676010131836,
+            "detection_id": "30ef0389-36d0-45dd-80a7-74e765d2bf59"
+          }
+        ]
+      }
+    },
+    "action_taken": null,
+    "confidence_score": 0.7752676010131836,
+    "detection_method": "YOLO"
+  },
+  "554ea733-8788-4e84-bb7b-fae387f679b1": {
+    "id": "554ea733-8788-4e84-bb7b-fae387f679b1",
+    "exam_id": "exam_20260314_010054",
+    "student_name": "teststudent",
+    "student_id": "e65e91e9-0ac2-4a20-ae29-62d302d89f34",
+    "type": "phone_detected",
+    "severity": "critical",
+    "description": "Phone detected: cell phone (confidence: 0.35)",
+    "timestamp": "2026-03-14 01:02:41.310437",
+    "metadata": {
+      "class_name": "cell phone",
+      "confidence": 0.35374271869659424,
+      "bbox": [
+        483,
+        213,
+        156,
+        207
+      ],
+      "method": "YOLO",
+      "phone_tracking": {
+        "should_revoke": false,
+        "count": 0,
+        "threshold_exceeded": false
+      }
+    },
+    "action_taken": null,
+    "confidence_score": 0.35374271869659424,
+    "detection_method": "YOLO"
+  },
+  "1516bad3-fa2a-46ea-92b9-065982a13ee4": {
+    "id": "1516bad3-fa2a-46ea-92b9-065982a13ee4",
+    "exam_id": "exam_20260314_010054",
+    "student_name": "teststudent",
+    "student_id": "e65e91e9-0ac2-4a20-ae29-62d302d89f34",
+    "type": "phone_detected",
+    "severity": "critical",
+    "description": "Phone detected: cell phone (confidence: 0.74)",
+    "timestamp": "2026-03-14 01:02:51.313324",
+    "metadata": {
+      "class_name": "cell phone",
+      "confidence": 0.7368550300598145,
+      "bbox": [
+        314,
+        173,
+        245,
+        259
+      ],
+      "method": "YOLO",
+      "phone_tracking": {
+        "should_revoke": false,
+        "count": 2,
+        "threshold": 3,
+        "threshold_exceeded": false,
+        "detections": [
+          {
+            "timestamp": "2026-03-14T01:02:31.306466",
+            "confidence": 0.7752676010131836,
+            "detection_id": "30ef0389-36d0-45dd-80a7-74e765d2bf59"
+          },
+          {
+            "timestamp": "2026-03-14T01:02:51.312840",
+            "confidence": 0.7368550300598145,
+            "detection_id": "d221bfac-1757-4cf9-8fdc-d695632279b2"
+          }
+        ]
+      }
+    },
+    "action_taken": null,
+    "confidence_score": 0.7368550300598145,
+    "detection_method": "YOLO"
+  },
+  "bd89833d-6f9c-4099-a6b7-df59baef9626": {
+    "id": "bd89833d-6f9c-4099-a6b7-df59baef9626",
+    "exam_id": "exam_20260314_010054",
+    "student_name": "teststudent",
+    "student_id": "e65e91e9-0ac2-4a20-ae29-62d302d89f34",
+    "type": "suspicious_object",
+    "severity": "medium",
+    "description": "Suspicious object: laptop (confidence: 0.57)",
+    "timestamp": "2026-03-14 01:03:01.312169",
+    "metadata": {
+      "class_name": "laptop",
+      "confidence": 0.5730109214782715,
+      "bbox": [
+        554,
+        321,
+        85,
+        158
+      ],
+      "method": "YOLO"
+    },
+    "action_taken": null,
+    "confidence_score": 0.5730109214782715,
+    "detection_method": "YOLO"
+  },
+  "8a5dbf94-c91b-4727-9acf-b6fbf025b18c": {
+    "id": "8a5dbf94-c91b-4727-9acf-b6fbf025b18c",
+    "exam_id": "exam_20260314_010054",
+    "student_name": "teststudent",
+    "student_id": "e65e91e9-0ac2-4a20-ae29-62d302d89f34",
+    "type": "tab_switch",
+    "severity": "high",
+    "description": "Tab switch detected (2s hidden, 2 total)",
+    "timestamp": "2026-03-14 01:03:03.844499",
+    "metadata": {
+      "count": 2,
+      "duration_ms": 2221,
+      "timestamp": "2026-03-14T01:03:03.838Z",
+      "threshold_exceeded": false,
+      "exam_terminated": false,
+      "termination_reason": null
+    },
+    "action_taken": null,
+    "confidence_score": null,
+    "detection_method": null
+  },
+  "200fae02-a5b5-4362-93d9-ed7133f3af6f": {
+    "id": "200fae02-a5b5-4362-93d9-ed7133f3af6f",
+    "exam_id": "exam_20260314_010054",
+    "student_name": "teststudent",
+    "student_id": "e65e91e9-0ac2-4a20-ae29-62d302d89f34",
+    "type": "tab_switch",
+    "severity": "high",
+    "description": "Tab switch detected (2s hidden, 2 total)",
+    "timestamp": "2026-03-14 01:03:03.847517",
+    "metadata": {
+      "count": 2,
+      "duration_ms": 2221,
+      "timestamp": "2026-03-14T01:03:03.839Z",
+      "threshold_exceeded": false,
+      "exam_terminated": false,
+      "termination_reason": null
+    },
+    "action_taken": null,
+    "confidence_score": null,
+    "detection_method": null
+  },
+  "c92a395e-1f74-43df-811f-f4418db68030": {
+    "id": "c92a395e-1f74-43df-811f-f4418db68030",
+    "exam_id": "exam_20260314_010054",
+    "student_name": "teststudent",
+    "student_id": "e65e91e9-0ac2-4a20-ae29-62d302d89f34",
+    "type": "phone_detected",
+    "severity": "critical",
+    "description": "Phone detected: cell phone (confidence: 0.84)",
+    "timestamp": "2026-03-14 01:03:16.314158",
+    "metadata": {
+      "class_name": "cell phone",
+      "confidence": 0.8352630734443665,
+      "bbox": [
+        319,
+        191,
+        130,
+        157
+      ],
+      "method": "YOLO",
+      "phone_tracking": {
+        "should_revoke": false,
+        "count": 3,
+        "threshold": 3,
+        "threshold_exceeded": false,
+        "detections": [
+          {
+            "timestamp": "2026-03-14T01:02:31.306466",
+            "confidence": 0.7752676010131836,
+            "detection_id": "30ef0389-36d0-45dd-80a7-74e765d2bf59"
+          },
+          {
+            "timestamp": "2026-03-14T01:02:51.312840",
+            "confidence": 0.7368550300598145,
+            "detection_id": "d221bfac-1757-4cf9-8fdc-d695632279b2"
+          },
+          {
+            "timestamp": "2026-03-14T01:03:16.313607",
+            "confidence": 0.8352630734443665,
+            "detection_id": "a16e62b7-ecec-43e1-84e7-7724406da9cc"
+          }
+        ]
+      }
+    },
+    "action_taken": null,
+    "confidence_score": 0.8352630734443665,
+    "detection_method": "YOLO"
+  },
+  "8ffe2e7a-7b25-44d3-82b9-d23ff5a05d77": {
+    "id": "8ffe2e7a-7b25-44d3-82b9-d23ff5a05d77",
+    "exam_id": "exam_20260314_010054",
+    "student_name": "teststudent",
+    "student_id": "e65e91e9-0ac2-4a20-ae29-62d302d89f34",
+    "type": "phone_detected",
+    "severity": "critical",
+    "description": "Phone detected: cell phone (confidence: 0.43)",
+    "timestamp": "2026-03-14 01:03:21.311842",
+    "metadata": {
+      "class_name": "cell phone",
+      "confidence": 0.429217666387558,
+      "bbox": [
+        260,
+        172,
+        197,
+        294
+      ],
+      "method": "YOLO",
+      "phone_tracking": {
+        "should_revoke": false,
+        "count": 0,
+        "threshold_exceeded": false
+      }
+    },
+    "action_taken": null,
+    "confidence_score": 0.429217666387558,
+    "detection_method": "YOLO"
+  },
+  "4abdd9e0-c782-4041-9f13-58c45f0b7c94": {
+    "id": "4abdd9e0-c782-4041-9f13-58c45f0b7c94",
+    "exam_id": "exam_20260314_010054",
+    "student_name": "teststudent",
+    "student_id": "e65e91e9-0ac2-4a20-ae29-62d302d89f34",
+    "type": "phone_detected",
+    "severity": "critical",
+    "description": "Phone detected: cell phone (confidence: 0.44)",
+    "timestamp": "2026-03-14 01:03:26.313410",
+    "metadata": {
+      "class_name": "cell phone",
+      "confidence": 0.44417324662208557,
+      "bbox": [
+        257,
+        83,
+        181,
+        288
+      ],
+      "method": "YOLO",
+      "phone_tracking": {
+        "should_revoke": false,
+        "count": 0,
+        "threshold_exceeded": false
+      }
+    },
+    "action_taken": null,
+    "confidence_score": 0.44417324662208557,
+    "detection_method": "YOLO"
+  },
+  "06ae6b0b-5838-48b7-b3b8-91489824d5c6": {
+    "id": "06ae6b0b-5838-48b7-b3b8-91489824d5c6",
+    "exam_id": "exam_20260314_010054",
+    "student_name": "teststudent",
+    "student_id": "e65e91e9-0ac2-4a20-ae29-62d302d89f34",
+    "type": "phone_detected",
+    "severity": "critical",
+    "description": "Phone detected: cell phone (confidence: 0.31)",
+    "timestamp": "2026-03-14 01:03:31.313583",
+    "metadata": {
+      "class_name": "cell phone",
+      "confidence": 0.31433895230293274,
+      "bbox": [
+        262,
+        126,
+        218,
+        325
+      ],
+      "method": "YOLO",
+      "phone_tracking": {
+        "should_revoke": false,
+        "count": 0,
+        "threshold_exceeded": false
+      }
+    },
+    "action_taken": null,
+    "confidence_score": 0.31433895230293274,
+    "detection_method": "YOLO"
+  },
+  "a9d82baf-163f-4a5a-8d58-fe0d11fff60e": {
+    "id": "a9d82baf-163f-4a5a-8d58-fe0d11fff60e",
+    "exam_id": "exam_20260314_010054",
+    "student_name": "teststudent",
+    "student_id": "e65e91e9-0ac2-4a20-ae29-62d302d89f34",
+    "type": "phone_detected",
+    "severity": "critical",
+    "description": "Phone detected: cell phone (confidence: 0.81)",
+    "timestamp": "2026-03-14 01:03:41.323413",
+    "metadata": {
+      "class_name": "cell phone",
+      "confidence": 0.814835786819458,
+      "bbox": [
+        346,
+        99,
+        181,
+        264
+      ],
+      "method": "YOLO",
+      "phone_tracking": {
+        "should_revoke": true,
+        "count": 4,
+        "threshold": 3,
+        "threshold_exceeded": true,
+        "detections": [
+          {
+            "timestamp": "2026-03-14T01:02:31.306466",
+            "confidence": 0.7752676010131836,
+            "detection_id": "30ef0389-36d0-45dd-80a7-74e765d2bf59"
+          },
+          {
+            "timestamp": "2026-03-14T01:02:51.312840",
+            "confidence": 0.7368550300598145,
+            "detection_id": "d221bfac-1757-4cf9-8fdc-d695632279b2"
+          },
+          {
+            "timestamp": "2026-03-14T01:03:16.313607",
+            "confidence": 0.8352630734443665,
+            "detection_id": "a16e62b7-ecec-43e1-84e7-7724406da9cc"
+          },
+          {
+            "timestamp": "2026-03-14T01:03:41.322734",
+            "confidence": 0.814835786819458,
+            "detection_id": "c79020fc-2a88-4dfa-8520-5373e2b26430"
+          }
+        ]
+      }
+    },
+    "action_taken": null,
+    "confidence_score": 0.814835786819458,
+    "detection_method": "YOLO"
+  },
+  "01aa1bda-46a3-4f42-9abb-40b3a70f5ef6": {
+    "id": "01aa1bda-46a3-4f42-9abb-40b3a70f5ef6",
+    "exam_id": "exam_20260314_010054",
+    "student_name": "teststudent",
+    "student_id": "e65e91e9-0ac2-4a20-ae29-62d302d89f34",
+    "type": "exam_suspended",
+    "severity": "critical",
+    "description": "Exam automatically revoked due to phone violations: Phone detection threshold exceeded: 4 detections",
+    "timestamp": "2026-03-14 01:03:41.323935",
+    "metadata": {
+      "revocation_reason": "Phone detection threshold exceeded: 4 detections",
+      "phone_detections_count": 4,
+      "phone_threshold": 3,
+      "phone_detections": [
+        {
+          "timestamp": "2026-03-14T01:02:31.306466",
+          "confidence": 0.7752676010131836,
+          "detection_id": "30ef0389-36d0-45dd-80a7-74e765d2bf59"
+        },
+        {
+          "timestamp": "2026-03-14T01:02:51.312840",
+          "confidence": 0.7368550300598145,
+          "detection_id": "d221bfac-1757-4cf9-8fdc-d695632279b2"
+        },
+        {
+          "timestamp": "2026-03-14T01:03:16.313607",
+          "confidence": 0.8352630734443665,
+          "detection_id": "a16e62b7-ecec-43e1-84e7-7724406da9cc"
+        },
+        {
+          "timestamp": "2026-03-14T01:03:41.322734",
+          "confidence": 0.814835786819458,
+          "detection_id": "c79020fc-2a88-4dfa-8520-5373e2b26430"
+        }
+      ],
+      "all_detected_objects": [
+        {
+          "class_name": "person",
+          "confidence": 0.9029656052589417,
+          "bbox": [
+            3,
+            117,
+            636,
+            362
+          ],
+          "method": "YOLO"
+        },
+        {
+          "class_name": "cell phone",
+          "confidence": 0.814835786819458,
+          "bbox": [
+            346,
+            99,
+            181,
+            264
+          ],
+          "method": "YOLO"
+        }
+      ],
+      "revocation_type": "automatic_phone_threshold"
+    },
+    "action_taken": null,
+    "confidence_score": 1.0,
+    "detection_method": "Phone_Threshold_Tracking"
+  },
+  "916b93f5-e62e-4112-9ee2-983149f53c40": {
+    "id": "916b93f5-e62e-4112-9ee2-983149f53c40",
+    "exam_id": "exam_20260314_075020",
+    "student_name": "Vanshika Rastogi",
+    "student_id": "aaf6bffb-beda-4524-8445-3c90d5c69d65",
+    "type": "palm_detected",
+    "severity": "medium",
+    "description": "Suspicious hand detected: normal",
+    "timestamp": "2026-03-14 07:53:26.345663",
+    "metadata": {
+      "bbox": [
+        78,
+        9,
+        74,
+        120
+      ],
+      "confidence": 0.8,
+      "type": "hand",
+      "suspicious": true,
+      "gesture_type": "normal",
+      "relative_y": 0.14375,
+      "method": "OpenCV_Enhanced"
+    },
+    "action_taken": null,
+    "confidence_score": 0.8,
+    "detection_method": "OpenCV_Enhanced"
+  },
+  "c2f33ed9-a660-4bd0-837c-56f9867444a6": {
+    "id": "c2f33ed9-a660-4bd0-837c-56f9867444a6",
+    "exam_id": "exam_20260314_075020",
+    "student_name": "Vanshika Rastogi",
+    "student_id": "aaf6bffb-beda-4524-8445-3c90d5c69d65",
+    "type": "multiple_faces",
+    "severity": "critical",
+    "description": "Multiple faces detected: 2 faces",
+    "timestamp": "2026-03-14 07:53:36.348386",
+    "metadata": {
+      "faces_count": 2,
+      "faces_info": [
+        {
+          "bbox": [
+            293,
+            336,
+            118,
+            118
+          ],
+          "confidence": 0.66798828125,
+          "method": "OpenCV"
+        },
+        {
+          "bbox": [
+            249,
+            182,
+            188,
+            188
+          ],
+          "confidence": 0.772578125,
+          "method": "OpenCV"
+        }
+      ]
+    },
+    "action_taken": null,
+    "confidence_score": 0.772578125,
+    "detection_method": "OpenCV"
+  },
+  "51b478a0-dc52-4ff0-955d-628af3a5247e": {
+    "id": "51b478a0-dc52-4ff0-955d-628af3a5247e",
+    "exam_id": "exam_20260314_075020",
+    "student_name": "Vanshika Rastogi",
+    "student_id": "aaf6bffb-beda-4524-8445-3c90d5c69d65",
+    "type": "face_not_visible",
+    "severity": "high",
+    "description": "No face detected in webcam feed",
+    "timestamp": "2026-03-14 07:53:41.436839",
+    "metadata": {
+      "faces_count": 0
+    },
+    "action_taken": null,
+    "confidence_score": 1.0,
+    "detection_method": "OpenCV"
+  },
+  "a63d042d-1276-47a8-b5f4-511e52a0ea90": {
+    "id": "a63d042d-1276-47a8-b5f4-511e52a0ea90",
+    "exam_id": "exam_20260314_075020",
+    "student_name": "Vanshika Rastogi",
+    "student_id": "aaf6bffb-beda-4524-8445-3c90d5c69d65",
+    "type": "palm_detected",
+    "severity": "medium",
+    "description": "Suspicious hand detected: normal",
+    "timestamp": "2026-03-14 07:53:41.527419",
+    "metadata": {
+      "bbox": [
+        0,
+        113,
+        71,
+        126
+      ],
+      "confidence": 0.5584,
+      "type": "hand",
+      "suspicious": true,
+      "gesture_type": "normal",
+      "relative_y": 0.36666666666666664,
+      "method": "OpenCV_Enhanced"
+    },
+    "action_taken": null,
+    "confidence_score": 0.5584,
+    "detection_method": "OpenCV_Enhanced"
+  },
+  "ab34a9ec-1306-4649-8041-53fcdf1a0836": {
+    "id": "ab34a9ec-1306-4649-8041-53fcdf1a0836",
+    "exam_id": "exam_20260314_075020",
+    "student_name": "Vanshika Rastogi",
+    "student_id": "aaf6bffb-beda-4524-8445-3c90d5c69d65",
+    "type": "phone_detected",
+    "severity": "critical",
+    "description": "Phone detected: cell phone (confidence: 0.39)",
+    "timestamp": "2026-03-14 07:53:42.246000",
+    "metadata": {
+      "class_name": "cell phone",
+      "confidence": 0.39206767082214355,
+      "bbox": [
+        281,
+        214,
+        185,
+        201
+      ],
+      "method": "YOLO",
+      "phone_tracking": {
+        "should_revoke": false,
+        "count": 0,
+        "threshold_exceeded": false
+      }
+    },
+    "action_taken": null,
+    "confidence_score": 0.39206767082214355,
+    "detection_method": "YOLO"
+  },
+  "dc132b17-f9f2-4df2-b3c5-ea731b6cedca": {
+    "id": "dc132b17-f9f2-4df2-b3c5-ea731b6cedca",
+    "exam_id": "exam_20260314_075020",
+    "student_name": "Vanshika Rastogi",
+    "student_id": "aaf6bffb-beda-4524-8445-3c90d5c69d65",
+    "type": "palm_detected",
+    "severity": "medium",
+    "description": "Suspicious hand detected: normal",
+    "timestamp": "2026-03-14 07:53:51.425092",
+    "metadata": {
+      "bbox": [
+        0,
+        85,
+        68,
+        133
+      ],
+      "confidence": 0.7089,
+      "type": "hand",
+      "suspicious": true,
+      "gesture_type": "normal",
+      "relative_y": 0.3145833333333333,
+      "method": "OpenCV_Enhanced"
+    },
+    "action_taken": null,
+    "confidence_score": 0.7089,
+    "detection_method": "OpenCV_Enhanced"
+  },
+  "0b772d0b-7e81-4451-8d55-e4aac77334bf": {
+    "id": "0b772d0b-7e81-4451-8d55-e4aac77334bf",
+    "exam_id": "exam_20260314_075020",
+    "student_name": "Vanshika Rastogi",
+    "student_id": "aaf6bffb-beda-4524-8445-3c90d5c69d65",
+    "type": "palm_detected",
+    "severity": "medium",
+    "description": "Suspicious hand detected: normal",
+    "timestamp": "2026-03-14 07:53:56.284818",
+    "metadata": {
+      "bbox": [
+        0,
+        90,
+        64,
+        130
+      ],
+      "confidence": 0.7083,
+      "type": "hand",
+      "suspicious": true,
+      "gesture_type": "normal",
+      "relative_y": 0.3229166666666667,
+      "method": "OpenCV_Enhanced"
+    },
+    "action_taken": null,
+    "confidence_score": 0.7083,
+    "detection_method": "OpenCV_Enhanced"
+  },
+  "e9ba7a70-d88b-41c5-b726-58c057989ad3": {
+    "id": "e9ba7a70-d88b-41c5-b726-58c057989ad3",
+    "exam_id": "exam_20260314_075020",
+    "student_name": "Vanshika Rastogi",
+    "student_id": "aaf6bffb-beda-4524-8445-3c90d5c69d65",
+    "type": "palm_detected",
+    "severity": "medium",
+    "description": "Suspicious hand detected: normal",
+    "timestamp": "2026-03-14 07:54:01.511934",
+    "metadata": {
+      "bbox": [
+        0,
+        116,
+        65,
+        124
+      ],
+      "confidence": 0.8,
+      "type": "hand",
+      "suspicious": true,
+      "gesture_type": "normal",
+      "relative_y": 0.37083333333333335,
+      "method": "OpenCV_Enhanced"
+    },
+    "action_taken": null,
+    "confidence_score": 0.8,
+    "detection_method": "OpenCV_Enhanced"
+  },
+  "d8d65207-be86-4794-95bc-0e067b6345a6": {
+    "id": "d8d65207-be86-4794-95bc-0e067b6345a6",
+    "exam_id": "exam_20260314_075020",
+    "student_name": "Vanshika Rastogi",
+    "student_id": "aaf6bffb-beda-4524-8445-3c90d5c69d65",
+    "type": "palm_detected",
+    "severity": "medium",
+    "description": "Suspicious hand detected: normal",
+    "timestamp": "2026-03-14 07:54:11.520133",
+    "metadata": {
+      "bbox": [
+        0,
+        109,
+        68,
+        118
+      ],
+      "confidence": 0.5294,
+      "type": "hand",
+      "suspicious": true,
+      "gesture_type": "normal",
+      "relative_y": 0.35,
+      "method": "OpenCV_Enhanced"
+    },
+    "action_taken": null,
+    "confidence_score": 0.5294,
+    "detection_method": "OpenCV_Enhanced"
+  },
+  "863e6644-9aa1-4327-93da-2fa08d0e7421": {
+    "id": "863e6644-9aa1-4327-93da-2fa08d0e7421",
+    "exam_id": "exam_20260314_075020",
+    "student_name": "Vanshika Rastogi",
+    "student_id": "aaf6bffb-beda-4524-8445-3c90d5c69d65",
+    "type": "multiple_faces",
+    "severity": "critical",
+    "description": "Multiple faces detected: 2 faces",
+    "timestamp": "2026-03-14 07:54:31.269599",
+    "metadata": {
+      "faces_count": 2,
+      "faces_info": [
+        {
+          "bbox": [
+            271,
+            357,
+            101,
+            101
+          ],
+          "confidence": 0.6498095703125,
+          "method": "OpenCV"
+        },
+        {
+          "bbox": [
+            226,
+            200,
+            186,
+            186
+          ],
+          "confidence": 0.76892578125,
+          "method": "OpenCV"
+        }
+      ]
+    },
+    "action_taken": null,
+    "confidence_score": 0.76892578125,
+    "detection_method": "OpenCV"
+  },
+  "cbc9c900-6f05-46ae-b03e-5b4c3bb52b87": {
+    "id": "cbc9c900-6f05-46ae-b03e-5b4c3bb52b87",
+    "exam_id": "exam_20260314_075020",
+    "student_name": "Vanshika Rastogi",
+    "student_id": "aaf6bffb-beda-4524-8445-3c90d5c69d65",
+    "type": "palm_detected",
+    "severity": "medium",
+    "description": "Suspicious hand detected: normal",
+    "timestamp": "2026-03-14 07:54:31.304641",
+    "metadata": {
+      "bbox": [
+        0,
+        106,
+        80,
+        124
+      ],
+      "confidence": 0.6168,
+      "type": "hand",
+      "suspicious": true,
+      "gesture_type": "normal",
+      "relative_y": 0.35,
+      "method": "OpenCV_Enhanced"
+    },
+    "action_taken": null,
+    "confidence_score": 0.6168,
+    "detection_method": "OpenCV_Enhanced"
+  },
+  "1dd922f0-6d1c-45ef-a0c7-8ecbe6be7eb8": {
+    "id": "1dd922f0-6d1c-45ef-a0c7-8ecbe6be7eb8",
+    "exam_id": "exam_20260314_075020",
+    "student_name": "Vanshika Rastogi",
+    "student_id": "aaf6bffb-beda-4524-8445-3c90d5c69d65",
+    "type": "tab_switch",
+    "severity": "medium",
+    "description": "Tab switch detected (2s hidden, 1 total)",
+    "timestamp": "2026-03-14 07:54:38.000453",
+    "metadata": {
+      "count": 1,
+      "duration_ms": 2396,
+      "timestamp": "2026-03-14T02:24:37.819Z",
+      "threshold_exceeded": false,
+      "exam_terminated": false,
+      "termination_reason": null
+    },
+    "action_taken": null,
+    "confidence_score": null,
+    "detection_method": null
+  },
+  "a949ee64-6299-4b7b-bd4c-335aa8abfa99": {
+    "id": "a949ee64-6299-4b7b-bd4c-335aa8abfa99",
+    "exam_id": "exam_20260314_075020",
+    "student_name": "Vanshika Rastogi",
+    "student_id": "aaf6bffb-beda-4524-8445-3c90d5c69d65",
+    "type": "tab_switch",
+    "severity": "medium",
+    "description": "Tab switch detected (2s hidden, 1 total)",
+    "timestamp": "2026-03-14 07:54:38.133424",
+    "metadata": {
+      "count": 1,
+      "duration_ms": 2396,
+      "timestamp": "2026-03-14T02:24:37.826Z",
+      "threshold_exceeded": false,
+      "exam_terminated": false,
+      "termination_reason": null
+    },
+    "action_taken": null,
+    "confidence_score": null,
+    "detection_method": null
+  },
+  "aefbd055-b7b0-431b-814b-65016c5ef92e": {
+    "id": "aefbd055-b7b0-431b-814b-65016c5ef92e",
+    "exam_id": "exam_20260314_075020",
+    "student_name": "Vanshika Rastogi",
+    "student_id": "aaf6bffb-beda-4524-8445-3c90d5c69d65",
+    "type": "face_not_visible",
+    "severity": "high",
+    "description": "No face detected in webcam feed",
+    "timestamp": "2026-03-14 07:54:41.792997",
+    "metadata": {
+      "faces_count": 0
+    },
+    "action_taken": null,
+    "confidence_score": 1.0,
+    "detection_method": "OpenCV"
+  },
+  "0448b754-5de8-4d00-843d-b3ee5f4604a7": {
+    "id": "0448b754-5de8-4d00-843d-b3ee5f4604a7",
+    "exam_id": "exam_20260314_075020",
+    "student_name": "Vanshika Rastogi",
+    "student_id": "aaf6bffb-beda-4524-8445-3c90d5c69d65",
+    "type": "palm_detected",
+    "severity": "medium",
+    "description": "Suspicious hand detected: normal",
+    "timestamp": "2026-03-14 07:54:41.908796",
+    "metadata": {
+      "bbox": [
+        0,
+        102,
+        77,
+        128
+      ],
+      "confidence": 0.552,
+      "type": "hand",
+      "suspicious": true,
+      "gesture_type": "normal",
+      "relative_y": 0.3458333333333333,
+      "method": "OpenCV_Enhanced"
+    },
+    "action_taken": null,
+    "confidence_score": 0.552,
+    "detection_method": "OpenCV_Enhanced"
+  },
+  "2e03e0ed-27a4-4d4c-8f3d-71198d48dc05": {
+    "id": "2e03e0ed-27a4-4d4c-8f3d-71198d48dc05",
+    "exam_id": "exam_20260314_075020",
+    "student_name": "Vanshika Rastogi",
+    "student_id": "aaf6bffb-beda-4524-8445-3c90d5c69d65",
+    "type": "palm_detected",
+    "severity": "medium",
+    "description": "Suspicious hand detected: normal",
+    "timestamp": "2026-03-14 07:54:52.106748",
+    "metadata": {
+      "bbox": [
+        34,
+        16,
+        159,
+        170
+      ],
+      "confidence": 0.8,
+      "type": "hand",
+      "suspicious": true,
+      "gesture_type": "normal",
+      "relative_y": 0.21041666666666667,
+      "method": "OpenCV_Enhanced"
+    },
+    "action_taken": null,
+    "confidence_score": 0.8,
+    "detection_method": "OpenCV_Enhanced"
+  },
+  "9abdad78-fe25-41e6-af94-fb94433e915e": {
+    "id": "9abdad78-fe25-41e6-af94-fb94433e915e",
+    "exam_id": "exam_20260314_075020",
+    "student_name": "Vanshika Rastogi",
+    "student_id": "aaf6bffb-beda-4524-8445-3c90d5c69d65",
+    "type": "palm_detected",
+    "severity": "medium",
+    "description": "Suspicious hand detected: normal",
+    "timestamp": "2026-03-14 07:54:56.738753",
+    "metadata": {
+      "bbox": [
+        65,
+        26,
+        133,
+        152
+      ],
+      "confidence": 0.8,
+      "type": "hand",
+      "suspicious": true,
+      "gesture_type": "normal",
+      "relative_y": 0.2125,
+      "method": "OpenCV_Enhanced"
+    },
+    "action_taken": null,
+    "confidence_score": 0.8,
+    "detection_method": "OpenCV_Enhanced"
+  },
+  "dec6b13b-91da-45fb-b6e2-d7aecc159857": {
+    "id": "dec6b13b-91da-45fb-b6e2-d7aecc159857",
+    "exam_id": "exam_20260314_075020",
+    "student_name": "Vanshika Rastogi",
+    "student_id": "aaf6bffb-beda-4524-8445-3c90d5c69d65",
+    "type": "palm_detected",
+    "severity": "medium",
+    "description": "Suspicious hand detected: normal",
+    "timestamp": "2026-03-14 07:55:01.338749",
+    "metadata": {
+      "bbox": [
+        18,
+        16,
+        180,
+        177
+      ],
+      "confidence": 0.8,
+      "type": "hand",
+      "suspicious": true,
+      "gesture_type": "normal",
+      "relative_y": 0.21666666666666667,
+      "method": "OpenCV_Enhanced"
+    },
+    "action_taken": null,
+    "confidence_score": 0.8,
+    "detection_method": "OpenCV_Enhanced"
+  },
+  "3ae5837e-a3a1-444f-a5ca-512a7093b920": {
+    "id": "3ae5837e-a3a1-444f-a5ca-512a7093b920",
+    "exam_id": "exam_20260314_075020",
+    "student_name": "Vanshika Rastogi",
+    "student_id": "aaf6bffb-beda-4524-8445-3c90d5c69d65",
+    "type": "palm_detected",
+    "severity": "medium",
+    "description": "Suspicious hand detected: normal",
+    "timestamp": "2026-03-14 07:55:06.428559",
+    "metadata": {
+      "bbox": [
+        0,
+        16,
+        197,
+        210
+      ],
+      "confidence": 0.8,
+      "type": "hand",
+      "suspicious": true,
+      "gesture_type": "normal",
+      "relative_y": 0.2520833333333333,
+      "method": "OpenCV_Enhanced"
+    },
+    "action_taken": null,
+    "confidence_score": 0.8,
+    "detection_method": "OpenCV_Enhanced"
+  },
+  "d734b0cd-2103-4bf9-b6aa-0df436dd4be7": {
+    "id": "d734b0cd-2103-4bf9-b6aa-0df436dd4be7",
+    "exam_id": "exam_20260314_075020",
+    "student_name": "Vanshika Rastogi",
+    "student_id": "aaf6bffb-beda-4524-8445-3c90d5c69d65",
+    "type": "palm_detected",
+    "severity": "medium",
+    "description": "Suspicious hand detected: normal",
+    "timestamp": "2026-03-14 07:55:11.295450",
+    "metadata": {
+      "bbox": [
+        0,
+        16,
+        197,
+        210
+      ],
+      "confidence": 0.8,
+      "type": "hand",
+      "suspicious": true,
+      "gesture_type": "normal",
+      "relative_y": 0.2520833333333333,
+      "method": "OpenCV_Enhanced"
+    },
+    "action_taken": null,
+    "confidence_score": 0.8,
+    "detection_method": "OpenCV_Enhanced"
+  },
+  "76c63625-b793-4f37-a725-51d451eeba09": {
+    "id": "76c63625-b793-4f37-a725-51d451eeba09",
+    "exam_id": "exam_20260314_075020",
+    "student_name": "Vanshika Rastogi",
+    "student_id": "aaf6bffb-beda-4524-8445-3c90d5c69d65",
+    "type": "tab_switch",
+    "severity": "high",
+    "description": "Tab switch detected (4s hidden, 2 total)",
+    "timestamp": "2026-03-14 07:55:12.556875",
+    "metadata": {
+      "count": 2,
+      "duration_ms": 4319,
+      "timestamp": "2026-03-14T02:25:11.710Z",
+      "threshold_exceeded": false,
+      "exam_terminated": false,
+      "termination_reason": null
+    },
+    "action_taken": null,
+    "confidence_score": null,
+    "detection_method": null
+  },
+  "672a2940-882e-48c5-8078-0ce88c618159": {
+    "id": "672a2940-882e-48c5-8078-0ce88c618159",
+    "exam_id": "exam_20260314_075020",
+    "student_name": "Vanshika Rastogi",
+    "student_id": "aaf6bffb-beda-4524-8445-3c90d5c69d65",
+    "type": "tab_switch",
+    "severity": "high",
+    "description": "Tab switch detected (4s hidden, 2 total)",
+    "timestamp": "2026-03-14 07:55:12.611234",
+    "metadata": {
+      "count": 2,
+      "duration_ms": 4319,
+      "timestamp": "2026-03-14T02:25:11.709Z",
+      "threshold_exceeded": false,
+      "exam_terminated": false,
+      "termination_reason": null
+    },
+    "action_taken": null,
+    "confidence_score": null,
+    "detection_method": null
+  },
+  "bb1fc8c7-0aef-4fa8-a0d6-805f7c9e54c5": {
+    "id": "bb1fc8c7-0aef-4fa8-a0d6-805f7c9e54c5",
+    "exam_id": "exam_20260314_075020",
+    "student_name": "Vanshika Rastogi",
+    "student_id": "aaf6bffb-beda-4524-8445-3c90d5c69d65",
+    "type": "palm_detected",
+    "severity": "medium",
+    "description": "Suspicious hand detected: normal",
+    "timestamp": "2026-03-14 07:55:16.647324",
+    "metadata": {
+      "bbox": [
+        0,
+        16,
+        197,
+        210
+      ],
+      "confidence": 0.8,
+      "type": "hand",
+      "suspicious": true,
+      "gesture_type": "normal",
+      "relative_y": 0.2520833333333333,
+      "method": "OpenCV_Enhanced"
+    },
+    "action_taken": null,
+    "confidence_score": 0.8,
+    "detection_method": "OpenCV_Enhanced"
+  },
+  "e71b706b-d4f8-400d-94d5-f0cbb3ce745c": {
+    "id": "e71b706b-d4f8-400d-94d5-f0cbb3ce745c",
+    "exam_id": "exam_20260314_075020",
+    "student_name": "Vanshika Rastogi",
+    "student_id": "aaf6bffb-beda-4524-8445-3c90d5c69d65",
+    "type": "palm_detected",
+    "severity": "medium",
+    "description": "Suspicious hand detected: normal",
+    "timestamp": "2026-03-14 07:55:42.757212",
+    "metadata": {
+      "bbox": [
+        80,
+        0,
+        112,
+        185
+      ],
+      "confidence": 0.8,
+      "type": "hand",
+      "suspicious": true,
+      "gesture_type": "normal",
+      "relative_y": 0.19166666666666668,
+      "method": "OpenCV_Enhanced"
+    },
+    "action_taken": null,
+    "confidence_score": 0.8,
+    "detection_method": "OpenCV_Enhanced"
+  },
+  "77b04052-c222-4ad2-884e-f7c4a013cbea": {
+    "id": "77b04052-c222-4ad2-884e-f7c4a013cbea",
+    "exam_id": "exam_20260314_075020",
+    "student_name": "Vanshika Rastogi",
+    "student_id": "aaf6bffb-beda-4524-8445-3c90d5c69d65",
+    "type": "palm_detected",
+    "severity": "medium",
+    "description": "Suspicious hand detected: normal",
+    "timestamp": "2026-03-14 07:55:47.703645",
+    "metadata": {
+      "bbox": [
+        69,
+        5,
+        123,
+        168
+      ],
+      "confidence": 0.8,
+      "type": "hand",
+      "suspicious": true,
+      "gesture_type": "normal",
+      "relative_y": 0.18541666666666667,
+      "method": "OpenCV_Enhanced"
+    },
+    "action_taken": null,
+    "confidence_score": 0.8,
+    "detection_method": "OpenCV_Enhanced"
+  },
+  "61abe94a-b787-451d-8c25-a91d43eac67f": {
+    "id": "61abe94a-b787-451d-8c25-a91d43eac67f",
+    "exam_id": "exam_20260314_075020",
+    "student_name": "Vanshika Rastogi",
+    "student_id": "aaf6bffb-beda-4524-8445-3c90d5c69d65",
+    "type": "palm_detected",
+    "severity": "medium",
+    "description": "Suspicious hand detected: normal",
+    "timestamp": "2026-03-14 07:55:52.798185",
+    "metadata": {
+      "bbox": [
+        88,
+        16,
+        105,
+        165
+      ],
+      "confidence": 0.8,
+      "type": "hand",
+      "suspicious": true,
+      "gesture_type": "normal",
+      "relative_y": 0.20416666666666666,
+      "method": "OpenCV_Enhanced"
+    },
+    "action_taken": null,
+    "confidence_score": 0.8,
+    "detection_method": "OpenCV_Enhanced"
+  },
+  "b7795765-1613-4ef9-8958-4ee31afc8d01": {
+    "id": "b7795765-1613-4ef9-8958-4ee31afc8d01",
+    "exam_id": "exam_20260314_075020",
+    "student_name": "Vanshika Rastogi",
+    "student_id": "aaf6bffb-beda-4524-8445-3c90d5c69d65",
+    "type": "phone_detected",
+    "severity": "critical",
+    "description": "Phone detected: cell phone (confidence: 0.33)",
+    "timestamp": "2026-03-14 07:55:53.159045",
+    "metadata": {
+      "class_name": "cell phone",
+      "confidence": 0.3298525810241699,
+      "bbox": [
+        388,
+        229,
+        45,
+        85
+      ],
+      "method": "YOLO",
+      "phone_tracking": {
+        "should_revoke": false,
+        "count": 0,
+        "threshold_exceeded": false
+      }
+    },
+    "action_taken": null,
+    "confidence_score": 0.3298525810241699,
+    "detection_method": "YOLO"
+  },
+  "1a6d641f-dbe9-4b43-851b-ae5fc207acc1": {
+    "id": "1a6d641f-dbe9-4b43-851b-ae5fc207acc1",
+    "exam_id": "exam_20260314_075020",
+    "student_name": "Vanshika Rastogi",
+    "student_id": "aaf6bffb-beda-4524-8445-3c90d5c69d65",
+    "type": "face_not_visible",
+    "severity": "high",
+    "description": "No face detected in webcam feed",
+    "timestamp": "2026-03-14 07:55:57.659564",
+    "metadata": {
+      "faces_count": 0
+    },
+    "action_taken": null,
+    "confidence_score": 1.0,
+    "detection_method": "OpenCV"
+  },
+  "f3cf8bd0-5306-4be0-8d2a-812a5563b23f": {
+    "id": "f3cf8bd0-5306-4be0-8d2a-812a5563b23f",
+    "exam_id": "exam_20260314_075020",
+    "student_name": "Vanshika Rastogi",
+    "student_id": "aaf6bffb-beda-4524-8445-3c90d5c69d65",
+    "type": "palm_detected",
+    "severity": "medium",
+    "description": "Suspicious hand detected: normal",
+    "timestamp": "2026-03-14 07:55:57.693414",
+    "metadata": {
+      "bbox": [
+        85,
+        0,
+        91,
+        133
+      ],
+      "confidence": 0.8,
+      "type": "hand",
+      "suspicious": true,
+      "gesture_type": "normal",
+      "relative_y": 0.1375,
+      "method": "OpenCV_Enhanced"
+    },
+    "action_taken": null,
+    "confidence_score": 0.8,
+    "detection_method": "OpenCV_Enhanced"
+  },
+  "38535082-0cc8-45c0-a1bb-d958e617fae6": {
+    "id": "38535082-0cc8-45c0-a1bb-d958e617fae6",
+    "exam_id": "exam_20260314_075020",
+    "student_name": "Vanshika Rastogi",
+    "student_id": "aaf6bffb-beda-4524-8445-3c90d5c69d65",
+    "type": "face_not_visible",
+    "severity": "high",
+    "description": "No face detected in webcam feed",
+    "timestamp": "2026-03-14 07:56:02.665559",
+    "metadata": {
+      "faces_count": 0
+    },
+    "action_taken": null,
+    "confidence_score": 1.0,
+    "detection_method": "OpenCV"
+  },
+  "2c2ea9d7-68f4-442b-bc61-7c8aa08bb1a5": {
+    "id": "2c2ea9d7-68f4-442b-bc61-7c8aa08bb1a5",
+    "exam_id": "exam_20260314_075020",
+    "student_name": "Vanshika Rastogi",
+    "student_id": "aaf6bffb-beda-4524-8445-3c90d5c69d65",
+    "type": "palm_detected",
+    "severity": "medium",
+    "description": "Suspicious hand detected: normal",
+    "timestamp": "2026-03-14 07:56:02.697542",
+    "metadata": {
+      "bbox": [
+        80,
+        7,
+        80,
+        123
+      ],
+      "confidence": 0.8,
+      "type": "hand",
+      "suspicious": true,
+      "gesture_type": "normal",
+      "relative_y": 0.14166666666666666,
+      "method": "OpenCV_Enhanced"
+    },
+    "action_taken": null,
+    "confidence_score": 0.8,
+    "detection_method": "OpenCV_Enhanced"
+  },
+  "60288243-1e81-4c00-aaf9-51c9cd47a2da": {
+    "id": "60288243-1e81-4c00-aaf9-51c9cd47a2da",
+    "exam_id": "exam_20260314_075020",
+    "student_name": "Vanshika Rastogi",
+    "student_id": "aaf6bffb-beda-4524-8445-3c90d5c69d65",
+    "type": "palm_detected",
+    "severity": "medium",
+    "description": "Suspicious hand detected: normal",
+    "timestamp": "2026-03-14 07:56:07.887073",
+    "metadata": {
+      "bbox": [
+        86,
+        8,
+        52,
+        127
+      ],
+      "confidence": 0.8,
+      "type": "hand",
+      "suspicious": true,
+      "gesture_type": "normal",
+      "relative_y": 0.14791666666666667,
+      "method": "OpenCV_Enhanced"
+    },
+    "action_taken": null,
+    "confidence_score": 0.8,
+    "detection_method": "OpenCV_Enhanced"
+  },
+  "563b9e66-7767-4477-8745-f44e427f6cb7": {
+    "id": "563b9e66-7767-4477-8745-f44e427f6cb7",
+    "exam_id": "exam_20260314_075020",
+    "student_name": "Vanshika Rastogi",
+    "student_id": "aaf6bffb-beda-4524-8445-3c90d5c69d65",
+    "type": "palm_detected",
+    "severity": "medium",
+    "description": "Suspicious hand detected: normal",
+    "timestamp": "2026-03-14 07:56:12.855061",
+    "metadata": {
+      "bbox": [
+        23,
+        11,
+        159,
+        150
+      ],
+      "confidence": 0.8,
+      "type": "hand",
+      "suspicious": true,
+      "gesture_type": "normal",
+      "relative_y": 0.17916666666666667,
+      "method": "OpenCV_Enhanced"
+    },
+    "action_taken": null,
+    "confidence_score": 0.8,
+    "detection_method": "OpenCV_Enhanced"
+  },
+  "4e70bfa0-9aa5-4d33-883e-4dcf4a7985f5": {
+    "id": "4e70bfa0-9aa5-4d33-883e-4dcf4a7985f5",
+    "exam_id": "exam_20260314_075020",
+    "student_name": "Vanshika Rastogi",
+    "student_id": "aaf6bffb-beda-4524-8445-3c90d5c69d65",
+    "type": "palm_detected",
+    "severity": "medium",
+    "description": "Suspicious hand detected: normal",
+    "timestamp": "2026-03-14 07:56:17.688547",
+    "metadata": {
+      "bbox": [
+        82,
+        0,
+        104,
+        161
+      ],
+      "confidence": 0.8,
+      "type": "hand",
+      "suspicious": true,
+      "gesture_type": "normal",
+      "relative_y": 0.16666666666666666,
+      "method": "OpenCV_Enhanced"
+    },
+    "action_taken": null,
+    "confidence_score": 0.8,
+    "detection_method": "OpenCV_Enhanced"
+  },
+  "3762eba8-8caa-438b-9066-8279ff463b11": {
+    "id": "3762eba8-8caa-438b-9066-8279ff463b11",
+    "exam_id": "exam_20260314_075020",
+    "student_name": "Vanshika Rastogi",
+    "student_id": "aaf6bffb-beda-4524-8445-3c90d5c69d65",
+    "type": "palm_detected",
+    "severity": "medium",
+    "description": "Suspicious hand detected: normal",
+    "timestamp": "2026-03-14 07:56:22.782705",
+    "metadata": {
+      "bbox": [
+        64,
+        0,
+        102,
+        156
+      ],
+      "confidence": 0.8,
+      "type": "hand",
+      "suspicious": true,
+      "gesture_type": "normal",
+      "relative_y": 0.1625,
+      "method": "OpenCV_Enhanced"
+    },
+    "action_taken": null,
+    "confidence_score": 0.8,
+    "detection_method": "OpenCV_Enhanced"
+  },
+  "610ee5f6-7390-4ff8-af13-618d28772c36": {
+    "id": "610ee5f6-7390-4ff8-af13-618d28772c36",
+    "exam_id": "exam_20260314_075020",
+    "student_name": "Vanshika Rastogi",
+    "student_id": "aaf6bffb-beda-4524-8445-3c90d5c69d65",
+    "type": "phone_detected",
+    "severity": "critical",
+    "description": "Phone detected: cell phone (confidence: 0.41)",
+    "timestamp": "2026-03-14 07:56:23.504950",
+    "metadata": {
+      "class_name": "cell phone",
+      "confidence": 0.41457104682922363,
+      "bbox": [
+        429,
+        206,
+        32,
+        45
+      ],
+      "method": "YOLO",
+      "phone_tracking": {
+        "should_revoke": false,
+        "count": 0,
+        "threshold_exceeded": false
+      }
+    },
+    "action_taken": null,
+    "confidence_score": 0.41457104682922363,
+    "detection_method": "YOLO"
+  },
+  "02de51ee-89ff-4f56-8aa7-36cd3236303d": {
+    "id": "02de51ee-89ff-4f56-8aa7-36cd3236303d",
+    "exam_id": "exam_20260314_075020",
+    "student_name": "Vanshika Rastogi",
+    "student_id": "aaf6bffb-beda-4524-8445-3c90d5c69d65",
+    "type": "palm_detected",
+    "severity": "medium",
+    "description": "Suspicious hand detected: normal",
+    "timestamp": "2026-03-14 07:56:32.671021",
+    "metadata": {
+      "bbox": [
+        80,
+        32,
+        111,
+        167
+      ],
+      "confidence": 0.8,
+      "type": "hand",
+      "suspicious": true,
+      "gesture_type": "normal",
+      "relative_y": 0.23958333333333334,
+      "method": "OpenCV_Enhanced"
+    },
+    "action_taken": null,
+    "confidence_score": 0.8,
+    "detection_method": "OpenCV_Enhanced"
+  },
+  "412598d7-c6f3-4025-87ba-412133522bf6": {
+    "id": "412598d7-c6f3-4025-87ba-412133522bf6",
+    "exam_id": "exam_20260314_075020",
+    "student_name": "Vanshika Rastogi",
+    "student_id": "aaf6bffb-beda-4524-8445-3c90d5c69d65",
+    "type": "palm_detected",
+    "severity": "medium",
+    "description": "Suspicious hand detected: normal",
+    "timestamp": "2026-03-14 07:56:42.656164",
+    "metadata": {
+      "bbox": [
+        57,
+        51,
+        121,
+        141
+      ],
+      "confidence": 0.8,
+      "type": "hand",
+      "suspicious": true,
+      "gesture_type": "normal",
+      "relative_y": 0.2520833333333333,
+      "method": "OpenCV_Enhanced"
+    },
+    "action_taken": null,
+    "confidence_score": 0.8,
+    "detection_method": "OpenCV_Enhanced"
+  },
+  "9895bfd1-d010-4677-9a88-daaff5c15e5b": {
+    "id": "9895bfd1-d010-4677-9a88-daaff5c15e5b",
+    "exam_id": "exam_20260314_075020",
+    "student_name": "Vanshika Rastogi",
+    "student_id": "aaf6bffb-beda-4524-8445-3c90d5c69d65",
+    "type": "palm_detected",
+    "severity": "medium",
+    "description": "Suspicious hand detected: normal",
+    "timestamp": "2026-03-14 07:56:47.667711",
+    "metadata": {
+      "bbox": [
+        54,
+        42,
+        121,
+        155
+      ],
+      "confidence": 0.8,
+      "type": "hand",
+      "suspicious": true,
+      "gesture_type": "normal",
+      "relative_y": 0.24791666666666667,
+      "method": "OpenCV_Enhanced"
+    },
+    "action_taken": null,
+    "confidence_score": 0.8,
+    "detection_method": "OpenCV_Enhanced"
+  },
+  "9afad6d4-da0f-44d2-bd71-4ce66de1df1b": {
+    "id": "9afad6d4-da0f-44d2-bd71-4ce66de1df1b",
+    "exam_id": "exam_20260314_075020",
+    "student_name": "Vanshika Rastogi",
+    "student_id": "aaf6bffb-beda-4524-8445-3c90d5c69d65",
+    "type": "phone_detected",
+    "severity": "critical",
+    "description": "Phone detected: cell phone (confidence: 0.34)",
+    "timestamp": "2026-03-14 07:56:48.283607",
+    "metadata": {
+      "class_name": "cell phone",
+      "confidence": 0.33620285987854004,
+      "bbox": [
+        401,
+        221,
+        44,
+        85
+      ],
+      "method": "YOLO",
+      "phone_tracking": {
+        "should_revoke": false,
+        "count": 0,
+        "threshold_exceeded": false
+      }
+    },
+    "action_taken": null,
+    "confidence_score": 0.33620285987854004,
+    "detection_method": "YOLO"
+  },
+  "2e834361-7531-4c90-9bbe-b0eac12226c5": {
+    "id": "2e834361-7531-4c90-9bbe-b0eac12226c5",
+    "exam_id": "exam_20260314_075020",
+    "student_name": "Vanshika Rastogi",
+    "student_id": "aaf6bffb-beda-4524-8445-3c90d5c69d65",
+    "type": "tab_switch",
+    "severity": "medium",
+    "description": "Tab switch detected (33s hidden, 1 total)",
+    "timestamp": "2026-03-14 07:57:34.135676",
+    "metadata": {
+      "count": 1,
+      "duration_ms": 32575,
+      "timestamp": "2026-03-14T02:27:34.062Z",
+      "threshold_exceeded": false,
+      "exam_terminated": false,
+      "termination_reason": null
+    },
+    "action_taken": null,
+    "confidence_score": null,
+    "detection_method": null
+  },
+  "a9fc1a21-db74-4193-919e-210e0325bef0": {
+    "id": "a9fc1a21-db74-4193-919e-210e0325bef0",
+    "exam_id": "exam_20260314_075020",
+    "student_name": "Vanshika Rastogi",
+    "student_id": "aaf6bffb-beda-4524-8445-3c90d5c69d65",
+    "type": "tab_switch",
+    "severity": "medium",
+    "description": "Tab switch detected (33s hidden, 1 total)",
+    "timestamp": "2026-03-14 07:57:34.224068",
+    "metadata": {
+      "count": 1,
+      "duration_ms": 32575,
+      "timestamp": "2026-03-14T02:27:34.068Z",
+      "threshold_exceeded": false,
+      "exam_terminated": false,
+      "termination_reason": null
+    },
+    "action_taken": null,
+    "confidence_score": null,
+    "detection_method": null
+  },
+  "099c90fa-4734-4a29-bc05-6ac7348bb6e7": {
+    "id": "099c90fa-4734-4a29-bc05-6ac7348bb6e7",
+    "exam_id": "exam_20260314_075020",
+    "student_name": "Vanshika Rastogi",
+    "student_id": "aaf6bffb-beda-4524-8445-3c90d5c69d65",
+    "type": "face_not_visible",
+    "severity": "high",
+    "description": "No face detected in webcam feed",
+    "timestamp": "2026-03-14 07:57:38.579454",
+    "metadata": {
+      "faces_count": 0
+    },
+    "action_taken": null,
+    "confidence_score": 1.0,
+    "detection_method": "OpenCV"
+  },
+  "361987fd-1bb4-4e34-9694-7e90451e111e": {
+    "id": "361987fd-1bb4-4e34-9694-7e90451e111e",
+    "exam_id": "exam_20260314_075020",
+    "student_name": "Vanshika Rastogi",
+    "student_id": "aaf6bffb-beda-4524-8445-3c90d5c69d65",
+    "type": "palm_detected",
+    "severity": "medium",
+    "description": "Suspicious hand detected: normal",
+    "timestamp": "2026-03-14 07:57:38.629831",
+    "metadata": {
+      "bbox": [
+        69,
+        31,
+        123,
+        141
+      ],
+      "confidence": 0.8,
+      "type": "hand",
+      "suspicious": true,
+      "gesture_type": "normal",
+      "relative_y": 0.21041666666666667,
+      "method": "OpenCV_Enhanced"
+    },
+    "action_taken": null,
+    "confidence_score": 0.8,
+    "detection_method": "OpenCV_Enhanced"
+  },
+  "18ffacb0-ed5b-42ee-9133-89989781c0cc": {
+    "id": "18ffacb0-ed5b-42ee-9133-89989781c0cc",
+    "exam_id": "exam_20260314_075020",
+    "student_name": "Vanshika Rastogi",
+    "student_id": "aaf6bffb-beda-4524-8445-3c90d5c69d65",
+    "type": "palm_detected",
+    "severity": "medium",
+    "description": "Suspicious hand detected: normal",
+    "timestamp": "2026-03-14 07:57:43.601386",
+    "metadata": {
+      "bbox": [
+        82,
+        32,
+        77,
+        142
+      ],
+      "confidence": 0.8,
+      "type": "hand",
+      "suspicious": true,
+      "gesture_type": "normal",
+      "relative_y": 0.21458333333333332,
+      "method": "OpenCV_Enhanced"
+    },
+    "action_taken": null,
+    "confidence_score": 0.8,
+    "detection_method": "OpenCV_Enhanced"
+  },
+  "4d7525c5-c724-4255-ac07-52e40b5007d9": {
+    "id": "4d7525c5-c724-4255-ac07-52e40b5007d9",
+    "exam_id": "exam_20260314_075020",
+    "student_name": "Vanshika Rastogi",
+    "student_id": "aaf6bffb-beda-4524-8445-3c90d5c69d65",
+    "type": "face_not_visible",
+    "severity": "high",
+    "description": "No face detected in webcam feed",
+    "timestamp": "2026-03-14 07:57:48.550474",
+    "metadata": {
+      "faces_count": 0
+    },
+    "action_taken": null,
+    "confidence_score": 1.0,
+    "detection_method": "OpenCV"
+  },
+  "5cefec43-fc70-42f2-9847-aa3a5879f364": {
+    "id": "5cefec43-fc70-42f2-9847-aa3a5879f364",
+    "exam_id": "exam_20260314_075020",
+    "student_name": "Vanshika Rastogi",
+    "student_id": "aaf6bffb-beda-4524-8445-3c90d5c69d65",
+    "type": "palm_detected",
+    "severity": "medium",
+    "description": "Suspicious hand detected: normal",
+    "timestamp": "2026-03-14 07:57:48.617045",
+    "metadata": {
+      "bbox": [
+        76,
+        16,
+        100,
+        153
+      ],
+      "confidence": 0.8,
+      "type": "hand",
+      "suspicious": true,
+      "gesture_type": "normal",
+      "relative_y": 0.19166666666666668,
+      "method": "OpenCV_Enhanced"
+    },
+    "action_taken": null,
+    "confidence_score": 0.8,
+    "detection_method": "OpenCV_Enhanced"
+  },
+  "27bde1b2-b188-40f8-8426-71760063a9c4": {
+    "id": "27bde1b2-b188-40f8-8426-71760063a9c4",
+    "exam_id": "exam_20260314_075020",
+    "student_name": "Vanshika Rastogi",
+    "student_id": "aaf6bffb-beda-4524-8445-3c90d5c69d65",
+    "type": "palm_detected",
+    "severity": "medium",
+    "description": "Suspicious hand detected: normal",
+    "timestamp": "2026-03-14 07:57:53.541430",
+    "metadata": {
+      "bbox": [
+        74,
+        22,
+        92,
+        170
+      ],
+      "confidence": 0.8,
+      "type": "hand",
+      "suspicious": true,
+      "gesture_type": "normal",
+      "relative_y": 0.22291666666666668,
+      "method": "OpenCV_Enhanced"
+    },
+    "action_taken": null,
+    "confidence_score": 0.8,
+    "detection_method": "OpenCV_Enhanced"
+  },
+  "77448c26-640e-48e4-b785-314ac0bde9ba": {
+    "id": "77448c26-640e-48e4-b785-314ac0bde9ba",
+    "exam_id": "exam_20260314_075020",
+    "student_name": "Vanshika Rastogi",
+    "student_id": "aaf6bffb-beda-4524-8445-3c90d5c69d65",
+    "type": "face_not_visible",
+    "severity": "high",
+    "description": "No face detected in webcam feed",
+    "timestamp": "2026-03-14 07:57:58.500963",
+    "metadata": {
+      "faces_count": 0
+    },
+    "action_taken": null,
+    "confidence_score": 1.0,
+    "detection_method": "OpenCV"
+  },
+  "cf7c0a43-3c61-4cda-87ae-e3f583622587": {
+    "id": "cf7c0a43-3c61-4cda-87ae-e3f583622587",
+    "exam_id": "exam_20260314_075020",
+    "student_name": "Vanshika Rastogi",
+    "student_id": "aaf6bffb-beda-4524-8445-3c90d5c69d65",
+    "type": "palm_detected",
+    "severity": "medium",
+    "description": "Suspicious hand detected: normal",
+    "timestamp": "2026-03-14 07:57:58.603098",
+    "metadata": {
+      "bbox": [
+        72,
+        17,
+        88,
+        148
+      ],
+      "confidence": 0.8,
+      "type": "hand",
+      "suspicious": true,
+      "gesture_type": "normal",
+      "relative_y": 0.18958333333333333,
+      "method": "OpenCV_Enhanced"
+    },
+    "action_taken": null,
+    "confidence_score": 0.8,
+    "detection_method": "OpenCV_Enhanced"
+  },
+  "6ac8d292-346d-4811-9128-ef1d3801e9dc": {
+    "id": "6ac8d292-346d-4811-9128-ef1d3801e9dc",
+    "exam_id": "exam_20260314_075020",
+    "student_name": "Vanshika Rastogi",
+    "student_id": "aaf6bffb-beda-4524-8445-3c90d5c69d65",
+    "type": "face_not_visible",
+    "severity": "high",
+    "description": "No face detected in webcam feed",
+    "timestamp": "2026-03-14 07:58:03.651653",
+    "metadata": {
+      "faces_count": 0
+    },
+    "action_taken": null,
+    "confidence_score": 1.0,
+    "detection_method": "OpenCV"
+  },
+  "62ebb3ab-503b-4d2d-b633-488fe402f54f": {
+    "id": "62ebb3ab-503b-4d2d-b633-488fe402f54f",
+    "exam_id": "exam_20260314_075020",
+    "student_name": "Vanshika Rastogi",
+    "student_id": "aaf6bffb-beda-4524-8445-3c90d5c69d65",
+    "type": "palm_detected",
+    "severity": "medium",
+    "description": "Suspicious hand detected: normal",
+    "timestamp": "2026-03-14 07:58:03.686758",
+    "metadata": {
+      "bbox": [
+        66,
+        0,
+        78,
+        148
+      ],
+      "confidence": 0.8,
+      "type": "hand",
+      "suspicious": true,
+      "gesture_type": "normal",
+      "relative_y": 0.15416666666666667,
+      "method": "OpenCV_Enhanced"
+    },
+    "action_taken": null,
+    "confidence_score": 0.8,
+    "detection_method": "OpenCV_Enhanced"
+  },
+  "8c4210a7-e45b-4ba6-a350-d2d1fe45589b": {
+    "id": "8c4210a7-e45b-4ba6-a350-d2d1fe45589b",
+    "exam_id": "exam_20260314_075020",
+    "student_name": "Vanshika Rastogi",
+    "student_id": "aaf6bffb-beda-4524-8445-3c90d5c69d65",
+    "type": "palm_detected",
+    "severity": "medium",
+    "description": "Suspicious hand detected: normal",
+    "timestamp": "2026-03-14 07:58:08.673724",
+    "metadata": {
+      "bbox": [
+        74,
+        11,
+        70,
+        132
+      ],
+      "confidence": 0.8,
+      "type": "hand",
+      "suspicious": true,
+      "gesture_type": "normal",
+      "relative_y": 0.16041666666666668,
+      "method": "OpenCV_Enhanced"
+    },
+    "action_taken": null,
+    "confidence_score": 0.8,
+    "detection_method": "OpenCV_Enhanced"
+  },
+  "09c36544-9eb0-4a68-9676-1fe59fce5b07": {
+    "id": "09c36544-9eb0-4a68-9676-1fe59fce5b07",
+    "exam_id": "exam_20260314_075020",
+    "student_name": "Vanshika Rastogi",
+    "student_id": "aaf6bffb-beda-4524-8445-3c90d5c69d65",
+    "type": "palm_detected",
+    "severity": "medium",
+    "description": "Suspicious hand detected: normal",
+    "timestamp": "2026-03-14 07:58:13.725458",
+    "metadata": {
+      "bbox": [
+        82,
+        14,
+        78,
+        145
+      ],
+      "confidence": 0.8,
+      "type": "hand",
+      "suspicious": true,
+      "gesture_type": "normal",
+      "relative_y": 0.17916666666666667,
+      "method": "OpenCV_Enhanced"
+    },
+    "action_taken": null,
+    "confidence_score": 0.8,
+    "detection_method": "OpenCV_Enhanced"
+  },
+  "c2e66248-26c9-4fca-8ab5-fba5340cb87d": {
+    "id": "c2e66248-26c9-4fca-8ab5-fba5340cb87d",
+    "exam_id": "exam_20260314_075020",
+    "student_name": "Vanshika Rastogi",
+    "student_id": "aaf6bffb-beda-4524-8445-3c90d5c69d65",
+    "type": "palm_detected",
+    "severity": "medium",
+    "description": "Suspicious hand detected: normal",
+    "timestamp": "2026-03-14 07:58:18.939511",
+    "metadata": {
+      "bbox": [
+        12,
+        0,
+        141,
+        123
+      ],
+      "confidence": 0.8,
+      "type": "hand",
+      "suspicious": true,
+      "gesture_type": "normal",
+      "relative_y": 0.12708333333333333,
+      "method": "OpenCV_Enhanced"
+    },
+    "action_taken": null,
+    "confidence_score": 0.8,
+    "detection_method": "OpenCV_Enhanced"
+  },
+  "ec243610-cca5-4937-97ee-a70541d2e57f": {
+    "id": "ec243610-cca5-4937-97ee-a70541d2e57f",
+    "exam_id": "exam_20260314_075020",
+    "student_name": "Vanshika Rastogi",
+    "student_id": "aaf6bffb-beda-4524-8445-3c90d5c69d65",
+    "type": "palm_detected",
+    "severity": "medium",
+    "description": "Suspicious hand detected: normal",
+    "timestamp": "2026-03-14 07:58:23.671583",
+    "metadata": {
+      "bbox": [
+        25,
+        0,
+        135,
+        142
+      ],
+      "confidence": 0.8,
+      "type": "hand",
+      "suspicious": true,
+      "gesture_type": "normal",
+      "relative_y": 0.14791666666666667,
+      "method": "OpenCV_Enhanced"
+    },
+    "action_taken": null,
+    "confidence_score": 0.8,
+    "detection_method": "OpenCV_Enhanced"
+  },
+  "1c719df7-b6bd-4635-b889-5093fdd7be0d": {
+    "id": "1c719df7-b6bd-4635-b889-5093fdd7be0d",
+    "exam_id": "exam_20260314_075020",
+    "student_name": "Vanshika Rastogi",
+    "student_id": "aaf6bffb-beda-4524-8445-3c90d5c69d65",
+    "type": "palm_detected",
+    "severity": "medium",
+    "description": "Suspicious hand detected: normal",
+    "timestamp": "2026-03-14 07:58:28.741263",
+    "metadata": {
+      "bbox": [
+        70,
+        13,
+        103,
+        163
+      ],
+      "confidence": 0.8,
+      "type": "hand",
+      "suspicious": true,
+      "gesture_type": "normal",
+      "relative_y": 0.19583333333333333,
+      "method": "OpenCV_Enhanced"
+    },
+    "action_taken": null,
+    "confidence_score": 0.8,
+    "detection_method": "OpenCV_Enhanced"
+  },
+  "b778c7a4-24a7-4729-9ade-679f26a8b2bd": {
+    "id": "b778c7a4-24a7-4729-9ade-679f26a8b2bd",
+    "exam_id": "exam_20260314_075020",
+    "student_name": "Vanshika Rastogi",
+    "student_id": "aaf6bffb-beda-4524-8445-3c90d5c69d65",
+    "type": "palm_detected",
+    "severity": "medium",
+    "description": "Suspicious hand detected: normal",
+    "timestamp": "2026-03-14 07:58:33.879242",
+    "metadata": {
+      "bbox": [
+        70,
+        3,
+        94,
+        141
+      ],
+      "confidence": 0.8,
+      "type": "hand",
+      "suspicious": true,
+      "gesture_type": "normal",
+      "relative_y": 0.15208333333333332,
+      "method": "OpenCV_Enhanced"
+    },
+    "action_taken": null,
+    "confidence_score": 0.8,
+    "detection_method": "OpenCV_Enhanced"
+  },
+  "4e0b729e-e621-4a3d-93d9-6f110e73bf08": {
+    "id": "4e0b729e-e621-4a3d-93d9-6f110e73bf08",
+    "exam_id": "exam_20260314_075020",
+    "student_name": "Vanshika Rastogi",
+    "student_id": "aaf6bffb-beda-4524-8445-3c90d5c69d65",
+    "type": "palm_detected",
+    "severity": "medium",
+    "description": "Suspicious hand detected: normal",
+    "timestamp": "2026-03-14 07:58:38.800195",
+    "metadata": {
+      "bbox": [
+        36,
+        0,
+        102,
+        107
+      ],
+      "confidence": 0.8,
+      "type": "hand",
+      "suspicious": true,
+      "gesture_type": "normal",
+      "relative_y": 0.11041666666666666,
+      "method": "OpenCV_Enhanced"
+    },
+    "action_taken": null,
+    "confidence_score": 0.8,
+    "detection_method": "OpenCV_Enhanced"
+  },
+  "551ebcda-7cce-45fa-b54c-e35dfb0a31c2": {
+    "id": "551ebcda-7cce-45fa-b54c-e35dfb0a31c2",
+    "exam_id": "exam_20260314_075020",
+    "student_name": "Vanshika Rastogi",
+    "student_id": "aaf6bffb-beda-4524-8445-3c90d5c69d65",
+    "type": "palm_detected",
+    "severity": "medium",
+    "description": "Suspicious hand detected: normal",
+    "timestamp": "2026-03-14 07:58:43.601978",
+    "metadata": {
+      "bbox": [
+        67,
+        0,
+        87,
+        118
+      ],
+      "confidence": 0.8,
+      "type": "hand",
+      "suspicious": true,
+      "gesture_type": "normal",
+      "relative_y": 0.12291666666666666,
+      "method": "OpenCV_Enhanced"
+    },
+    "action_taken": null,
+    "confidence_score": 0.8,
+    "detection_method": "OpenCV_Enhanced"
+  },
+  "18b8720d-1dbe-44e6-a587-90c314093aff": {
+    "id": "18b8720d-1dbe-44e6-a587-90c314093aff",
+    "exam_id": "exam_20260314_075020",
+    "student_name": "Vanshika Rastogi",
+    "student_id": "aaf6bffb-beda-4524-8445-3c90d5c69d65",
+    "type": "palm_detected",
+    "severity": "medium",
+    "description": "Suspicious hand detected: normal",
+    "timestamp": "2026-03-14 07:58:48.542531",
+    "metadata": {
+      "bbox": [
+        68,
+        0,
+        107,
+        152
+      ],
+      "confidence": 0.8,
+      "type": "hand",
+      "suspicious": true,
+      "gesture_type": "normal",
+      "relative_y": 0.15833333333333333,
+      "method": "OpenCV_Enhanced"
+    },
+    "action_taken": null,
+    "confidence_score": 0.8,
+    "detection_method": "OpenCV_Enhanced"
+  },
+  "aad3f6d8-ed4e-497d-8b15-dd932cc1346b": {
+    "id": "aad3f6d8-ed4e-497d-8b15-dd932cc1346b",
+    "exam_id": "exam_20260314_075020",
+    "student_name": "Vanshika Rastogi",
+    "student_id": "aaf6bffb-beda-4524-8445-3c90d5c69d65",
+    "type": "palm_detected",
+    "severity": "medium",
+    "description": "Suspicious hand detected: normal",
+    "timestamp": "2026-03-14 07:58:53.645304",
+    "metadata": {
+      "bbox": [
+        66,
+        0,
+        110,
+        151
+      ],
+      "confidence": 0.8,
+      "type": "hand",
+      "suspicious": true,
+      "gesture_type": "normal",
+      "relative_y": 0.15625,
+      "method": "OpenCV_Enhanced"
+    },
+    "action_taken": null,
+    "confidence_score": 0.8,
+    "detection_method": "OpenCV_Enhanced"
+  },
+  "48995877-dbf7-4b17-8771-5969cd3fa20f": {
+    "id": "48995877-dbf7-4b17-8771-5969cd3fa20f",
+    "exam_id": "exam_20260314_075020",
+    "student_name": "Vanshika Rastogi",
+    "student_id": "aaf6bffb-beda-4524-8445-3c90d5c69d65",
+    "type": "multiple_faces",
+    "severity": "critical",
+    "description": "Multiple faces detected: 2 faces",
+    "timestamp": "2026-03-14 07:59:03.542847",
+    "metadata": {
+      "faces_count": 2,
+      "faces_info": [
+        {
+          "bbox": [
+            258,
+            321,
+            129,
+            129
+          ],
+          "confidence": 0.6812548828125,
+          "method": "OpenCV"
+        },
+        {
+          "bbox": [
+            215,
+            153,
+            210,
+            210
+          ],
+          "confidence": 0.81533203125,
+          "method": "OpenCV"
+        }
+      ]
+    },
+    "action_taken": null,
+    "confidence_score": 0.81533203125,
+    "detection_method": "OpenCV"
+  },
+  "b4e7cc42-6b53-48ab-a3e3-c3f1fe714385": {
+    "id": "b4e7cc42-6b53-48ab-a3e3-c3f1fe714385",
+    "exam_id": "exam_20260314_075020",
+    "student_name": "Vanshika Rastogi",
+    "student_id": "aaf6bffb-beda-4524-8445-3c90d5c69d65",
+    "type": "palm_detected",
+    "severity": "medium",
+    "description": "Suspicious hand detected: normal",
+    "timestamp": "2026-03-14 07:59:03.577942",
+    "metadata": {
+      "bbox": [
+        62,
+        0,
+        106,
+        153
+      ],
+      "confidence": 0.8,
+      "type": "hand",
+      "suspicious": true,
+      "gesture_type": "normal",
+      "relative_y": 0.15833333333333333,
+      "method": "OpenCV_Enhanced"
+    },
+    "action_taken": null,
+    "confidence_score": 0.8,
+    "detection_method": "OpenCV_Enhanced"
+  },
+  "ecbb3d23-c99f-4ea7-adf8-45ca778831b2": {
+    "id": "ecbb3d23-c99f-4ea7-adf8-45ca778831b2",
+    "exam_id": "exam_20260314_075020",
+    "student_name": "Vanshika Rastogi",
+    "student_id": "aaf6bffb-beda-4524-8445-3c90d5c69d65",
+    "type": "palm_detected",
+    "severity": "medium",
+    "description": "Suspicious hand detected: normal",
+    "timestamp": "2026-03-14 07:59:08.768590",
+    "metadata": {
+      "bbox": [
+        69,
+        0,
+        99,
+        143
+      ],
+      "confidence": 0.8,
+      "type": "hand",
+      "suspicious": true,
+      "gesture_type": "normal",
+      "relative_y": 0.14791666666666667,
+      "method": "OpenCV_Enhanced"
+    },
+    "action_taken": null,
+    "confidence_score": 0.8,
+    "detection_method": "OpenCV_Enhanced"
+  },
+  "581159f8-d210-4425-afab-ba935c50218e": {
+    "id": "581159f8-d210-4425-afab-ba935c50218e",
+    "exam_id": "exam_20260314_075020",
+    "student_name": "Vanshika Rastogi",
+    "student_id": "aaf6bffb-beda-4524-8445-3c90d5c69d65",
+    "type": "palm_detected",
+    "severity": "medium",
+    "description": "Suspicious hand detected: normal",
+    "timestamp": "2026-03-14 07:59:23.569554",
+    "metadata": {
+      "bbox": [
+        23,
+        0,
+        152,
+        148
+      ],
+      "confidence": 0.8,
+      "type": "hand",
+      "suspicious": true,
+      "gesture_type": "normal",
+      "relative_y": 0.15416666666666667,
+      "method": "OpenCV_Enhanced"
+    },
+    "action_taken": null,
+    "confidence_score": 0.8,
+    "detection_method": "OpenCV_Enhanced"
+  },
+  "d01d2873-b523-4438-b667-f1f11c397fdf": {
+    "id": "d01d2873-b523-4438-b667-f1f11c397fdf",
+    "exam_id": "exam_20260314_075020",
+    "student_name": "Vanshika Rastogi",
+    "student_id": "aaf6bffb-beda-4524-8445-3c90d5c69d65",
+    "type": "palm_detected",
+    "severity": "medium",
+    "description": "Suspicious hand detected: normal",
+    "timestamp": "2026-03-14 07:59:28.545889",
+    "metadata": {
+      "bbox": [
+        70,
+        5,
+        105,
+        146
+      ],
+      "confidence": 0.8,
+      "type": "hand",
+      "suspicious": true,
+      "gesture_type": "normal",
+      "relative_y": 0.1625,
+      "method": "OpenCV_Enhanced"
+    },
+    "action_taken": null,
+    "confidence_score": 0.8,
+    "detection_method": "OpenCV_Enhanced"
+  },
+  "504ac4db-216d-46f7-9a2d-940f9440a962": {
+    "id": "504ac4db-216d-46f7-9a2d-940f9440a962",
+    "exam_id": "exam_20260314_075020",
+    "student_name": "Vanshika Rastogi",
+    "student_id": "aaf6bffb-beda-4524-8445-3c90d5c69d65",
+    "type": "palm_detected",
+    "severity": "medium",
+    "description": "Suspicious hand detected: normal",
+    "timestamp": "2026-03-14 07:59:33.617154",
+    "metadata": {
+      "bbox": [
+        0,
+        0,
+        182,
+        161
+      ],
+      "confidence": 0.8,
+      "type": "hand",
+      "suspicious": true,
+      "gesture_type": "normal",
+      "relative_y": 0.16666666666666666,
+      "method": "OpenCV_Enhanced"
+    },
+    "action_taken": null,
+    "confidence_score": 0.8,
+    "detection_method": "OpenCV_Enhanced"
+  },
+  "956b5a56-38ad-4538-b437-992cc07b3a5d": {
+    "id": "956b5a56-38ad-4538-b437-992cc07b3a5d",
+    "exam_id": "exam_20260314_075020",
+    "student_name": "Vanshika Rastogi",
+    "student_id": "aaf6bffb-beda-4524-8445-3c90d5c69d65",
+    "type": "palm_detected",
+    "severity": "medium",
+    "description": "Suspicious hand detected: normal",
+    "timestamp": "2026-03-14 07:59:38.557740",
+    "metadata": {
+      "bbox": [
+        14,
+        3,
+        168,
+        154
+      ],
+      "confidence": 0.8,
+      "type": "hand",
+      "suspicious": true,
+      "gesture_type": "normal",
+      "relative_y": 0.16666666666666666,
+      "method": "OpenCV_Enhanced"
+    },
+    "action_taken": null,
+    "confidence_score": 0.8,
+    "detection_method": "OpenCV_Enhanced"
+  },
+  "f483a0fd-2907-468f-8c7a-815577935a5b": {
+    "id": "f483a0fd-2907-468f-8c7a-815577935a5b",
+    "exam_id": "exam_20260314_075020",
+    "student_name": "Vanshika Rastogi",
+    "student_id": "aaf6bffb-beda-4524-8445-3c90d5c69d65",
+    "type": "palm_detected",
+    "severity": "medium",
+    "description": "Suspicious hand detected: normal",
+    "timestamp": "2026-03-14 07:59:43.597907",
+    "metadata": {
+      "bbox": [
+        3,
+        10,
+        184,
+        144
+      ],
+      "confidence": 0.8,
+      "type": "hand",
+      "suspicious": true,
+      "gesture_type": "normal",
+      "relative_y": 0.17083333333333334,
+      "method": "OpenCV_Enhanced"
+    },
+    "action_taken": null,
+    "confidence_score": 0.8,
+    "detection_method": "OpenCV_Enhanced"
+  },
+  "da67b196-abab-42c7-b71e-47dd707d465d": {
+    "id": "da67b196-abab-42c7-b71e-47dd707d465d",
+    "exam_id": "exam_20260314_075020",
+    "student_name": "Vanshika Rastogi",
+    "student_id": "aaf6bffb-beda-4524-8445-3c90d5c69d65",
+    "type": "palm_detected",
+    "severity": "medium",
+    "description": "Suspicious hand detected: normal",
+    "timestamp": "2026-03-14 07:59:53.531318",
+    "metadata": {
+      "bbox": [
+        0,
+        7,
+        180,
+        151
+      ],
+      "confidence": 0.8,
+      "type": "hand",
+      "suspicious": true,
+      "gesture_type": "normal",
+      "relative_y": 0.17083333333333334,
+      "method": "OpenCV_Enhanced"
+    },
+    "action_taken": null,
+    "confidence_score": 0.8,
+    "detection_method": "OpenCV_Enhanced"
+  },
+  "e6a4498a-9ddd-4173-a7e2-3eae4720c8f0": {
+    "id": "e6a4498a-9ddd-4173-a7e2-3eae4720c8f0",
+    "exam_id": "exam_20260314_075020",
+    "student_name": "Vanshika Rastogi",
+    "student_id": "aaf6bffb-beda-4524-8445-3c90d5c69d65",
+    "type": "palm_detected",
+    "severity": "medium",
+    "description": "Suspicious hand detected: normal",
+    "timestamp": "2026-03-14 07:59:58.624417",
+    "metadata": {
+      "bbox": [
+        9,
+        3,
+        182,
+        164
+      ],
+      "confidence": 0.8,
+      "type": "hand",
+      "suspicious": true,
+      "gesture_type": "normal",
+      "relative_y": 0.17708333333333334,
+      "method": "OpenCV_Enhanced"
+    },
+    "action_taken": null,
+    "confidence_score": 0.8,
+    "detection_method": "OpenCV_Enhanced"
+  },
+  "fc049ff2-c495-481f-9098-f7c05cd96948": {
+    "id": "fc049ff2-c495-481f-9098-f7c05cd96948",
+    "exam_id": "exam_20260314_075020",
+    "student_name": "Vanshika Rastogi",
+    "student_id": "aaf6bffb-beda-4524-8445-3c90d5c69d65",
+    "type": "palm_detected",
+    "severity": "medium",
+    "description": "Suspicious hand detected: normal",
+    "timestamp": "2026-03-14 08:00:03.601812",
+    "metadata": {
+      "bbox": [
+        22,
+        0,
+        158,
+        158
+      ],
+      "confidence": 0.8,
+      "type": "hand",
+      "suspicious": true,
+      "gesture_type": "normal",
+      "relative_y": 0.16458333333333333,
+      "method": "OpenCV_Enhanced"
+    },
+    "action_taken": null,
+    "confidence_score": 0.8,
+    "detection_method": "OpenCV_Enhanced"
+  },
+  "84281faa-b0f3-4aaf-859c-305f96833b65": {
+    "id": "84281faa-b0f3-4aaf-859c-305f96833b65",
+    "exam_id": "exam_20260314_075020",
+    "student_name": "Vanshika Rastogi",
+    "student_id": "aaf6bffb-beda-4524-8445-3c90d5c69d65",
+    "type": "palm_detected",
+    "severity": "medium",
+    "description": "Suspicious hand detected: normal",
+    "timestamp": "2026-03-14 08:00:08.534340",
+    "metadata": {
+      "bbox": [
+        72,
+        15,
+        115,
+        146
+      ],
+      "confidence": 0.8,
+      "type": "hand",
+      "suspicious": true,
+      "gesture_type": "normal",
+      "relative_y": 0.18333333333333332,
+      "method": "OpenCV_Enhanced"
+    },
+    "action_taken": null,
+    "confidence_score": 0.8,
+    "detection_method": "OpenCV_Enhanced"
+  },
+  "a93b5d01-e1ec-44f8-8d1f-cf139e98aee1": {
+    "id": "a93b5d01-e1ec-44f8-8d1f-cf139e98aee1",
+    "exam_id": "exam_20260314_075020",
+    "student_name": "Vanshika Rastogi",
+    "student_id": "aaf6bffb-beda-4524-8445-3c90d5c69d65",
+    "type": "palm_detected",
+    "severity": "medium",
+    "description": "Suspicious hand detected: normal",
+    "timestamp": "2026-03-14 08:00:13.835485",
+    "metadata": {
+      "bbox": [
+        6,
+        9,
+        179,
+        151
+      ],
+      "confidence": 0.8,
+      "type": "hand",
+      "suspicious": true,
+      "gesture_type": "normal",
+      "relative_y": 0.175,
+      "method": "OpenCV_Enhanced"
+    },
+    "action_taken": null,
+    "confidence_score": 0.8,
+    "detection_method": "OpenCV_Enhanced"
+  },
+  "8c9aa112-2217-4a2f-95f1-7e36fad5ce3c": {
+    "id": "8c9aa112-2217-4a2f-95f1-7e36fad5ce3c",
+    "exam_id": "exam_20260314_075020",
+    "student_name": "Vanshika Rastogi",
+    "student_id": "aaf6bffb-beda-4524-8445-3c90d5c69d65",
+    "type": "palm_detected",
+    "severity": "medium",
+    "description": "Suspicious hand detected: normal",
+    "timestamp": "2026-03-14 08:00:18.593540",
+    "metadata": {
+      "bbox": [
+        5,
+        8,
+        183,
+        152
+      ],
+      "confidence": 0.8,
+      "type": "hand",
+      "suspicious": true,
+      "gesture_type": "normal",
+      "relative_y": 0.175,
+      "method": "OpenCV_Enhanced"
+    },
+    "action_taken": null,
+    "confidence_score": 0.8,
+    "detection_method": "OpenCV_Enhanced"
+  },
+  "de6840d4-1c8a-4cb3-a22a-338b26f3b5bb": {
+    "id": "de6840d4-1c8a-4cb3-a22a-338b26f3b5bb",
+    "exam_id": "exam_20260314_075020",
+    "student_name": "Vanshika Rastogi",
+    "student_id": "aaf6bffb-beda-4524-8445-3c90d5c69d65",
+    "type": "palm_detected",
+    "severity": "medium",
+    "description": "Suspicious hand detected: normal",
+    "timestamp": "2026-03-14 08:00:23.554755",
+    "metadata": {
+      "bbox": [
+        0,
+        10,
+        187,
+        151
+      ],
+      "confidence": 0.8,
+      "type": "hand",
+      "suspicious": true,
+      "gesture_type": "normal",
+      "relative_y": 0.17708333333333334,
+      "method": "OpenCV_Enhanced"
+    },
+    "action_taken": null,
+    "confidence_score": 0.8,
+    "detection_method": "OpenCV_Enhanced"
+  },
+  "bd10d55e-91ee-4ad2-9012-fa8bad688ff3": {
+    "id": "bd10d55e-91ee-4ad2-9012-fa8bad688ff3",
+    "exam_id": "exam_20260314_075020",
+    "student_name": "Vanshika Rastogi",
+    "student_id": "aaf6bffb-beda-4524-8445-3c90d5c69d65",
+    "type": "palm_detected",
+    "severity": "medium",
+    "description": "Suspicious hand detected: normal",
+    "timestamp": "2026-03-14 08:00:28.612547",
+    "metadata": {
+      "bbox": [
+        7,
+        7,
+        180,
+        152
+      ],
+      "confidence": 0.8,
+      "type": "hand",
+      "suspicious": true,
+      "gesture_type": "normal",
+      "relative_y": 0.17291666666666666,
+      "method": "OpenCV_Enhanced"
+    },
+    "action_taken": null,
+    "confidence_score": 0.8,
+    "detection_method": "OpenCV_Enhanced"
+  },
+  "797014f5-69ff-4f76-9b69-3b0a1d4d7270": {
+    "id": "797014f5-69ff-4f76-9b69-3b0a1d4d7270",
+    "exam_id": "exam_20260314_075020",
+    "student_name": "Vanshika Rastogi",
+    "student_id": "aaf6bffb-beda-4524-8445-3c90d5c69d65",
+    "type": "palm_detected",
+    "severity": "medium",
+    "description": "Suspicious hand detected: normal",
+    "timestamp": "2026-03-14 08:00:33.606618",
+    "metadata": {
+      "bbox": [
+        0,
+        15,
+        191,
+        145
+      ],
+      "confidence": 0.8,
+      "type": "hand",
+      "suspicious": true,
+      "gesture_type": "normal",
+      "relative_y": 0.18125,
+      "method": "OpenCV_Enhanced"
+    },
+    "action_taken": null,
+    "confidence_score": 0.8,
+    "detection_method": "OpenCV_Enhanced"
+  },
+  "711fc3da-4b8e-46d6-a302-87f5faad048c": {
+    "id": "711fc3da-4b8e-46d6-a302-87f5faad048c",
+    "exam_id": "exam_20260314_075020",
+    "student_name": "Vanshika Rastogi",
+    "student_id": "aaf6bffb-beda-4524-8445-3c90d5c69d65",
+    "type": "palm_detected",
+    "severity": "medium",
+    "description": "Suspicious hand detected: normal",
+    "timestamp": "2026-03-14 08:00:38.594809",
+    "metadata": {
+      "bbox": [
+        24,
+        14,
+        167,
+        144
+      ],
+      "confidence": 0.8,
+      "type": "hand",
+      "suspicious": true,
+      "gesture_type": "normal",
+      "relative_y": 0.17916666666666667,
+      "method": "OpenCV_Enhanced"
+    },
+    "action_taken": null,
+    "confidence_score": 0.8,
+    "detection_method": "OpenCV_Enhanced"
+  },
+  "00b0b49f-f387-483d-a325-54b4e1642ea4": {
+    "id": "00b0b49f-f387-483d-a325-54b4e1642ea4",
+    "exam_id": "exam_20260314_075020",
+    "student_name": "Vanshika Rastogi",
+    "student_id": "aaf6bffb-beda-4524-8445-3c90d5c69d65",
+    "type": "palm_detected",
+    "severity": "medium",
+    "description": "Suspicious hand detected: normal",
+    "timestamp": "2026-03-14 08:00:48.538138",
+    "metadata": {
+      "bbox": [
+        64,
+        0,
+        102,
+        145
+      ],
+      "confidence": 0.8,
+      "type": "hand",
+      "suspicious": true,
+      "gesture_type": "normal",
+      "relative_y": 0.15,
+      "method": "OpenCV_Enhanced"
+    },
+    "action_taken": null,
+    "confidence_score": 0.8,
+    "detection_method": "OpenCV_Enhanced"
+  },
+  "1c3ae567-16e6-42e6-a234-35db35879a13": {
+    "id": "1c3ae567-16e6-42e6-a234-35db35879a13",
+    "exam_id": "exam_20260314_075020",
+    "student_name": "Vanshika Rastogi",
+    "student_id": "aaf6bffb-beda-4524-8445-3c90d5c69d65",
+    "type": "palm_detected",
+    "severity": "medium",
+    "description": "Suspicious hand detected: normal",
+    "timestamp": "2026-03-14 08:00:53.540626",
+    "metadata": {
+      "bbox": [
+        72,
+        0,
+        103,
+        160
+      ],
+      "confidence": 0.8,
+      "type": "hand",
+      "suspicious": true,
+      "gesture_type": "normal",
+      "relative_y": 0.16666666666666666,
+      "method": "OpenCV_Enhanced"
+    },
+    "action_taken": null,
+    "confidence_score": 0.8,
+    "detection_method": "OpenCV_Enhanced"
+  },
+  "215fb1bb-0ca1-4cd7-962f-8dcead64a5a6": {
+    "id": "215fb1bb-0ca1-4cd7-962f-8dcead64a5a6",
+    "exam_id": "exam_20260314_075020",
+    "student_name": "Vanshika Rastogi",
+    "student_id": "aaf6bffb-beda-4524-8445-3c90d5c69d65",
+    "type": "palm_detected",
+    "severity": "medium",
+    "description": "Suspicious hand detected: normal",
+    "timestamp": "2026-03-14 08:00:58.524950",
+    "metadata": {
+      "bbox": [
+        66,
+        15,
+        104,
+        151
+      ],
+      "confidence": 0.8,
+      "type": "hand",
+      "suspicious": true,
+      "gesture_type": "normal",
+      "relative_y": 0.1875,
+      "method": "OpenCV_Enhanced"
+    },
+    "action_taken": null,
+    "confidence_score": 0.8,
+    "detection_method": "OpenCV_Enhanced"
+  },
+  "68145e10-43d9-4694-b577-9a581b738909": {
+    "id": "68145e10-43d9-4694-b577-9a581b738909",
+    "exam_id": "exam_20260314_075020",
+    "student_name": "Vanshika Rastogi",
+    "student_id": "aaf6bffb-beda-4524-8445-3c90d5c69d65",
+    "type": "palm_detected",
+    "severity": "medium",
+    "description": "Suspicious hand detected: normal",
+    "timestamp": "2026-03-14 08:01:03.586349",
+    "metadata": {
+      "bbox": [
+        70,
+        22,
+        105,
+        138
+      ],
+      "confidence": 0.8,
+      "type": "hand",
+      "suspicious": true,
+      "gesture_type": "normal",
+      "relative_y": 0.18958333333333333,
+      "method": "OpenCV_Enhanced"
+    },
+    "action_taken": null,
+    "confidence_score": 0.8,
+    "detection_method": "OpenCV_Enhanced"
+  },
+  "4396d0c7-a3ae-468d-b2a3-cb7e55fbeccc": {
+    "id": "4396d0c7-a3ae-468d-b2a3-cb7e55fbeccc",
+    "exam_id": "exam_20260314_075020",
+    "student_name": "Vanshika Rastogi",
+    "student_id": "aaf6bffb-beda-4524-8445-3c90d5c69d65",
+    "type": "multiple_faces",
+    "severity": "critical",
+    "description": "Multiple faces detected: 2 faces",
+    "timestamp": "2026-03-14 08:01:08.532564",
+    "metadata": {
+      "faces_count": 2,
+      "faces_info": [
+        {
+          "bbox": [
+            235,
+            346,
+            118,
+            118
+          ],
+          "confidence": 0.66798828125,
+          "method": "OpenCV"
+        },
+        {
+          "bbox": [
+            181,
+            166,
+            216,
+            216
+          ],
+          "confidence": 0.8278125000000001,
+          "method": "OpenCV"
+        }
+      ]
+    },
+    "action_taken": null,
+    "confidence_score": 0.8278125000000001,
+    "detection_method": "OpenCV"
+  },
+  "4e7ad567-08eb-47de-95f2-96779cbe4a62": {
+    "id": "4e7ad567-08eb-47de-95f2-96779cbe4a62",
+    "exam_id": "exam_20260314_075020",
+    "student_name": "Vanshika Rastogi",
+    "student_id": "aaf6bffb-beda-4524-8445-3c90d5c69d65",
+    "type": "palm_detected",
+    "severity": "medium",
+    "description": "Suspicious hand detected: normal",
+    "timestamp": "2026-03-14 08:01:08.572444",
+    "metadata": {
+      "bbox": [
+        72,
+        27,
+        103,
+        141
+      ],
+      "confidence": 0.8,
+      "type": "hand",
+      "suspicious": true,
+      "gesture_type": "normal",
+      "relative_y": 0.20208333333333334,
+      "method": "OpenCV_Enhanced"
+    },
+    "action_taken": null,
+    "confidence_score": 0.8,
+    "detection_method": "OpenCV_Enhanced"
+  },
+  "7b79eed8-4964-4935-a214-ea8cb6d54bb3": {
+    "id": "7b79eed8-4964-4935-a214-ea8cb6d54bb3",
+    "exam_id": "exam_20260314_075020",
+    "student_name": "Vanshika Rastogi",
+    "student_id": "aaf6bffb-beda-4524-8445-3c90d5c69d65",
+    "type": "tab_switch",
+    "severity": "high",
+    "description": "Tab switch detected (4s hidden, 2 total)",
+    "timestamp": "2026-03-14 08:01:12.688953",
+    "metadata": {
+      "count": 2,
+      "duration_ms": 3594,
+      "timestamp": "2026-03-14T02:31:12.547Z",
+      "threshold_exceeded": false,
+      "exam_terminated": false,
+      "termination_reason": null
+    },
+    "action_taken": null,
+    "confidence_score": null,
+    "detection_method": null
+  },
+  "de979a18-9dfd-4636-8829-3d457f3a5548": {
+    "id": "de979a18-9dfd-4636-8829-3d457f3a5548",
+    "exam_id": "exam_20260314_075020",
+    "student_name": "Vanshika Rastogi",
+    "student_id": "aaf6bffb-beda-4524-8445-3c90d5c69d65",
+    "type": "tab_switch",
+    "severity": "high",
+    "description": "Tab switch detected (4s hidden, 2 total)",
+    "timestamp": "2026-03-14 08:01:12.744686",
+    "metadata": {
+      "count": 2,
+      "duration_ms": 3594,
+      "timestamp": "2026-03-14T02:31:12.548Z",
+      "threshold_exceeded": false,
+      "exam_terminated": false,
+      "termination_reason": null
+    },
+    "action_taken": null,
+    "confidence_score": null,
+    "detection_method": null
+  },
+  "a4ecbab1-3785-46b9-bbf3-e0358381662c": {
+    "id": "a4ecbab1-3785-46b9-bbf3-e0358381662c",
+    "exam_id": "exam_20260314_075020",
+    "student_name": "Vanshika Rastogi",
+    "student_id": "aaf6bffb-beda-4524-8445-3c90d5c69d65",
+    "type": "palm_detected",
+    "severity": "medium",
+    "description": "Suspicious hand detected: normal",
+    "timestamp": "2026-03-14 08:01:13.828879",
+    "metadata": {
+      "bbox": [
+        70,
+        25,
+        96,
+        168
+      ],
+      "confidence": 0.8,
+      "type": "hand",
+      "suspicious": true,
+      "gesture_type": "normal",
+      "relative_y": 0.22708333333333333,
+      "method": "OpenCV_Enhanced"
+    },
+    "action_taken": null,
+    "confidence_score": 0.8,
+    "detection_method": "OpenCV_Enhanced"
+  },
+  "d6d44bff-ab60-48d5-b60f-907c0d32861b": {
+    "id": "d6d44bff-ab60-48d5-b60f-907c0d32861b",
+    "exam_id": "exam_20260314_075020",
+    "student_name": "Vanshika Rastogi",
+    "student_id": "aaf6bffb-beda-4524-8445-3c90d5c69d65",
+    "type": "palm_detected",
+    "severity": "medium",
+    "description": "Suspicious hand detected: normal",
+    "timestamp": "2026-03-14 08:01:18.858677",
+    "metadata": {
+      "bbox": [
+        69,
+        38,
+        66,
+        127
+      ],
+      "confidence": 0.8,
+      "type": "hand",
+      "suspicious": true,
+      "gesture_type": "normal",
+      "relative_y": 0.21041666666666667,
+      "method": "OpenCV_Enhanced"
+    },
+    "action_taken": null,
+    "confidence_score": 0.8,
+    "detection_method": "OpenCV_Enhanced"
+  },
+  "9d0edad5-5a94-442f-8e00-7fe4dce53429": {
+    "id": "9d0edad5-5a94-442f-8e00-7fe4dce53429",
+    "exam_id": "exam_20260314_075020",
+    "student_name": "Vanshika Rastogi",
+    "student_id": "aaf6bffb-beda-4524-8445-3c90d5c69d65",
+    "type": "palm_detected",
+    "severity": "medium",
+    "description": "Suspicious hand detected: normal",
+    "timestamp": "2026-03-14 08:01:24.129054",
+    "metadata": {
+      "bbox": [
+        69,
+        27,
+        101,
+        138
+      ],
+      "confidence": 0.8,
+      "type": "hand",
+      "suspicious": true,
+      "gesture_type": "normal",
+      "relative_y": 0.2,
+      "method": "OpenCV_Enhanced"
+    },
+    "action_taken": null,
+    "confidence_score": 0.8,
+    "detection_method": "OpenCV_Enhanced"
+  },
+  "cae0ec60-76b5-453b-8830-7e20b8388da6": {
+    "id": "cae0ec60-76b5-453b-8830-7e20b8388da6",
+    "exam_id": "exam_20260314_075020",
+    "student_name": "Vanshika Rastogi",
+    "student_id": "aaf6bffb-beda-4524-8445-3c90d5c69d65",
+    "type": "palm_detected",
+    "severity": "medium",
+    "description": "Suspicious hand detected: normal",
+    "timestamp": "2026-03-14 08:01:28.556365",
+    "metadata": {
+      "bbox": [
+        33,
+        33,
+        126,
+        128
+      ],
+      "confidence": 0.8,
+      "type": "hand",
+      "suspicious": true,
+      "gesture_type": "normal",
+      "relative_y": 0.20208333333333334,
+      "method": "OpenCV_Enhanced"
+    },
+    "action_taken": null,
+    "confidence_score": 0.8,
+    "detection_method": "OpenCV_Enhanced"
+  },
+  "24dae263-feb4-437c-a5c6-d66fa1849500": {
+    "id": "24dae263-feb4-437c-a5c6-d66fa1849500",
+    "exam_id": "exam_20260314_075020",
+    "student_name": "Vanshika Rastogi",
+    "student_id": "aaf6bffb-beda-4524-8445-3c90d5c69d65",
+    "type": "palm_detected",
+    "severity": "medium",
+    "description": "Suspicious hand detected: normal",
+    "timestamp": "2026-03-14 08:01:33.871558",
+    "metadata": {
+      "bbox": [
+        58,
+        27,
+        70,
+        134
+      ],
+      "confidence": 0.8,
+      "type": "hand",
+      "suspicious": true,
+      "gesture_type": "normal",
+      "relative_y": 0.19583333333333333,
+      "method": "OpenCV_Enhanced"
+    },
+    "action_taken": null,
+    "confidence_score": 0.8,
+    "detection_method": "OpenCV_Enhanced"
+  },
+  "d3684287-e685-4abf-887a-92f87e796ecb": {
+    "id": "d3684287-e685-4abf-887a-92f87e796ecb",
+    "exam_id": "exam_20260314_075020",
+    "student_name": "test student",
+    "student_id": "bdfe80ab-3c55-4acd-97a9-b93c9cacaae7",
+    "type": "palm_detected",
+    "severity": "medium",
+    "description": "Suspicious hand detected: normal",
+    "timestamp": "2026-03-14 08:05:34.588684",
+    "metadata": {
+      "bbox": [
+        65,
+        47,
+        169,
+        165
+      ],
+      "confidence": 0.8,
+      "type": "hand",
+      "suspicious": true,
+      "gesture_type": "normal",
+      "relative_y": 0.26875,
+      "method": "OpenCV_Enhanced"
+    },
+    "action_taken": null,
+    "confidence_score": 0.8,
+    "detection_method": "OpenCV_Enhanced"
+  },
+  "74f4de95-b910-46e2-9883-067ed88183fb": {
+    "id": "74f4de95-b910-46e2-9883-067ed88183fb",
+    "exam_id": "exam_20260314_075020",
+    "student_name": "test student",
+    "student_id": "bdfe80ab-3c55-4acd-97a9-b93c9cacaae7",
+    "type": "tab_switch",
+    "severity": "medium",
+    "description": "Tab switch detected (11s hidden, 1 total)",
+    "timestamp": "2026-03-14 08:05:47.814174",
+    "metadata": {
+      "count": 1,
+      "duration_ms": 10967,
+      "timestamp": "2026-03-14T02:35:47.573Z",
+      "threshold_exceeded": false,
+      "exam_terminated": false,
+      "termination_reason": null
+    },
+    "action_taken": null,
+    "confidence_score": null,
+    "detection_method": null
+  },
+  "c1b5b9cc-1d77-4510-be05-71c0551bc28a": {
+    "id": "c1b5b9cc-1d77-4510-be05-71c0551bc28a",
+    "exam_id": "exam_20260314_075020",
+    "student_name": "test student",
+    "student_id": "bdfe80ab-3c55-4acd-97a9-b93c9cacaae7",
+    "type": "tab_switch",
+    "severity": "medium",
+    "description": "Tab switch detected (11s hidden, 1 total)",
+    "timestamp": "2026-03-14 08:05:47.867449",
+    "metadata": {
+      "count": 1,
+      "duration_ms": 10967,
+      "timestamp": "2026-03-14T02:35:47.576Z",
+      "threshold_exceeded": false,
+      "exam_terminated": false,
+      "termination_reason": null
+    },
+    "action_taken": null,
+    "confidence_score": null,
+    "detection_method": null
+  },
+  "385c8b35-2692-4a16-9dea-ad510024dea3": {
+    "id": "385c8b35-2692-4a16-9dea-ad510024dea3",
+    "exam_id": "exam_20260314_075020",
+    "student_name": "test student",
+    "student_id": "bdfe80ab-3c55-4acd-97a9-b93c9cacaae7",
+    "type": "palm_detected",
+    "severity": "medium",
+    "description": "Suspicious hand detected: normal",
+    "timestamp": "2026-03-14 08:05:54.831452",
+    "metadata": {
+      "bbox": [
+        75,
+        66,
+        164,
+        169
+      ],
+      "confidence": 0.8,
+      "type": "hand",
+      "suspicious": true,
+      "gesture_type": "normal",
+      "relative_y": 0.3125,
+      "method": "OpenCV_Enhanced"
+    },
+    "action_taken": null,
+    "confidence_score": 0.8,
+    "detection_method": "OpenCV_Enhanced"
+  },
+  "32030837-3711-4b1a-a911-b26d54c85265": {
+    "id": "32030837-3711-4b1a-a911-b26d54c85265",
+    "exam_id": "exam_20260314_075020",
+    "student_name": "test student",
+    "student_id": "bdfe80ab-3c55-4acd-97a9-b93c9cacaae7",
+    "type": "tab_switch",
+    "severity": "high",
+    "description": "Tab switch detected (17s hidden, 2 total)",
+    "timestamp": "2026-03-14 08:06:12.862554",
+    "metadata": {
+      "count": 2,
+      "duration_ms": 16568,
+      "timestamp": "2026-03-14T02:36:12.110Z",
+      "threshold_exceeded": false,
+      "exam_terminated": false,
+      "termination_reason": null
+    },
+    "action_taken": null,
+    "confidence_score": null,
+    "detection_method": null
+  },
+  "f0e50351-1216-4cbd-a7ae-9b7ff18b5a76": {
+    "id": "f0e50351-1216-4cbd-a7ae-9b7ff18b5a76",
+    "exam_id": "exam_20260314_075020",
+    "student_name": "test student",
+    "student_id": "bdfe80ab-3c55-4acd-97a9-b93c9cacaae7",
+    "type": "tab_switch",
+    "severity": "high",
+    "description": "Tab switch detected (17s hidden, 2 total)",
+    "timestamp": "2026-03-14 08:06:13.028356",
+    "metadata": {
+      "count": 2,
+      "duration_ms": 16568,
+      "timestamp": "2026-03-14T02:36:12.109Z",
+      "threshold_exceeded": false,
+      "exam_terminated": false,
+      "termination_reason": null
+    },
+    "action_taken": null,
+    "confidence_score": null,
+    "detection_method": null
+  },
+  "e7023de4-0d8c-43c7-9195-2fe6f34904c5": {
+    "id": "e7023de4-0d8c-43c7-9195-2fe6f34904c5",
+    "exam_id": "exam_20260314_075020",
+    "student_name": "test student",
+    "student_id": "bdfe80ab-3c55-4acd-97a9-b93c9cacaae7",
+    "type": "tab_switch",
+    "severity": "critical",
+    "description": "Tab switch detected (10s hidden, 3 total)",
+    "timestamp": "2026-03-14 08:06:33.066606",
+    "metadata": {
+      "count": 3,
+      "duration_ms": 10331,
+      "timestamp": "2026-03-14T02:36:32.985Z",
+      "threshold_exceeded": true,
+      "exam_terminated": true,
+      "termination_reason": "Tab switching limit exceeded (3 switches)"
+    },
+    "action_taken": null,
+    "confidence_score": null,
+    "detection_method": null
+  },
+  "e5757638-9271-418b-ad43-8d3e5cc5724e": {
+    "id": "e5757638-9271-418b-ad43-8d3e5cc5724e",
+    "exam_id": "exam_20260314_075020",
+    "student_name": "test student",
+    "student_id": "bdfe80ab-3c55-4acd-97a9-b93c9cacaae7",
+    "type": "tab_switch",
+    "severity": "critical",
+    "description": "Tab switch detected (10s hidden, 3 total)",
+    "timestamp": "2026-03-14 08:06:33.158972",
+    "metadata": {
+      "count": 3,
+      "duration_ms": 10331,
+      "timestamp": "2026-03-14T02:36:32.986Z",
+      "threshold_exceeded": true,
+      "exam_terminated": true,
+      "termination_reason": "Tab switching limit exceeded (3 switches)"
+    },
+    "action_taken": null,
+    "confidence_score": null,
+    "detection_method": null
+  },
+  "57ce451c-740a-4a4f-8374-f7446882db29": {
+    "id": "57ce451c-740a-4a4f-8374-f7446882db29",
+    "exam_id": "exam_20260314_095744",
+    "student_name": "Vanshika Rastogi",
+    "student_id": "aaf6bffb-beda-4524-8445-3c90d5c69d65",
+    "type": "multiple_faces",
+    "severity": "critical",
+    "description": "Multiple faces detected: 2 faces",
+    "timestamp": "2026-03-14 09:58:58.194844",
+    "metadata": {
+      "faces_count": 2,
+      "faces_info": [
+        {
+          "bbox": [
+            310,
+            276,
+            108,
+            108
+          ],
+          "confidence": 0.656953125,
+          "method": "OpenCV"
+        },
+        {
+          "bbox": [
+            283,
+            163,
+            139,
+            139
+          ],
+          "confidence": 0.6943408203125,
+          "method": "OpenCV"
+        }
+      ]
+    },
+    "action_taken": null,
+    "confidence_score": 0.6943408203125,
+    "detection_method": "OpenCV"
+  },
+  "48b853d6-d168-4c53-bde1-4d88c333562d": {
+    "id": "48b853d6-d168-4c53-bde1-4d88c333562d",
+    "exam_id": "exam_20260314_095744",
+    "student_name": "Vanshika Rastogi",
+    "student_id": "aaf6bffb-beda-4524-8445-3c90d5c69d65",
+    "type": "phone_detected",
+    "severity": "critical",
+    "description": "Phone detected: cell phone (confidence: 0.36)",
+    "timestamp": "2026-03-14 09:59:02.682789",
+    "metadata": {
+      "class_name": "cell phone",
+      "confidence": 0.3626927137374878,
+      "bbox": [
+        158,
+        215,
+        117,
+        168
+      ],
+      "method": "YOLO",
+      "phone_tracking": {
+        "should_revoke": false,
+        "count": 0,
+        "threshold_exceeded": false
+      }
+    },
+    "action_taken": null,
+    "confidence_score": 0.3626927137374878,
+    "detection_method": "YOLO"
+  },
+  "4a237cfb-3fe4-42b0-b472-23a14a4170cc": {
+    "id": "4a237cfb-3fe4-42b0-b472-23a14a4170cc",
+    "exam_id": "exam_20260314_095744",
+    "student_name": "Vanshika Rastogi",
+    "student_id": "aaf6bffb-beda-4524-8445-3c90d5c69d65",
+    "type": "multiple_faces",
+    "severity": "critical",
+    "description": "Multiple faces detected: 2 faces",
+    "timestamp": "2026-03-14 09:59:07.443865",
+    "metadata": {
+      "faces_count": 2,
+      "faces_info": [
+        {
+          "bbox": [
+            312,
+            270,
+            116,
+            116
+          ],
+          "confidence": 0.665703125,
+          "method": "OpenCV"
+        },
+        {
+          "bbox": [
+            275,
+            131,
+            167,
+            167
+          ],
+          "confidence": 0.7361767578125,
+          "method": "OpenCV"
+        }
+      ]
+    },
+    "action_taken": null,
+    "confidence_score": 0.7361767578125,
+    "detection_method": "OpenCV"
+  },
+  "b9a0779a-e716-42d2-b32a-6ca461ea2dd6": {
+    "id": "b9a0779a-e716-42d2-b32a-6ca461ea2dd6",
+    "exam_id": "exam_20260314_095744",
+    "student_name": "Vanshika Rastogi",
+    "student_id": "aaf6bffb-beda-4524-8445-3c90d5c69d65",
+    "type": "multiple_faces",
+    "severity": "critical",
+    "description": "Multiple faces detected: 2 faces",
+    "timestamp": "2026-03-14 09:59:17.593223",
+    "metadata": {
+      "faces_count": 2,
+      "faces_info": [
+        {
+          "bbox": [
+            319,
+            290,
+            109,
+            109
+          ],
+          "confidence": 0.6580126953125,
+          "method": "OpenCV"
+        },
+        {
+          "bbox": [
+            281,
+            149,
+            181,
+            181
+          ],
+          "confidence": 0.7599658203124999,
+          "method": "OpenCV"
+        }
+      ]
+    },
+    "action_taken": null,
+    "confidence_score": 0.7599658203124999,
+    "detection_method": "OpenCV"
+  },
+  "7f1e1a25-b693-4399-a66e-7a878ebb9dfa": {
+    "id": "7f1e1a25-b693-4399-a66e-7a878ebb9dfa",
+    "exam_id": "exam_20260314_095744",
+    "student_name": "Vanshika Rastogi",
+    "student_id": "aaf6bffb-beda-4524-8445-3c90d5c69d65",
+    "type": "tab_switch",
+    "severity": "medium",
+    "description": "Tab switch detected (4s hidden, 1 total)",
+    "timestamp": "2026-03-14 09:59:21.415603",
+    "metadata": {
+      "count": 1,
+      "duration_ms": 3557,
+      "timestamp": "2026-03-14T04:29:21.315Z",
+      "threshold_exceeded": false,
+      "exam_terminated": false,
+      "termination_reason": null
+    },
+    "action_taken": null,
+    "confidence_score": null,
+    "detection_method": null
+  },
+  "2dcb6afe-233a-4aeb-8f39-ba5e2f1dafc8": {
+    "id": "2dcb6afe-233a-4aeb-8f39-ba5e2f1dafc8",
+    "exam_id": "exam_20260314_095744",
+    "student_name": "Vanshika Rastogi",
+    "student_id": "aaf6bffb-beda-4524-8445-3c90d5c69d65",
+    "type": "tab_switch",
+    "severity": "medium",
+    "description": "Tab switch detected (4s hidden, 1 total)",
+    "timestamp": "2026-03-14 09:59:21.453557",
+    "metadata": {
+      "count": 1,
+      "duration_ms": 3557,
+      "timestamp": "2026-03-14T04:29:21.320Z",
+      "threshold_exceeded": false,
+      "exam_terminated": false,
+      "termination_reason": null
+    },
+    "action_taken": null,
+    "confidence_score": null,
+    "detection_method": null
+  },
+  "32bee9e4-2d8b-4844-94ca-0dbe9bf2cd5e": {
+    "id": "32bee9e4-2d8b-4844-94ca-0dbe9bf2cd5e",
+    "exam_id": "exam_20260314_095744",
+    "student_name": "Vanshika Rastogi",
+    "student_id": "aaf6bffb-beda-4524-8445-3c90d5c69d65",
+    "type": "tab_switch",
+    "severity": "high",
+    "description": "Tab switch detected (3s hidden, 2 total)",
+    "timestamp": "2026-03-14 09:59:30.855636",
+    "metadata": {
+      "count": 2,
+      "duration_ms": 3472,
+      "timestamp": "2026-03-14T04:29:30.768Z",
+      "threshold_exceeded": false,
+      "exam_terminated": false,
+      "termination_reason": null
+    },
+    "action_taken": null,
+    "confidence_score": null,
+    "detection_method": null
+  },
+  "3d559589-15b3-426c-b7b8-3f1347cc5b0e": {
+    "id": "3d559589-15b3-426c-b7b8-3f1347cc5b0e",
+    "exam_id": "exam_20260314_095744",
+    "student_name": "Vanshika Rastogi",
+    "student_id": "aaf6bffb-beda-4524-8445-3c90d5c69d65",
+    "type": "tab_switch",
+    "severity": "high",
+    "description": "Tab switch detected (3s hidden, 2 total)",
+    "timestamp": "2026-03-14 09:59:30.902402",
+    "metadata": {
+      "count": 2,
+      "duration_ms": 3472,
+      "timestamp": "2026-03-14T04:29:30.768Z",
+      "threshold_exceeded": false,
+      "exam_terminated": false,
+      "termination_reason": null
+    },
+    "action_taken": null,
+    "confidence_score": null,
+    "detection_method": null
+  },
+  "0f074db5-2211-4ef3-b38c-b6009285977b": {
+    "id": "0f074db5-2211-4ef3-b38c-b6009285977b",
+    "exam_id": "exam_20260314_095744",
+    "student_name": "Vanshika Rastogi",
+    "student_id": "aaf6bffb-beda-4524-8445-3c90d5c69d65",
+    "type": "tab_switch",
+    "severity": "critical",
+    "description": "Tab switch detected (2s hidden, 3 total)",
+    "timestamp": "2026-03-14 09:59:56.492234",
+    "metadata": {
+      "count": 3,
+      "duration_ms": 2120,
+      "timestamp": "2026-03-14T04:29:56.404Z",
+      "threshold_exceeded": true,
+      "exam_terminated": true,
+      "termination_reason": "Tab switching limit exceeded (3 switches)"
+    },
+    "action_taken": null,
+    "confidence_score": null,
+    "detection_method": null
+  },
+  "9ccc353d-5a95-494a-8f31-22daca64b01b": {
+    "id": "9ccc353d-5a95-494a-8f31-22daca64b01b",
+    "exam_id": "exam_20260314_095744",
+    "student_name": "Vanshika Rastogi",
+    "student_id": "aaf6bffb-beda-4524-8445-3c90d5c69d65",
+    "type": "tab_switch",
+    "severity": "critical",
+    "description": "Tab switch detected (2s hidden, 3 total)",
+    "timestamp": "2026-03-14 09:59:56.537881",
+    "metadata": {
+      "count": 3,
+      "duration_ms": 2120,
+      "timestamp": "2026-03-14T04:29:56.405Z",
+      "threshold_exceeded": true,
+      "exam_terminated": true,
+      "termination_reason": "Tab switching limit exceeded (3 switches)"
+    },
+    "action_taken": null,
+    "confidence_score": null,
+    "detection_method": null
+  },
+  "e66189bf-3280-498e-9b65-831ba642f26e": {
+    "id": "e66189bf-3280-498e-9b65-831ba642f26e",
+    "exam_id": "exam_20260316_160624",
+    "student_name": "Vanshika Rastogi",
+    "student_id": "aaf6bffb-beda-4524-8445-3c90d5c69d65",
+    "type": "palm_detected",
+    "severity": "medium",
+    "description": "Suspicious hand detected: normal",
+    "timestamp": "2026-03-16 16:08:02.546831",
+    "metadata": {
+      "bbox": [
+        448,
+        102,
+        132,
+        75
+      ],
+      "confidence": 0.8,
+      "type": "hand",
+      "suspicious": true,
+      "gesture_type": "normal",
+      "relative_y": 0.28958333333333336,
+      "method": "OpenCV_Enhanced"
+    },
+    "action_taken": null,
+    "confidence_score": 0.8,
+    "detection_method": "OpenCV_Enhanced"
+  },
+  "0cce0507-0512-4549-ac32-d171db56cd93": {
+    "id": "0cce0507-0512-4549-ac32-d171db56cd93",
+    "exam_id": "exam_20260316_160624",
+    "student_name": "Vanshika Rastogi",
+    "student_id": "aaf6bffb-beda-4524-8445-3c90d5c69d65",
+    "type": "multiple_faces",
+    "severity": "critical",
+    "description": "Multiple faces detected: 2 faces",
+    "timestamp": "2026-03-16 16:08:12.184713",
+    "metadata": {
+      "faces_count": 2,
+      "faces_info": [
+        {
+          "bbox": [
+            336,
+            214,
+            188,
+            188
+          ],
+          "confidence": 0.772578125,
+          "method": "OpenCV"
+        },
+        {
+          "bbox": [
+            16,
+            243,
+            147,
+            147
+          ],
+          "confidence": 0.7055126953124999,
+          "method": "OpenCV"
+        }
+      ]
+    },
+    "action_taken": null,
+    "confidence_score": 0.772578125,
+    "detection_method": "OpenCV"
+  },
+  "d29a5974-0f77-4657-99a1-42b005382703": {
+    "id": "d29a5974-0f77-4657-99a1-42b005382703",
+    "exam_id": "exam_20260316_160624",
+    "student_name": "Vanshika Rastogi",
+    "student_id": "aaf6bffb-beda-4524-8445-3c90d5c69d65",
+    "type": "face_not_visible",
+    "severity": "high",
+    "description": "No face detected in webcam feed",
+    "timestamp": "2026-03-16 16:08:17.209404",
+    "metadata": {
+      "faces_count": 0
+    },
+    "action_taken": null,
+    "confidence_score": 1.0,
+    "detection_method": "OpenCV"
+  },
+  "d97346d5-0edb-494b-9c9f-bebdd21f6837": {
+    "id": "d97346d5-0edb-494b-9c9f-bebdd21f6837",
+    "exam_id": "exam_20260316_160624",
+    "student_name": "Vanshika Rastogi",
+    "student_id": "aaf6bffb-beda-4524-8445-3c90d5c69d65",
+    "type": "face_not_visible",
+    "severity": "high",
+    "description": "No face detected in webcam feed",
+    "timestamp": "2026-03-16 16:08:32.144865",
+    "metadata": {
+      "faces_count": 0
+    },
+    "action_taken": null,
+    "confidence_score": 1.0,
+    "detection_method": "OpenCV"
+  },
+  "b024c230-803b-4c60-b4fa-42c97199bcd5": {
+    "id": "b024c230-803b-4c60-b4fa-42c97199bcd5",
+    "exam_id": "exam_20260316_160624",
+    "student_name": "Vanshika Rastogi",
+    "student_id": "aaf6bffb-beda-4524-8445-3c90d5c69d65",
+    "type": "palm_detected",
+    "severity": "medium",
+    "description": "Suspicious hand detected: normal",
+    "timestamp": "2026-03-16 16:08:32.183888",
+    "metadata": {
+      "bbox": [
+        372,
+        118,
+        132,
+        80
+      ],
+      "confidence": 0.8,
+      "type": "hand",
+      "suspicious": true,
+      "gesture_type": "normal",
+      "relative_y": 0.32916666666666666,
+      "method": "OpenCV_Enhanced"
+    },
+    "action_taken": null,
+    "confidence_score": 0.8,
+    "detection_method": "OpenCV_Enhanced"
+  },
+  "0d26411d-de13-4493-bf49-1881bc156ea8": {
+    "id": "0d26411d-de13-4493-bf49-1881bc156ea8",
+    "exam_id": "exam_20260316_160624",
+    "student_name": "Vanshika Rastogi",
+    "student_id": "aaf6bffb-beda-4524-8445-3c90d5c69d65",
+    "type": "phone_detected",
+    "severity": "critical",
+    "description": "Phone detected: cell phone (confidence: 0.59)",
+    "timestamp": "2026-03-16 16:08:32.801043",
+    "metadata": {
+      "class_name": "cell phone",
+      "confidence": 0.5940182209014893,
+      "bbox": [
+        65,
+        406,
+        172,
+        73
+      ],
+      "method": "YOLO",
+      "phone_tracking": {
+        "should_revoke": false,
+        "count": 0,
+        "threshold_exceeded": false
+      }
+    },
+    "action_taken": null,
+    "confidence_score": 0.5940182209014893,
+    "detection_method": "YOLO"
+  },
+  "a8d434b5-c4ae-4fa3-8365-8b8e65a449f1": {
+    "id": "a8d434b5-c4ae-4fa3-8365-8b8e65a449f1",
+    "exam_id": "exam_20260316_160624",
+    "student_name": "Vanshika Rastogi",
+    "student_id": "aaf6bffb-beda-4524-8445-3c90d5c69d65",
+    "type": "phone_detected",
+    "severity": "critical",
+    "description": "Phone detected: cell phone (confidence: 0.41)",
+    "timestamp": "2026-03-16 16:08:37.790540",
+    "metadata": {
+      "class_name": "cell phone",
+      "confidence": 0.41305530071258545,
+      "bbox": [
+        154,
+        393,
+        151,
+        85
+      ],
+      "method": "YOLO",
+      "phone_tracking": {
+        "should_revoke": false,
+        "count": 0,
+        "threshold_exceeded": false
+      }
+    },
+    "action_taken": null,
+    "confidence_score": 0.41305530071258545,
+    "detection_method": "YOLO"
+  },
+  "83b41036-a3c7-46d2-9322-13f616100a42": {
+    "id": "83b41036-a3c7-46d2-9322-13f616100a42",
+    "exam_id": "exam_20260316_160624",
+    "student_name": "Vanshika Rastogi",
+    "student_id": "aaf6bffb-beda-4524-8445-3c90d5c69d65",
+    "type": "tab_switch",
+    "severity": "medium",
+    "description": "Tab switch detected (3s hidden, 1 total)",
+    "timestamp": "2026-03-16 16:08:56.260479",
+    "metadata": {
+      "count": 1,
+      "duration_ms": 2852,
+      "timestamp": "2026-03-16T10:38:56.180Z",
+      "threshold_exceeded": false,
+      "exam_terminated": false,
+      "termination_reason": null
+    },
+    "action_taken": null,
+    "confidence_score": null,
+    "detection_method": null
+  },
+  "1521eecb-cf8a-4ee5-bc6b-87d135f74011": {
+    "id": "1521eecb-cf8a-4ee5-bc6b-87d135f74011",
+    "exam_id": "exam_20260316_160624",
+    "student_name": "Vanshika Rastogi",
+    "student_id": "aaf6bffb-beda-4524-8445-3c90d5c69d65",
+    "type": "tab_switch",
+    "severity": "medium",
+    "description": "Tab switch detected (3s hidden, 1 total)",
+    "timestamp": "2026-03-16 16:08:56.307983",
+    "metadata": {
+      "count": 1,
+      "duration_ms": 2852,
+      "timestamp": "2026-03-16T10:38:56.193Z",
+      "threshold_exceeded": false,
+      "exam_terminated": false,
+      "termination_reason": null
+    },
+    "action_taken": null,
+    "confidence_score": null,
+    "detection_method": null
+  },
+  "edf8a6de-1c48-49ff-ab81-98b6c7987e79": {
+    "id": "edf8a6de-1c48-49ff-ab81-98b6c7987e79",
+    "exam_id": "exam_20260316_160624",
+    "student_name": "Vanshika Rastogi",
+    "student_id": "aaf6bffb-beda-4524-8445-3c90d5c69d65",
+    "type": "palm_detected",
+    "severity": "medium",
+    "description": "Suspicious hand detected: normal",
+    "timestamp": "2026-03-16 16:08:57.141015",
+    "metadata": {
+      "bbox": [
+        423,
+        121,
+        99,
+        73
+      ],
+      "confidence": 0.7936,
+      "type": "hand",
+      "suspicious": true,
+      "gesture_type": "normal",
+      "relative_y": 0.32708333333333334,
+      "method": "OpenCV_Enhanced"
+    },
+    "action_taken": null,
+    "confidence_score": 0.7936,
+    "detection_method": "OpenCV_Enhanced"
+  },
+  "29b6d3db-b874-4919-9b73-c84f9c814ab8": {
+    "id": "29b6d3db-b874-4919-9b73-c84f9c814ab8",
+    "exam_id": "exam_20260316_160624",
+    "student_name": "Vanshika Rastogi",
+    "student_id": "aaf6bffb-beda-4524-8445-3c90d5c69d65",
+    "type": "tab_switch",
+    "severity": "high",
+    "description": "Tab switch detected (2s hidden, 2 total)",
+    "timestamp": "2026-03-16 16:09:01.377441",
+    "metadata": {
+      "count": 2,
+      "duration_ms": 2014,
+      "timestamp": "2026-03-16T10:39:01.288Z",
+      "threshold_exceeded": false,
+      "exam_terminated": false,
+      "termination_reason": null
+    },
+    "action_taken": null,
+    "confidence_score": null,
+    "detection_method": null
+  },
+  "bf08349e-6c90-4593-88fa-4171183810cf": {
+    "id": "bf08349e-6c90-4593-88fa-4171183810cf",
+    "exam_id": "exam_20260316_160624",
+    "student_name": "Vanshika Rastogi",
+    "student_id": "aaf6bffb-beda-4524-8445-3c90d5c69d65",
+    "type": "tab_switch",
+    "severity": "high",
+    "description": "Tab switch detected (2s hidden, 2 total)",
+    "timestamp": "2026-03-16 16:09:01.462189",
+    "metadata": {
+      "count": 2,
+      "duration_ms": 2014,
+      "timestamp": "2026-03-16T10:39:01.289Z",
+      "threshold_exceeded": false,
+      "exam_terminated": false,
+      "termination_reason": null
+    },
+    "action_taken": null,
+    "confidence_score": null,
+    "detection_method": null
+  },
+  "2e101b4e-5709-44b1-91f9-90bb82e8ed26": {
+    "id": "2e101b4e-5709-44b1-91f9-90bb82e8ed26",
+    "exam_id": "exam_20260316_160624",
+    "student_name": "Vanshika Rastogi",
+    "student_id": "aaf6bffb-beda-4524-8445-3c90d5c69d65",
+    "type": "tab_switch",
+    "severity": "critical",
+    "description": "Tab switch detected (2s hidden, 3 total)",
+    "timestamp": "2026-03-16 16:09:09.296933",
+    "metadata": {
+      "count": 3,
+      "duration_ms": 2017,
+      "timestamp": "2026-03-16T10:39:09.224Z",
+      "threshold_exceeded": true,
+      "exam_terminated": true,
+      "termination_reason": "Tab switching limit exceeded (3 switches)"
+    },
+    "action_taken": null,
+    "confidence_score": null,
+    "detection_method": null
+  },
+  "63c5d8dc-5636-479e-ae46-184e9ba429c3": {
+    "id": "63c5d8dc-5636-479e-ae46-184e9ba429c3",
+    "exam_id": "exam_20260316_160624",
+    "student_name": "Vanshika Rastogi",
+    "student_id": "aaf6bffb-beda-4524-8445-3c90d5c69d65",
+    "type": "tab_switch",
+    "severity": "critical",
+    "description": "Tab switch detected (2s hidden, 3 total)",
+    "timestamp": "2026-03-16 16:09:09.365092",
+    "metadata": {
+      "count": 3,
+      "duration_ms": 2017,
+      "timestamp": "2026-03-16T10:39:09.226Z",
+      "threshold_exceeded": true,
+      "exam_terminated": true,
+      "termination_reason": "Tab switching limit exceeded (3 switches)"
+    },
+    "action_taken": null,
+    "confidence_score": null,
+    "detection_method": null
+  },
+  "9df538a2-eb68-4dd2-ad11-ce8b04fe9293": {
+    "id": "9df538a2-eb68-4dd2-ad11-ce8b04fe9293",
+    "exam_id": "exam_20260330_175845",
+    "student_name": "Vanshika Rastogi",
+    "student_id": "aaf6bffb-beda-4524-8445-3c90d5c69d65",
+    "type": "face_not_visible",
+    "severity": "high",
+    "description": "No face detected in webcam feed",
+    "timestamp": "2026-03-30 17:59:47.023262",
+    "metadata": {
+      "faces_count": 0
+    },
+    "action_taken": null,
+    "confidence_score": 1.0,
+    "detection_method": "OpenCV"
+  },
+  "8d22911c-053b-43f5-897e-e361dfa9b9e2": {
+    "id": "8d22911c-053b-43f5-897e-e361dfa9b9e2",
+    "exam_id": "exam_20260330_175845",
+    "student_name": "Vanshika Rastogi",
+    "student_id": "aaf6bffb-beda-4524-8445-3c90d5c69d65",
+    "type": "palm_detected",
+    "severity": "medium",
+    "description": "Suspicious hand detected: normal",
+    "timestamp": "2026-03-30 17:59:47.058690",
+    "metadata": {
+      "bbox": [
+        23,
+        116,
+        85,
+        134
+      ],
+      "confidence": 0.8,
+      "type": "hand",
+      "suspicious": true,
+      "gesture_type": "normal",
+      "relative_y": 0.38125,
+      "method": "OpenCV_Enhanced"
+    },
+    "action_taken": null,
+    "confidence_score": 0.8,
+    "detection_method": "OpenCV_Enhanced"
+  },
+  "5f227690-7f00-4c29-8505-53846e35f789": {
+    "id": "5f227690-7f00-4c29-8505-53846e35f789",
+    "exam_id": "exam_20260330_175845",
+    "student_name": "Vanshika Rastogi",
+    "student_id": "aaf6bffb-beda-4524-8445-3c90d5c69d65",
+    "type": "face_not_visible",
+    "severity": "high",
+    "description": "No face detected in webcam feed",
+    "timestamp": "2026-03-30 18:00:02.128279",
+    "metadata": {
+      "faces_count": 0
+    },
+    "action_taken": null,
+    "confidence_score": 1.0,
+    "detection_method": "OpenCV"
+  },
+  "729e2355-1b54-49f3-8668-86873a78283f": {
+    "id": "729e2355-1b54-49f3-8668-86873a78283f",
+    "exam_id": "exam_20260330_175845",
+    "student_name": "Vanshika Rastogi",
+    "student_id": "aaf6bffb-beda-4524-8445-3c90d5c69d65",
+    "type": "multiple_faces",
+    "severity": "critical",
+    "description": "Multiple faces detected: 2 faces",
+    "timestamp": "2026-03-30 18:00:07.085316",
+    "metadata": {
+      "faces_count": 2,
+      "faces_info": [
+        {
+          "bbox": [
+            331,
+            214,
+            170,
+            170
+          ],
+          "confidence": 0.74111328125,
+          "method": "OpenCV"
+        },
+        {
+          "bbox": [
+            22,
+            214,
+            145,
+            145
+          ],
+          "confidence": 0.7026611328125,
+          "method": "OpenCV"
+        }
+      ]
+    },
+    "action_taken": null,
+    "confidence_score": 0.74111328125,
+    "detection_method": "OpenCV"
+  },
+  "cb43afce-a684-4782-a685-9b63b2a27a21": {
+    "id": "cb43afce-a684-4782-a685-9b63b2a27a21",
+    "exam_id": "exam_20260330_175845",
+    "student_name": "Vanshika Rastogi",
+    "student_id": "aaf6bffb-beda-4524-8445-3c90d5c69d65",
+    "type": "face_not_visible",
+    "severity": "high",
+    "description": "No face detected in webcam feed",
+    "timestamp": "2026-03-30 18:00:12.028520",
+    "metadata": {
+      "faces_count": 0
+    },
+    "action_taken": null,
+    "confidence_score": 1.0,
+    "detection_method": "OpenCV"
+  },
+  "0af3e653-7e1f-44b1-bbc8-4d3efc47806c": {
+    "id": "0af3e653-7e1f-44b1-bbc8-4d3efc47806c",
+    "exam_id": "exam_20260330_175845",
+    "student_name": "Vanshika Rastogi",
+    "student_id": "aaf6bffb-beda-4524-8445-3c90d5c69d65",
+    "type": "tab_switch",
+    "severity": "medium",
+    "description": "Tab switch detected (2s hidden, 1 total)",
+    "timestamp": "2026-03-30 18:00:22.795667",
+    "metadata": {
+      "count": 1,
+      "duration_ms": 2251,
+      "timestamp": "2026-03-30T12:30:22.723Z",
+      "threshold_exceeded": false,
+      "exam_terminated": false,
+      "termination_reason": null
+    },
+    "action_taken": null,
+    "confidence_score": null,
+    "detection_method": null
+  },
+  "be9dabac-c619-4ba3-8640-933a39ada3ed": {
+    "id": "be9dabac-c619-4ba3-8640-933a39ada3ed",
+    "exam_id": "exam_20260330_175845",
+    "student_name": "Vanshika Rastogi",
+    "student_id": "aaf6bffb-beda-4524-8445-3c90d5c69d65",
+    "type": "tab_switch",
+    "severity": "medium",
+    "description": "Tab switch detected (2s hidden, 1 total)",
+    "timestamp": "2026-03-30 18:00:22.831359",
+    "metadata": {
+      "count": 1,
+      "duration_ms": 2251,
+      "timestamp": "2026-03-30T12:30:22.728Z",
+      "threshold_exceeded": false,
+      "exam_terminated": false,
+      "termination_reason": null
+    },
+    "action_taken": null,
+    "confidence_score": null,
+    "detection_method": null
+  },
+  "008e193f-6c77-4c40-a27d-c8585a95a551": {
+    "id": "008e193f-6c77-4c40-a27d-c8585a95a551",
+    "exam_id": "exam_20260330_175845",
+    "student_name": "Vanshika Rastogi",
+    "student_id": "aaf6bffb-beda-4524-8445-3c90d5c69d65",
+    "type": "tab_switch",
+    "severity": "high",
+    "description": "Tab switch detected (3s hidden, 2 total)",
+    "timestamp": "2026-03-30 18:00:30.689946",
+    "metadata": {
+      "count": 2,
+      "duration_ms": 3078,
+      "timestamp": "2026-03-30T12:30:30.632Z",
+      "threshold_exceeded": false,
+      "exam_terminated": false,
+      "termination_reason": null
+    },
+    "action_taken": null,
+    "confidence_score": null,
+    "detection_method": null
+  },
+  "a127b204-2647-42a2-a13d-4121842b899f": {
+    "id": "a127b204-2647-42a2-a13d-4121842b899f",
+    "exam_id": "exam_20260330_175845",
+    "student_name": "Vanshika Rastogi",
+    "student_id": "aaf6bffb-beda-4524-8445-3c90d5c69d65",
+    "type": "tab_switch",
+    "severity": "high",
+    "description": "Tab switch detected (3s hidden, 2 total)",
+    "timestamp": "2026-03-30 18:00:30.727351",
+    "metadata": {
+      "count": 2,
+      "duration_ms": 3078,
+      "timestamp": "2026-03-30T12:30:30.633Z",
+      "threshold_exceeded": false,
+      "exam_terminated": false,
+      "termination_reason": null
+    },
+    "action_taken": null,
+    "confidence_score": null,
+    "detection_method": null
+  },
+  "f05f779f-7ff7-4998-96dc-38d206e85457": {
+    "id": "f05f779f-7ff7-4998-96dc-38d206e85457",
+    "exam_id": "exam_20260330_175845",
+    "student_name": "Vanshika Rastogi",
+    "student_id": "aaf6bffb-beda-4524-8445-3c90d5c69d65",
+    "type": "tab_switch",
+    "severity": "critical",
+    "description": "Tab switch detected (4s hidden, 3 total)",
+    "timestamp": "2026-03-30 18:00:45.446288",
+    "metadata": {
+      "count": 3,
+      "duration_ms": 3695,
+      "timestamp": "2026-03-30T12:30:45.401Z",
+      "threshold_exceeded": true,
+      "exam_terminated": true,
+      "termination_reason": "Tab switching limit exceeded (3 switches)"
+    },
+    "action_taken": null,
+    "confidence_score": null,
+    "detection_method": null
+  },
+  "7f30c3f2-3894-4cc6-a635-5fbbf19255a2": {
+    "id": "7f30c3f2-3894-4cc6-a635-5fbbf19255a2",
+    "exam_id": "exam_20260330_175845",
+    "student_name": "Vanshika Rastogi",
+    "student_id": "aaf6bffb-beda-4524-8445-3c90d5c69d65",
+    "type": "tab_switch",
+    "severity": "critical",
+    "description": "Tab switch detected (4s hidden, 3 total)",
+    "timestamp": "2026-03-30 18:00:45.481440",
+    "metadata": {
+      "count": 3,
+      "duration_ms": 3695,
+      "timestamp": "2026-03-30T12:30:45.402Z",
+      "threshold_exceeded": true,
+      "exam_terminated": true,
+      "termination_reason": "Tab switching limit exceeded (3 switches)"
+    },
+    "action_taken": null,
+    "confidence_score": null,
+    "detection_method": null
+  }
+}

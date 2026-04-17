@@ -1,0 +1,70 @@
+{
+  "id": "1df20dcc-6ad7-46c2-8c97-1024c51f3740",
+  "exam_id": "exam_20260205_233038",
+  "student_id": "58c45955-8201-4056-aa5d-97799252bdb3",
+  "answers": [
+    {
+      "question_id": "Q1",
+      "answer": "",
+      "time_spent_seconds": null,
+      "question_type": null
+    },
+    {
+      "question_id": "Q2",
+      "answer": "",
+      "time_spent_seconds": null,
+      "question_type": null
+    },
+    {
+      "question_id": "Q3",
+      "answer": "",
+      "time_spent_seconds": null,
+      "question_type": null
+    }
+  ],
+  "submitted_at": "2026-02-06 19:01:49.666249",
+  "time_taken_minutes": 2,
+  "violations": [
+    "palm_detected (medium): Suspicious hand detected: unknown",
+    "multiple_faces (critical): Multiple faces detected: 2 faces",
+    "palm_detected (medium): Suspicious hand detected: unknown",
+    "face_not_visible (high): No face detected in webcam feed",
+    "palm_detected (medium): Suspicious hand detected: unknown",
+    "phone_detected (critical): Phone detected: cell phone (confidence: 0.64)",
+    "face_not_visible (high): No face detected in webcam feed",
+    "palm_detected (medium): Suspicious hand detected: unknown",
+    "phone_detected (critical): Phone detected: cell phone (confidence: 0.77)",
+    "palm_detected (medium): Suspicious hand detected: unknown",
+    "face_not_visible (high): No face detected in webcam feed",
+    "palm_detected (medium): Suspicious hand detected: unknown",
+    "palm_detected (medium): Suspicious hand detected: unknown",
+    "multiple_faces (critical): Multiple faces detected: 2 faces",
+    "palm_detected (medium): Suspicious hand detected: unknown",
+    "palm_detected (medium): Suspicious hand detected: unknown",
+    "multiple_faces (critical): Multiple faces detected: 2 faces",
+    "palm_detected (medium): Suspicious hand detected: unknown",
+    "palm_detected (medium): Suspicious hand detected: unknown",
+    "multiple_faces (critical): Multiple faces detected: 2 faces",
+    "palm_detected (medium): Suspicious hand detected: unknown",
+    "face_not_visible (high): No face detected in webcam feed",
+    "palm_detected (medium): Suspicious hand detected: unknown",
+    "palm_detected (medium): Suspicious hand detected: unknown",
+    "palm_detected (medium): Suspicious hand detected: unknown",
+    "face_not_visible (high): No face detected in webcam feed",
+    "phone_detected (critical): Phone detected: cell phone (confidence: 0.73)",
+    "palm_detected (medium): Suspicious hand detected: unknown",
+    "phone_detected (critical): Phone detected: cell phone (confidence: 0.47)",
+    "face_not_visible (high): No face detected in webcam feed",
+    "palm_detected (medium): Suspicious hand detected: unknown",
+    "Tab switching detected 1 times",
+    "Face detection violations: 10",
+    "Hand detection violations: 17",
+    "Object detection violations: 4"
+  ],
+  "status": "submitted",
+  "exam_status": "completed",
+  "total_questions": null,
+  "answered_questions": null,
+  "submission_timestamp": null,
+  "proctoring_data": null
+}

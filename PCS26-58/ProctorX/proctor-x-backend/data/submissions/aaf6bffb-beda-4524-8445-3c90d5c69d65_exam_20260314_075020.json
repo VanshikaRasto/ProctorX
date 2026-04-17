@@ -1,0 +1,129 @@
+{
+  "id": "06567942-0cec-48c5-905b-a8052caf55c5",
+  "exam_id": "exam_20260314_075020",
+  "student_id": "aaf6bffb-beda-4524-8445-3c90d5c69d65",
+  "student_name": "Vanshika Rastogi",
+  "answers": [
+    {
+      "question_id": "q1",
+      "answer": "Computer Personal Unit",
+      "time_spent_seconds": null,
+      "question_type": null
+    },
+    {
+      "question_id": "q2",
+      "answer": "C++",
+      "time_spent_seconds": null,
+      "question_type": null
+    },
+    {
+      "question_id": "q3",
+      "answer": "Temporary memory for running programs",
+      "time_spent_seconds": null,
+      "question_type": null
+    },
+    {
+      "question_id": "q4",
+      "answer": "Machine Code",
+      "time_spent_seconds": null,
+      "question_type": null
+    },
+    {
+      "question_id": "q5",
+      "answer": "High Tech Modern Language",
+      "time_spent_seconds": null,
+      "question_type": null
+    },
+    {
+      "question_id": "q6",
+      "answer": "",
+      "time_spent_seconds": null,
+      "question_type": null
+    },
+    {
+      "question_id": "q7",
+      "answer": "",
+      "time_spent_seconds": null,
+      "question_type": null
+    },
+    {
+      "question_id": "q8",
+      "answer": "",
+      "time_spent_seconds": null,
+      "question_type": null
+    },
+    {
+      "question_id": "q9",
+      "answer": "",
+      "time_spent_seconds": null,
+      "question_type": null
+    },
+    {
+      "question_id": "q10",
+      "answer": "",
+      "time_spent_seconds": null,
+      "question_type": null
+    }
+  ],
+  "submitted_at": "2026-03-14 08:01:35.518153",
+  "time_taken_minutes": 5,
+  "violations": [
+    "face_not_visible (high): No face detected in webcam feed",
+    "palm_detected (medium): Suspicious hand detected: normal",
+    "palm_detected (medium): Suspicious hand detected: normal",
+    "face_not_visible (high): No face detected in webcam feed",
+    "palm_detected (medium): Suspicious hand detected: normal",
+    "palm_detected (medium): Suspicious hand detected: normal",
+    "face_not_visible (high): No face detected in webcam feed",
+    "palm_detected (medium): Suspicious hand detected: normal",
+    "face_not_visible (high): No face detected in webcam feed",
+    "palm_detected (medium): Suspicious hand detected: normal",
+    "palm_detected (medium): Suspicious hand detected: normal",
+    "palm_detected (medium): Suspicious hand detected: normal",
+    "palm_detected (medium): Suspicious hand detected: normal",
+    "palm_detected (medium): Suspicious hand detected: normal",
+    "palm_detected (medium): Suspicious hand detected: normal",
+    "palm_detected (medium): Suspicious hand detected: normal",
+    "palm_detected (medium): Suspicious hand detected: normal",
+    "palm_detected (medium): Suspicious hand detected: normal",
+    "palm_detected (medium): Suspicious hand detected: normal",
+    "palm_detected (medium): Suspicious hand detected: normal",
+    "multiple_faces (critical): Multiple faces detected: 2 faces",
+    "palm_detected (medium): Suspicious hand detected: normal",
+    "palm_detected (medium): Suspicious hand detected: normal",
+    "palm_detected (medium): Suspicious hand detected: normal",
+    "palm_detected (medium): Suspicious hand detected: normal",
+    "palm_detected (medium): Suspicious hand detected: normal",
+    "palm_detected (medium): Suspicious hand detected: normal",
+    "palm_detected (medium): Suspicious hand detected: normal",
+    "palm_detected (medium): Suspicious hand detected: normal",
+    "palm_detected (medium): Suspicious hand detected: normal",
+    "palm_detected (medium): Suspicious hand detected: normal",
+    "palm_detected (medium): Suspicious hand detected: normal",
+    "palm_detected (medium): Suspicious hand detected: normal",
+    "palm_detected (medium): Suspicious hand detected: normal",
+    "palm_detected (medium): Suspicious hand detected: normal",
+    "palm_detected (medium): Suspicious hand detected: normal",
+    "palm_detected (medium): Suspicious hand detected: normal",
+    "palm_detected (medium): Suspicious hand detected: normal",
+    "palm_detected (medium): Suspicious hand detected: normal",
+    "palm_detected (medium): Suspicious hand detected: normal",
+    "palm_detected (medium): Suspicious hand detected: normal",
+    "palm_detected (medium): Suspicious hand detected: normal",
+    "multiple_faces (critical): Multiple faces detected: 2 faces",
+    "palm_detected (medium): Suspicious hand detected: normal",
+    "palm_detected (medium): Suspicious hand detected: normal",
+    "palm_detected (medium): Suspicious hand detected: normal",
+    "palm_detected (medium): Suspicious hand detected: normal",
+    "palm_detected (medium): Suspicious hand detected: normal",
+    "Tab switching detected 2 times",
+    "Face detection violations: 6",
+    "Hand detection violations: 42"
+  ],
+  "status": "submitted",
+  "exam_status": "completed",
+  "total_questions": null,
+  "answered_questions": null,
+  "submission_timestamp": null,
+  "proctoring_data": null
+}

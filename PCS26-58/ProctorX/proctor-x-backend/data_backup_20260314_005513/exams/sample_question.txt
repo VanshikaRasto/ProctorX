@@ -1,0 +1,13 @@
+{
+  "id": "sample_q1",
+  "question": "Sample MCQ: What is 2 + 2?",
+  "type": "mcq",
+  "options": [
+    "1",
+    "2",
+    "3",
+    "4"
+  ],
+  "correct_answer": "4",
+  "points": 1
+}

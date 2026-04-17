@@ -1,0 +1,98 @@
+{
+  "c8097fa9-f15c-4b88-805f-4b0d4afddda6": {
+    "id": "c8097fa9-f15c-4b88-805f-4b0d4afddda6",
+    "email": "examiner12345@gmail.com",
+    "username": "examiner123",
+    "full_name": "TestExaminer",
+    "role": "student",
+    "status": "active",
+    "password_hash": "$2b$12$GWykx5GfnI0kE35L/Kn7Auoq.7.8IEswSnDgdzIT4Fh14FJ6Vx9oe",
+    "branch": "CSE",
+    "created_at": "2026-03-14T00:59:29.730027",
+    "last_login": "2026-03-14T00:59:52.797216"
+  },
+  "615b8ae3-ac8f-472e-a907-25b4b6378b5f": {
+    "id": "615b8ae3-ac8f-472e-a907-25b4b6378b5f",
+    "email": "examiner123456@gmail.com",
+    "username": "testexaminer12345",
+    "full_name": "testexaminer123",
+    "role": "examiner",
+    "status": "active",
+    "password_hash": "$2b$12$q588F6KaTZzHRqf1iLCfs.fD2a73KJ9tWK8C9E/wsk.bjtry3Rs7K",
+    "branch": null,
+    "created_at": "2026-03-14T01:00:34.612834",
+    "last_login": "2026-03-14T01:22:32.978736"
+  },
+  "e65e91e9-0ac2-4a20-ae29-62d302d89f34": {
+    "id": "e65e91e9-0ac2-4a20-ae29-62d302d89f34",
+    "email": "teststudent12345@gmail.com",
+    "username": "teststudent12345",
+    "full_name": "teststudent",
+    "role": "student",
+    "status": "active",
+    "password_hash": "$2b$12$SATnZBLdSbrPXmXkTddEE..J9h3FMFdBK1IuoeEdIethAHPE9XH6C",
+    "branch": "CSE",
+    "created_at": "2026-03-14T01:01:26.163064",
+    "last_login": "2026-03-14T01:01:55.377005"
+  },
+  "69e743f9-60fb-4c11-a907-c83357618dbf": {
+    "id": "69e743f9-60fb-4c11-a907-c83357618dbf",
+    "email": "vanshika12222@gmail.com",
+    "username": "vanshikastudent",
+    "full_name": "vanshikastudent",
+    "role": "student",
+    "status": "active",
+    "password_hash": "$2b$12$sC16HwRcScsp54Y/6Afj/epyj5WuqL2en1d26FRQtDtpL7wBvFkry",
+    "branch": "CSE",
+    "created_at": "2026-03-14T01:09:50.653205",
+    "last_login": "2026-03-14T01:11:59.945500"
+  },
+  "d89bbfe6-1ee6-4a3d-9f45-ff1929705ef5": {
+    "id": "d89bbfe6-1ee6-4a3d-9f45-ff1929705ef5",
+    "email": "final@gmial.com",
+    "username": "vanshikafinal",
+    "full_name": "vanshikafinal",
+    "role": "student",
+    "status": "active",
+    "password_hash": "$2b$12$PThH2KdS7Z4NP9PYe8mky.wa3KXR18Be2d4Aao6BFkwYwFuaJ10uO",
+    "branch": "CSE",
+    "created_at": "2026-03-14T01:22:17.339138",
+    "last_login": "2026-03-14T01:34:02.688939"
+  },
+  "65973af0-0cfd-40a1-ad22-dcf44775a895": {
+    "id": "65973af0-0cfd-40a1-ad22-dcf44775a895",
+    "email": "sreesh@kiet.edu",
+    "username": "Sreesh_cs",
+    "full_name": "Sreesh Gaur",
+    "role": "examiner",
+    "status": "active",
+    "password_hash": "$2b$12$LRopYEvvQPQEUVNc//sBiOhk8DDRHaq/UxYOgvME1yeT0GLYeis.G",
+    "branch": null,
+    "created_at": "2026-03-14T07:49:21.805821",
+    "last_login": "2026-03-30T17:58:00.499946"
+  },
+  "aaf6bffb-beda-4524-8445-3c90d5c69d65": {
+    "id": "aaf6bffb-beda-4524-8445-3c90d5c69d65",
+    "email": "vanshikarastogi2003@gmail.com",
+    "username": "Vanshika22",
+    "full_name": "Vanshika Rastogi",
+    "role": "student",
+    "status": "active",
+    "password_hash": "$2b$12$1TDBTEm5xxyqVsImC9wmAuzr5rHLHmQwI6Y8gpO4NW2JhkCfBfkD6",
+    "branch": "CS",
+    "created_at": "2026-03-14T07:52:24.038127",
+    "last_login": "2026-03-30T17:56:40.885358"
+  },
+  "bdfe80ab-3c55-4acd-97a9-b93c9cacaae7": {
+    "id": "bdfe80ab-3c55-4acd-97a9-b93c9cacaae7",
+    "email": "test@abc.com",
+    "username": "test_student",
+    "full_name": "test student",
+    "role": "student",
+    "status": "active",
+    "password_hash": "$2b$12$c8Vy246cSH.nEpvdZezhe.m9a00tYqEwk4W/VS1SKJlri2BOC/MY6",
+    "branch": "CS",
+    "created_at": "2026-03-14T08:04:38.182655",
+    "last_login": "2026-03-14T08:04:47.903112"
+  }
+}

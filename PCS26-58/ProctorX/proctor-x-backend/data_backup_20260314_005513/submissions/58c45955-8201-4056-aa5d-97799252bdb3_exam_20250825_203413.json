@@ -1,0 +1,61 @@
+{
+  "id": "1ef2e7dc-95c0-4a3e-a635-506ff4c41d07",
+  "exam_id": "exam_20250825_203413",
+  "student_id": "58c45955-8201-4056-aa5d-97799252bdb3",
+  "answers": [
+    {
+      "question_id": "q1",
+      "answer": "Madrid",
+      "time_spent_seconds": null
+    },
+    {
+      "question_id": "q2",
+      "answer": "Python",
+      "time_spent_seconds": null
+    },
+    {
+      "question_id": "q3",
+      "answer": "Home Tool Markup Language",
+      "time_spent_seconds": null
+    },
+    {
+      "question_id": "q4",
+      "answer": "MongoDB",
+      "time_spent_seconds": null
+    },
+    {
+      "question_id": "q5",
+      "answer": "45",
+      "time_spent_seconds": null
+    },
+    {
+      "question_id": "q6",
+      "answer": "404",
+      "time_spent_seconds": null
+    },
+    {
+      "question_id": "q7",
+      "answer": "Cascading Style Sheets",
+      "time_spent_seconds": null
+    },
+    {
+      "question_id": "q8",
+      "answer": "Stack",
+      "time_spent_seconds": null
+    },
+    {
+      "question_id": "q9",
+      "answer": "Block unwanted network traffic",
+      "time_spent_seconds": null
+    },
+    {
+      "question_id": "q10",
+      "answer": "Facebook (Meta)",
+      "time_spent_seconds": null
+    }
+  ],
+  "submitted_at": "2025-08-25 20:37:06.650929",
+  "time_taken_minutes": 2,
+  "violations": [],
+  "status": "submitted"
+}

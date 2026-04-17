@@ -1,0 +1,149 @@
+{
+  "id": "exam_20250822_032140",
+  "title": "Final_test",
+  "description": "",
+  "exam_type": "mcq",
+  "questions": [
+    {
+      "id": "q1",
+      "question": "What is the capital of France?",
+      "type": "mcq",
+      "options": [
+        "London",
+        "Berlin",
+        "Paris",
+        "Madrid"
+      ],
+      "correct_answer": "Paris",
+      "points": 2
+    },
+    {
+      "id": "q2",
+      "question": "Which programming language is primarily used for web development?",
+      "type": "mcq",
+      "options": [
+        "Python",
+        "JavaScript",
+        "Java",
+        "C++"
+      ],
+      "correct_answer": "JavaScript",
+      "points": 1
+    },
+    {
+      "id": "q3",
+      "question": "What does HTML stand for?",
+      "type": "mcq",
+      "options": [
+        "Hypertext Markup Language",
+        "High Tech Modern Language",
+        "Home Tool Markup Language",
+        "Hyperlink and Text Markup Language"
+      ],
+      "correct_answer": "Hypertext Markup Language",
+      "points": 3
+    },
+    {
+      "id": "q4",
+      "question": "Which of the following is NOT a relational database?",
+      "type": "mcq",
+      "options": [
+        "MySQL",
+        "PostgreSQL",
+        "MongoDB",
+        "SQLite"
+      ],
+      "correct_answer": "MongoDB",
+      "points": 2
+    },
+    {
+      "id": "q5",
+      "question": "What is the result of 15 + 25?",
+      "type": "mcq",
+      "options": [
+        "30",
+        "35",
+        "40",
+        "45"
+      ],
+      "correct_answer": "40",
+      "points": 1
+    },
+    {
+      "id": "q6",
+      "question": "Which HTTP status code indicates \"Not Found\"?",
+      "type": "mcq",
+      "options": [
+        "200",
+        "301",
+        "404",
+        "500"
+      ],
+      "correct_answer": "404",
+      "points": 2
+    },
+    {
+      "id": "q7",
+      "question": "What does CSS stand for?",
+      "type": "mcq",
+      "options": [
+        "Computer Style Sheets",
+        "Cascading Style Sheets",
+        "Creative Style Sheets",
+        "Colorful Style Sheets"
+      ],
+      "correct_answer": "Cascading Style Sheets",
+      "points": 1
+    },
+    {
+      "id": "q8",
+      "question": "Which data structure follows the Last In First Out (LIFO) principle?",
+      "type": "mcq",
+      "options": [
+        "Queue",
+        "Array",
+        "Stack",
+        "Linked List"
+      ],
+      "correct_answer": "Stack",
+      "points": 3
+    },
+    {
+      "id": "q9",
+      "question": "What is the primary purpose of a firewall?",
+      "type": "mcq",
+      "options": [
+        "Speed up internet connection",
+        "Block unwanted network traffic",
+        "Increase storage capacity",
+        "Improve graphics performance"
+      ],
+      "correct_answer": "Block unwanted network traffic",
+      "points": 2
+    },
+    {
+      "id": "q10",
+      "question": "Which company developed the React JavaScript library?",
+      "type": "mcq",
+      "options": [
+        "Google",
+        "Microsoft",
+        "Facebook (Meta)",
+        "Apple"
+      ],
+      "correct_answer": "Facebook (Meta)",
+      "points": 1
+    }
+  ],
+  "duration_minutes": 5,
+  "total_points": 18,
+  "created_by": "2f7e9b12-67bc-48ab-b127-18a9b0eb0e98",
+  "created_at": "2025-08-22T03:21:40.443695",
+  "status": "completed",
+  "assigned_students": [
+    "58c45955-8201-4056-aa5d-97799252bdb3"
+  ],
+  "approved_students": [
+    "58c45955-8201-4056-aa5d-97799252bdb3"
+  ]
+}

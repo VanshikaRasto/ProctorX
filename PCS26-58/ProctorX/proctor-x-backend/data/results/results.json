@@ -1,0 +1,578 @@
+{
+  "c69d5277-1c15-4fd4-b597-503c12000729": {
+    "id": "c69d5277-1c15-4fd4-b597-503c12000729",
+    "exam_id": "exam_20260314_010054",
+    "student_id": "e65e91e9-0ac2-4a20-ae29-62d302d89f34",
+    "submission_id": "ca836584-a6b4-468e-918b-a82299029ff3",
+    "question_results": [
+      {
+        "question_id": "q1",
+        "student_answer": "",
+        "correct_answer": "Central Processing Unit",
+        "points_awarded": 0,
+        "max_points": 2,
+        "is_correct": false
+      },
+      {
+        "question_id": "q2",
+        "student_answer": "",
+        "correct_answer": "JavaScript",
+        "points_awarded": 0,
+        "max_points": 2,
+        "is_correct": false
+      },
+      {
+        "question_id": "q3",
+        "student_answer": "",
+        "correct_answer": "Temporary memory for running programs",
+        "points_awarded": 0,
+        "max_points": 2,
+        "is_correct": false
+      },
+      {
+        "question_id": "q4",
+        "student_answer": "",
+        "correct_answer": "Python",
+        "points_awarded": 0,
+        "max_points": 2,
+        "is_correct": false
+      },
+      {
+        "question_id": "q5",
+        "student_answer": "",
+        "correct_answer": "Hyper Text Markup Language",
+        "points_awarded": 0,
+        "max_points": 2,
+        "is_correct": false
+      },
+      {
+        "question_id": "q6",
+        "student_answer": "",
+        "correct_answer": "Stack",
+        "points_awarded": 0,
+        "max_points": 2,
+        "is_correct": false
+      },
+      {
+        "question_id": "q7",
+        "student_answer": "",
+        "correct_answer": "1010",
+        "points_awarded": 0,
+        "max_points": 2,
+        "is_correct": false
+      },
+      {
+        "question_id": "q8",
+        "student_answer": "",
+        "correct_answer": "Hardware Programming",
+        "points_awarded": 0,
+        "max_points": 2,
+        "is_correct": false
+      },
+      {
+        "question_id": "q9",
+        "student_answer": "",
+        "correct_answer": "To manage computer hardware and software resources",
+        "points_awarded": 0,
+        "max_points": 2,
+        "is_correct": false
+      },
+      {
+        "question_id": "q10",
+        "student_answer": "",
+        "correct_answer": "#",
+        "points_awarded": 0,
+        "max_points": 2,
+        "is_correct": false
+      }
+    ],
+    "total_score": 0,
+    "max_score": 20,
+    "percentage": 0.0,
+    "grade": null,
+    "evaluated_at": "2026-03-14 01:09:04.064201",
+    "evaluated_by": "system",
+    "released": true,
+    "released_at": "2026-03-14T01:11:27.826384"
+  },
+  "04a3ee67-52e2-40fd-9cf2-10696318edfe": {
+    "id": "04a3ee67-52e2-40fd-9cf2-10696318edfe",
+    "exam_id": "exam_20260314_010054",
+    "student_id": "69e743f9-60fb-4c11-a907-c83357618dbf",
+    "submission_id": "d52590d8-4b57-4cb1-8e14-656ed4b9548c",
+    "question_results": [
+      {
+        "question_id": "q1",
+        "student_answer": "Central Processing Unit",
+        "correct_answer": "Central Processing Unit",
+        "points_awarded": 2,
+        "max_points": 2,
+        "is_correct": true
+      },
+      {
+        "question_id": "q2",
+        "student_answer": "JavaScript",
+        "correct_answer": "JavaScript",
+        "points_awarded": 2,
+        "max_points": 2,
+        "is_correct": true
+      },
+      {
+        "question_id": "q3",
+        "student_answer": "Temporary memory for running programs",
+        "correct_answer": "Temporary memory for running programs",
+        "points_awarded": 2,
+        "max_points": 2,
+        "is_correct": true
+      },
+      {
+        "question_id": "q4",
+        "student_answer": "Python",
+        "correct_answer": "Python",
+        "points_awarded": 2,
+        "max_points": 2,
+        "is_correct": true
+      },
+      {
+        "question_id": "q5",
+        "student_answer": "Hyper Text Markup Language",
+        "correct_answer": "Hyper Text Markup Language",
+        "points_awarded": 2,
+        "max_points": 2,
+        "is_correct": true
+      },
+      {
+        "question_id": "q6",
+        "student_answer": "Queue",
+        "correct_answer": "Stack",
+        "points_awarded": 0,
+        "max_points": 2,
+        "is_correct": false
+      },
+      {
+        "question_id": "q7",
+        "student_answer": "1010",
+        "correct_answer": "1010",
+        "points_awarded": 2,
+        "max_points": 2,
+        "is_correct": true
+      },
+      {
+        "question_id": "q8",
+        "student_answer": "Hardware Programming",
+        "correct_answer": "Hardware Programming",
+        "points_awarded": 2,
+        "max_points": 2,
+        "is_correct": true
+      },
+      {
+        "question_id": "q9",
+        "student_answer": "To manage computer hardware and software resources",
+        "correct_answer": "To manage computer hardware and software resources",
+        "points_awarded": 2,
+        "max_points": 2,
+        "is_correct": true
+      },
+      {
+        "question_id": "q10",
+        "student_answer": "#",
+        "correct_answer": "#",
+        "points_awarded": 2,
+        "max_points": 2,
+        "is_correct": true
+      }
+    ],
+    "total_score": 18,
+    "max_score": 20,
+    "percentage": 90.0,
+    "grade": null,
+    "evaluated_at": "2026-03-14 01:11:22.592539",
+    "evaluated_by": "system",
+    "released": true,
+    "released_at": "2026-03-14T01:11:26.895253"
+  },
+  "f5534db3-113d-4941-a0b6-e45471384856": {
+    "id": "f5534db3-113d-4941-a0b6-e45471384856",
+    "exam_id": "exam_20260314_075020",
+    "student_id": "aaf6bffb-beda-4524-8445-3c90d5c69d65",
+    "submission_id": "06567942-0cec-48c5-905b-a8052caf55c5",
+    "question_results": [
+      {
+        "question_id": "q1",
+        "student_answer": "Computer Personal Unit",
+        "correct_answer": "Central Processing Unit",
+        "points_awarded": 0,
+        "max_points": 2,
+        "is_correct": false
+      },
+      {
+        "question_id": "q2",
+        "student_answer": "C++",
+        "correct_answer": "JavaScript",
+        "points_awarded": 0,
+        "max_points": 2,
+        "is_correct": false
+      },
+      {
+        "question_id": "q3",
+        "student_answer": "Temporary memory for running programs",
+        "correct_answer": "Temporary memory for running programs",
+        "points_awarded": 2,
+        "max_points": 2,
+        "is_correct": true
+      },
+      {
+        "question_id": "q4",
+        "student_answer": "Machine Code",
+        "correct_answer": "Python",
+        "points_awarded": 0,
+        "max_points": 2,
+        "is_correct": false
+      },
+      {
+        "question_id": "q5",
+        "student_answer": "High Tech Modern Language",
+        "correct_answer": "Hyper Text Markup Language",
+        "points_awarded": 0,
+        "max_points": 2,
+        "is_correct": false
+      },
+      {
+        "question_id": "q6",
+        "student_answer": "",
+        "correct_answer": "Stack",
+        "points_awarded": 0,
+        "max_points": 2,
+        "is_correct": false
+      },
+      {
+        "question_id": "q7",
+        "student_answer": "",
+        "correct_answer": "1010",
+        "points_awarded": 0,
+        "max_points": 2,
+        "is_correct": false
+      },
+      {
+        "question_id": "q8",
+        "student_answer": "",
+        "correct_answer": "Hardware Programming",
+        "points_awarded": 0,
+        "max_points": 2,
+        "is_correct": false
+      },
+      {
+        "question_id": "q9",
+        "student_answer": "",
+        "correct_answer": "To manage computer hardware and software resources",
+        "points_awarded": 0,
+        "max_points": 2,
+        "is_correct": false
+      },
+      {
+        "question_id": "q10",
+        "student_answer": "",
+        "correct_answer": "#",
+        "points_awarded": 0,
+        "max_points": 2,
+        "is_correct": false
+      }
+    ],
+    "total_score": 2,
+    "max_score": 20,
+    "percentage": 10.0,
+    "grade": null,
+    "evaluated_at": "2026-03-14 08:02:11.494725",
+    "evaluated_by": "system",
+    "released": true,
+    "released_at": "2026-03-14T08:02:23.002627"
+  },
+  "de4d64e2-3345-440d-97ba-489ef0421ab6": {
+    "id": "de4d64e2-3345-440d-97ba-489ef0421ab6",
+    "exam_id": "exam_20260314_075020",
+    "student_id": "bdfe80ab-3c55-4acd-97a9-b93c9cacaae7",
+    "submission_id": "6badb850-d9de-4640-bc30-c3f7f3272bf1",
+    "question_results": [
+      {
+        "question_id": "q1",
+        "student_answer": "",
+        "correct_answer": "Central Processing Unit",
+        "points_awarded": 0,
+        "max_points": 2,
+        "is_correct": false
+      },
+      {
+        "question_id": "q2",
+        "student_answer": "",
+        "correct_answer": "JavaScript",
+        "points_awarded": 0,
+        "max_points": 2,
+        "is_correct": false
+      },
+      {
+        "question_id": "q3",
+        "student_answer": "",
+        "correct_answer": "Temporary memory for running programs",
+        "points_awarded": 0,
+        "max_points": 2,
+        "is_correct": false
+      },
+      {
+        "question_id": "q4",
+        "student_answer": "",
+        "correct_answer": "Python",
+        "points_awarded": 0,
+        "max_points": 2,
+        "is_correct": false
+      },
+      {
+        "question_id": "q5",
+        "student_answer": "",
+        "correct_answer": "Hyper Text Markup Language",
+        "points_awarded": 0,
+        "max_points": 2,
+        "is_correct": false
+      },
+      {
+        "question_id": "q6",
+        "student_answer": "",
+        "correct_answer": "Stack",
+        "points_awarded": 0,
+        "max_points": 2,
+        "is_correct": false
+      },
+      {
+        "question_id": "q7",
+        "student_answer": "",
+        "correct_answer": "1010",
+        "points_awarded": 0,
+        "max_points": 2,
+        "is_correct": false
+      },
+      {
+        "question_id": "q8",
+        "student_answer": "",
+        "correct_answer": "Hardware Programming",
+        "points_awarded": 0,
+        "max_points": 2,
+        "is_correct": false
+      },
+      {
+        "question_id": "q9",
+        "student_answer": "",
+        "correct_answer": "To manage computer hardware and software resources",
+        "points_awarded": 0,
+        "max_points": 2,
+        "is_correct": false
+      },
+      {
+        "question_id": "q10",
+        "student_answer": "",
+        "correct_answer": "#",
+        "points_awarded": 0,
+        "max_points": 2,
+        "is_correct": false
+      }
+    ],
+    "total_score": 0,
+    "max_score": 20,
+    "percentage": 0.0,
+    "grade": null,
+    "evaluated_at": "2026-03-14 08:08:43.069964",
+    "evaluated_by": "system",
+    "released": true,
+    "released_at": "2026-03-14T08:09:07.539110"
+  },
+  "1b9f9f45-2a0b-4e40-8ca4-ef82fb3fa4f7": {
+    "id": "1b9f9f45-2a0b-4e40-8ca4-ef82fb3fa4f7",
+    "exam_id": "exam_20260316_160624",
+    "student_id": "aaf6bffb-beda-4524-8445-3c90d5c69d65",
+    "submission_id": "1644a7a0-21f4-4900-ac3a-0ff468e42b86",
+    "question_results": [
+      {
+        "question_id": "q1",
+        "student_answer": "",
+        "correct_answer": "Central Processing Unit",
+        "points_awarded": 0,
+        "max_points": 2,
+        "is_correct": false
+      },
+      {
+        "question_id": "q2",
+        "student_answer": "",
+        "correct_answer": "JavaScript",
+        "points_awarded": 0,
+        "max_points": 2,
+        "is_correct": false
+      },
+      {
+        "question_id": "q3",
+        "student_answer": "",
+        "correct_answer": "Temporary memory for running programs",
+        "points_awarded": 0,
+        "max_points": 2,
+        "is_correct": false
+      },
+      {
+        "question_id": "q4",
+        "student_answer": "",
+        "correct_answer": "Python",
+        "points_awarded": 0,
+        "max_points": 2,
+        "is_correct": false
+      },
+      {
+        "question_id": "q5",
+        "student_answer": "",
+        "correct_answer": "Hyper Text Markup Language",
+        "points_awarded": 0,
+        "max_points": 2,
+        "is_correct": false
+      },
+      {
+        "question_id": "q6",
+        "student_answer": "",
+        "correct_answer": "Stack",
+        "points_awarded": 0,
+        "max_points": 2,
+        "is_correct": false
+      },
+      {
+        "question_id": "q7",
+        "student_answer": "",
+        "correct_answer": "1010",
+        "points_awarded": 0,
+        "max_points": 2,
+        "is_correct": false
+      },
+      {
+        "question_id": "q8",
+        "student_answer": "",
+        "correct_answer": "Hardware Programming",
+        "points_awarded": 0,
+        "max_points": 2,
+        "is_correct": false
+      },
+      {
+        "question_id": "q9",
+        "student_answer": "",
+        "correct_answer": "To manage computer hardware and software resources",
+        "points_awarded": 0,
+        "max_points": 2,
+        "is_correct": false
+      },
+      {
+        "question_id": "q10",
+        "student_answer": "",
+        "correct_answer": "#",
+        "points_awarded": 0,
+        "max_points": 2,
+        "is_correct": false
+      }
+    ],
+    "total_score": 0,
+    "max_score": 20,
+    "percentage": 0.0,
+    "grade": null,
+    "evaluated_at": "2026-03-16 16:10:26.230212",
+    "evaluated_by": "system",
+    "released": true,
+    "released_at": "2026-03-16T16:10:48.883408"
+  },
+  "ffb46eba-6414-4b2c-98f4-22f520228070": {
+    "id": "ffb46eba-6414-4b2c-98f4-22f520228070",
+    "exam_id": "exam_20260330_175845",
+    "student_id": "aaf6bffb-beda-4524-8445-3c90d5c69d65",
+    "submission_id": "8add998f-a330-4c3d-adc4-b9269aeb004c",
+    "question_results": [
+      {
+        "question_id": "q1",
+        "student_answer": "",
+        "correct_answer": "Central Processing Unit",
+        "points_awarded": 0,
+        "max_points": 2,
+        "is_correct": false
+      },
+      {
+        "question_id": "q2",
+        "student_answer": "",
+        "correct_answer": "JavaScript",
+        "points_awarded": 0,
+        "max_points": 2,
+        "is_correct": false
+      },
+      {
+        "question_id": "q3",
+        "student_answer": "",
+        "correct_answer": "Temporary memory for running programs",
+        "points_awarded": 0,
+        "max_points": 2,
+        "is_correct": false
+      },
+      {
+        "question_id": "q4",
+        "student_answer": "",
+        "correct_answer": "Python",
+        "points_awarded": 0,
+        "max_points": 2,
+        "is_correct": false
+      },
+      {
+        "question_id": "q5",
+        "student_answer": "",
+        "correct_answer": "Hyper Text Markup Language",
+        "points_awarded": 0,
+        "max_points": 2,
+        "is_correct": false
+      },
+      {
+        "question_id": "q6",
+        "student_answer": "",
+        "correct_answer": "Stack",
+        "points_awarded": 0,
+        "max_points": 2,
+        "is_correct": false
+      },
+      {
+        "question_id": "q7",
+        "student_answer": "",
+        "correct_answer": "1010",
+        "points_awarded": 0,
+        "max_points": 2,
+        "is_correct": false
+      },
+      {
+        "question_id": "q8",
+        "student_answer": "",
+        "correct_answer": "Hardware Programming",
+        "points_awarded": 0,
+        "max_points": 2,
+        "is_correct": false
+      },
+      {
+        "question_id": "q9",
+        "student_answer": "",
+        "correct_answer": "To manage computer hardware and software resources",
+        "points_awarded": 0,
+        "max_points": 2,
+        "is_correct": false
+      },
+      {
+        "question_id": "q10",
+        "student_answer": "",
+        "correct_answer": "#",
+        "points_awarded": 0,
+        "max_points": 2,
+        "is_correct": false
+      }
+    ],
+    "total_score": 0,
+    "max_score": 20,
+    "percentage": 0.0,
+    "grade": null,
+    "evaluated_at": "2026-03-30 18:01:27.044806",
+    "evaluated_by": "system",
+    "released": true,
+    "released_at": "2026-03-30T18:01:33.998188"
+  }
+}

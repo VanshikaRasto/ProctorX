@@ -1,0 +1,15 @@
+[
+  {
+    "id": "dea89ef2-b2e6-48f6-bccd-13cfa67add19",
+    "exam_id": "exam_20260205_233038",
+    "student_id": "1ce39083-b63d-4043-867d-9f50d652802f",
+    "examiner_id": "a39546ee-0f12-4eff-b9a1-98c0a3bf211b",
+    "type": "exam_auto_revoked",
+    "message": "Exam exam_20260205_233038 automatically revoked for student 1ce39083-b63d-4043-867d-9f50d652802f: Phone detection threshold exceeded: 4 detections",
+    "violation_id": "12ac6a5f-6916-4882-9541-b4264459fe1c",
+    "timestamp": "2026-03-14T00:46:53.284808",
+    "severity": "critical",
+    "auto_revocation": true,
+    "revocation_reason": "Phone detection threshold exceeded: 4 detections"
+  }
+]
